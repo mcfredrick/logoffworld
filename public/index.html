@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="A daily human check-in. One prompt. Two choices. No algorithms.">
+  <title>People Over Tech</title>
+  <link rel="stylesheet" href="/css/style.css">
+  <!-- Plausible: data-domain updated after custom domain is live -->
+  <script defer data-domain="peopleovertech.pages.dev" src="https://traffic.dayjob.dev/js/script.js"></script>
+</head>
+<body>
+  <main>
+    <div class="card">
+      <header class="prompt-header">
+        <p class="date" id="today-date"></p>
+        <h1 class="prompt" id="daily-prompt">Loading today's prompt…</h1>
+      </header>
+
+      <section class="vote" aria-label="Cast your vote">
+        <button class="btn btn-connection" id="btn-connection" aria-label="Vote: Connection">
+          <span class="btn-emoji" aria-hidden="true">☁️</span>
+          <span class="btn-label" id="connection-phrase">I found my sky today</span>
+        </button>
+        <button class="btn btn-rebel" id="btn-rebel" aria-label="Vote: Rebellion">
+          <span class="btn-emoji" aria-hidden="true">🥁</span>
+          <span class="btn-label" id="rebel-phrase">I marched to my own drum</span>
+        </button>
+      </section>
+
+      <section class="counter" aria-live="polite" aria-label="Live participation count">
+        <p class="counter-label">joined today</p>
+        <p class="counter-total" id="counter-total">—</p>
+        <div class="counter-split">
+          <span id="counter-connection">☁️ —</span>
+          <span id="counter-rebel">🥁 —</span>
+        </div>
+      </section>
+
+      <p class="voted-message" id="voted-message" hidden>
+        You've already paused today. Come back tomorrow.
+      </p>
+    </div>
+  </main>
+
+  <footer>
+    <div class="charity-banner" id="charity-banner"></div>
+    <nav class="footer-links">
+      <a href="#submit-prompt">Suggest a prompt</a>
+      <a href="#donate">Support the movement</a>
+    </nav>
+    <p class="analytics-notice">
+      We use <a href="https://plausible.io/privacy" rel="noopener noreferrer">Plausible Analytics</a>.
+      No cookies. No tracking.
+    </p>
+  </footer>
+
+  <script src="/js/pulse.js"></script>
+  <script src="/js/main.js"></script>
+</body>
+</html>
