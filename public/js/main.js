@@ -144,8 +144,8 @@ async function handleVote(choice) {
   }
 }
 
-function onPulse(data) {
-  updateCounters(data);
+function onPulse() {
+  loadStats();
 }
 
 async function init() {
