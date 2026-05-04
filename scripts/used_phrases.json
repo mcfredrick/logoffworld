@@ -1,1 +1,46 @@
-{"connection": [], "rebel": []}
+{
+  "connection": [
+    {
+      "text": "I let the silence hold me",
+      "date": "2026-05-04"
+    },
+    {
+      "text": "I touched the edge of now",
+      "date": "2026-05-04"
+    },
+    {
+      "text": "I met kindness in the rain",
+      "date": "2026-05-04"
+    },
+    {
+      "text": "I followed a distant song",
+      "date": "2026-05-04"
+    },
+    {
+      "text": "I felt the world exhale",
+      "date": "2026-05-04"
+    }
+  ],
+  "rebel": [
+    {
+      "text": "I deleted the feed, stayed unbothered",
+      "date": "2026-05-04"
+    },
+    {
+      "text": "Silenced my phone, found my own way",
+      "date": "2026-05-04"
+    },
+    {
+      "text": "I traded screens for stars",
+      "date": "2026-05-04"
+    },
+    {
+      "text": "Dropped the algorithm like a bad habit",
+      "date": "2026-05-04"
+    },
+    {
+      "text": "I chose silence over the feed",
+      "date": "2026-05-04"
+    }
+  ]
+}
