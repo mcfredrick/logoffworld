@@ -1,1 +1,22 @@
-[]
+[
+  { "id": "p001", "text": "Go outside and consider a cloud.", "date_added": "2026-05-04" },
+  { "id": "p002", "text": "Call someone you haven't spoken to in over a year.", "date_added": "2026-05-04" },
+  { "id": "p003", "text": "Eat one meal today without looking at a screen.", "date_added": "2026-05-04" },
+  { "id": "p004", "text": "Notice something beautiful that nobody designed.", "date_added": "2026-05-04" },
+  { "id": "p005", "text": "Leave your phone in another room for one hour.", "date_added": "2026-05-04" },
+  { "id": "p006", "text": "Write a letter you may never send.", "date_added": "2026-05-04" },
+  { "id": "p007", "text": "Ask someone how they're really doing and wait for the answer.", "date_added": "2026-05-04" },
+  { "id": "p008", "text": "Sit somewhere unfamiliar and let yourself be still.", "date_added": "2026-05-04" },
+  { "id": "p009", "text": "Watch the light change on a wall for five minutes.", "date_added": "2026-05-04" },
+  { "id": "p010", "text": "Say thank you to someone who wouldn't expect it.", "date_added": "2026-05-04" },
+  { "id": "p011", "text": "Find a tree and stand near it for a while.", "date_added": "2026-05-04" },
+  { "id": "p012", "text": "Let a conversation end without reaching for your phone.", "date_added": "2026-05-04" },
+  { "id": "p013", "text": "Cook something simple from scratch today.", "date_added": "2026-05-04" },
+  { "id": "p014", "text": "Notice what your hands have made or touched today.", "date_added": "2026-05-04" },
+  { "id": "p015", "text": "Listen to one piece of music all the way through.", "date_added": "2026-05-04" },
+  { "id": "p016", "text": "Walk a route you've never taken before.", "date_added": "2026-05-04" },
+  { "id": "p017", "text": "Spend ten minutes doing absolutely nothing.", "date_added": "2026-05-04" },
+  { "id": "p018", "text": "Look at the sky once at dawn and once at dusk.", "date_added": "2026-05-04" },
+  { "id": "p019", "text": "Tell someone nearby one true thing about your day.", "date_added": "2026-05-04" },
+  { "id": "p020", "text": "Read something printed on paper today.", "date_added": "2026-05-04" }
+]

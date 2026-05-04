@@ -1,1 +1,46 @@
-{"connection": [], "rebel": []}
+{
+  "connection": [
+    { "id": "c001", "text": "I found my sky today" },
+    { "id": "c002", "text": "I listened to the wind" },
+    { "id": "c003", "text": "I remembered I am not alone" },
+    { "id": "c004", "text": "I let someone in" },
+    { "id": "c005", "text": "I felt the ground beneath me" },
+    { "id": "c006", "text": "I saw myself in a stranger" },
+    { "id": "c007", "text": "I was held by the quiet" },
+    { "id": "c008", "text": "I stayed present for someone" },
+    { "id": "c009", "text": "I gave without keeping score" },
+    { "id": "c010", "text": "I felt part of something old" },
+    { "id": "c011", "text": "I let the rain remind me" },
+    { "id": "c012", "text": "I heard what wasn't said" },
+    { "id": "c013", "text": "I touched the real world today" },
+    { "id": "c014", "text": "I was moved by something small" },
+    { "id": "c015", "text": "I carried someone with me" },
+    { "id": "c016", "text": "I sat with another person's grief" },
+    { "id": "c017", "text": "I looked someone in the eye" },
+    { "id": "c018", "text": "I felt the warmth of someone near" },
+    { "id": "c019", "text": "I let myself be known" },
+    { "id": "c020", "text": "I belonged somewhere today" }
+  ],
+  "rebel": [
+    { "id": "r001", "text": "I marched to my own drum" },
+    { "id": "r002", "text": "I chose a different quiet" },
+    { "id": "r003", "text": "I refused the scroll" },
+    { "id": "r004", "text": "I moved at my own pace" },
+    { "id": "r005", "text": "I said no without explaining" },
+    { "id": "r006", "text": "I turned the notifications off" },
+    { "id": "r007", "text": "I made something no one asked for" },
+    { "id": "r008", "text": "I followed the long way home" },
+    { "id": "r009", "text": "I ate when I was hungry" },
+    { "id": "r010", "text": "I put the algorithm down" },
+    { "id": "r011", "text": "I ignored the trending thing" },
+    { "id": "r012", "text": "I chose boredom on purpose" },
+    { "id": "r013", "text": "I did it the slow way" },
+    { "id": "r014", "text": "I trusted my own instincts today" },
+    { "id": "r015", "text": "I stayed off the grid awhile" },
+    { "id": "r016", "text": "I left the group chat on mute" },
+    { "id": "r017", "text": "I decided without asking the internet" },
+    { "id": "r018", "text": "I held my own company" },
+    { "id": "r019", "text": "I reclaimed one quiet hour" },
+    { "id": "r020", "text": "I was unreachable and fine" }
+  ]
+}
