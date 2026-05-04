@@ -60,7 +60,7 @@ main {
   padding: var(--space-lg) var(--space-md);
   display: flex;
   flex-direction: column;
-  gap: var(--space-lg);
+  gap: var(--space-md);
 }
 
 .prompt-header {
@@ -104,7 +104,6 @@ main {
   font-weight: 600;
   cursor: pointer;
   transition: background 0.15s ease, border-color 0.15s ease, color 0.15s ease, opacity 0.15s ease;
-  white-space: nowrap;
 }
 
 .btn-emoji {
@@ -171,7 +170,7 @@ main {
 }
 
 .counter-total {
-  font-size: clamp(2.5rem, 8vw, 4rem);
+  font-size: clamp(1.75rem, 6vw, 3rem);
   font-weight: 700;
   line-height: 1;
   color: var(--text-primary);
@@ -281,6 +280,10 @@ footer {
 }
 
 @media (min-width: 768px) {
+  main {
+    padding: var(--space-lg) var(--space-md);
+  }
+
   .vote {
     flex-direction: row;
   }
@@ -290,6 +293,6 @@ footer {
   }
 
   .card {
-    padding: var(--space-xl) var(--space-lg);
+    padding: var(--space-lg) var(--space-lg);
   }
 }
