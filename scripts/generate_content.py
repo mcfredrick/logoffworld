@@ -2,6 +2,7 @@ import difflib
 import json
 import os
 import sys
+import time
 from datetime import date, datetime, timedelta
 from pathlib import Path
 
@@ -101,15 +102,13 @@ def _parse_json_array(text: str) -> list:
     return json.loads(text[start:end])
 
 
-def call_api(api_key, model, system_message, user_message):
+def call_api(api_key, candidates, system_message, user_message):
     headers = {
         "Authorization": f"Bearer {api_key}",
         "Content-Type": "application/json",
         "HTTP-Referer": "https://peopleovertech.pages.dev",
         "X-Title": "People Over Tech",
     }
-
-    candidates = build_candidate_list(model)
 
     for candidate in candidates:
         for messages in [
@@ -124,6 +123,10 @@ def call_api(api_key, model, system_message, user_message):
             )
             if response.status_code == 400:
                 continue
+            if response.status_code == 429:
+                print(f"WARNING: rate limited on {candidate}, trying next")
+                time.sleep(5)
+                break
             response.raise_for_status()
             content = response.json()["choices"][0]["message"]["content"].strip()
             return _parse_json_array(content)
@@ -142,11 +145,11 @@ def next_id(prefix, existing_ids):
     return max(nums, default=0) + 1
 
 
-def generate_prompts(api_key, model, used_prompts):
+def generate_prompts(api_key, candidates, used_prompts):
     try:
         raw = call_api(
             api_key,
-            model,
+            candidates,
             PROMPT_SYSTEM,
             "Generate 5 new daily prompts. Return ONLY a JSON array of strings, no explanation. Example: [\"prompt 1\", \"prompt 2\"]",
         )
@@ -171,11 +174,11 @@ def generate_prompts(api_key, model, used_prompts):
     return accepted, rejected
 
 
-def generate_phrases(api_key, model, category, system_msg, used_phrases):
+def generate_phrases(api_key, candidates, category, system_msg, used_phrases):
     try:
         raw = call_api(
             api_key,
-            model,
+            candidates,
             system_msg,
             f"Generate 5 new {category} phrases. Return ONLY a JSON array of strings, no explanation.",
         )
@@ -208,7 +211,8 @@ def main():
 
     try:
         model = get_best_model()
-        print(f"Using model: {model}")
+        candidates = build_candidate_list(model)
+        print(f"Using model: {model} ({len(candidates)} candidates)")
     except Exception as e:
         print(f"ERROR: could not select model: {e}")
         sys.exit(1)
@@ -218,9 +222,11 @@ def main():
     used_connection = prune_used(used_phrases_data["connection"])
     used_rebel = prune_used(used_phrases_data["rebel"])
 
-    new_prompts, rejected_prompts = generate_prompts(api_key, model, used_prompts)
-    new_connection, rejected_connection = generate_phrases(api_key, model, "connection", CONNECTION_SYSTEM, used_connection)
-    new_rebel, rejected_rebel = generate_phrases(api_key, model, "rebel", REBEL_SYSTEM, used_rebel)
+    new_prompts, rejected_prompts = generate_prompts(api_key, candidates, used_prompts)
+    time.sleep(3)
+    new_connection, rejected_connection = generate_phrases(api_key, candidates, "connection", CONNECTION_SYSTEM, used_connection)
+    time.sleep(3)
+    new_rebel, rejected_rebel = generate_phrases(api_key, candidates, "rebel", REBEL_SYSTEM, used_rebel)
 
     prompts_data = load_json(PROMPTS_FILE)
     next_p = next_id("p", [p["id"] for p in prompts_data])
