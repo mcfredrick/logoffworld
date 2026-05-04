@@ -1,28 +1,67 @@
-import requests
+import os
+import re
+import sys
 
-PREFERRED_MODELS = [
-    "mistralai/mistral-7b-instruct:free",
-    "google/gemma-2-9b-it:free",
-    "meta-llama/llama-3-8b-instruct:free",
+import httpx
+
+FALLBACK_MODEL = "meta-llama/llama-3.3-70b-instruct:free"
+
+WRITING_QUALITY_TIERS = [
+    "gemini-2",
+    "deepseek-r1",
+    "llama-3.3-70b",
+    "llama-3.1-70b",
+    "qwen",
+    "mistral-large",
 ]
 
 
-def get_best_model(api_key: str) -> str:
-    response = requests.get(
-        "https://openrouter.ai/api/v1/models",
-        headers={"Authorization": f"Bearer {api_key}"},
-        timeout=15,
-    )
-    response.raise_for_status()
+def fetch_free_models() -> list[dict]:
+    try:
+        response = httpx.get(
+            "https://openrouter.ai/api/v1/models",
+            timeout=15,
+            headers={"Authorization": f"Bearer {os.environ['OPENROUTER_API_KEY']}"},
+        )
+        response.raise_for_status()
+        models = response.json().get("data", [])
+        return [
+            m for m in models
+            if str(m.get("pricing", {}).get("prompt", "1")) == "0"
+            and m.get("architecture", {}).get("modality", "") == "text->text"
+        ]
+    except Exception as e:
+        print(f"Warning: failed to fetch models: {e}", file=sys.stderr)
+        return []
 
-    models = response.json().get("data", [])
-    free_ids = {m["id"] for m in models if m["id"].endswith(":free")}
 
-    for model_id in PREFERRED_MODELS:
-        if model_id in free_ids:
-            return model_id
+def parse_param_count(model_id: str) -> int:
+    matches = re.findall(r'(\d+)b(?![a-z])', model_id.lower())
+    return max((int(n) for n in matches), default=0)
 
-    if free_ids:
-        return next(iter(free_ids))
 
-    raise RuntimeError("No free models available on OpenRouter")
+def pick_writing_model(free_models: list[dict]) -> str:
+    if not free_models:
+        return FALLBACK_MODEL
+    for tier_keyword in WRITING_QUALITY_TIERS:
+        matches = [m for m in free_models if tier_keyword in m["id"].lower()]
+        if matches:
+            return max(matches, key=lambda m: parse_param_count(m["id"]))["id"]
+    ranked = sorted(free_models, key=lambda m: m.get("context_length", 0), reverse=True)
+    return ranked[0]["id"]
+
+
+def build_candidate_list(preferred: str) -> list[str]:
+    live_ids = [m["id"] for m in fetch_free_models()]
+    seen: set[str] = set()
+    candidates: list[str] = []
+    for m in [preferred] + live_ids:
+        if m not in seen:
+            seen.add(m)
+            candidates.append(m)
+    return candidates
+
+
+def get_best_model() -> str:
+    free_models = fetch_free_models()
+    return pick_writing_model(free_models)

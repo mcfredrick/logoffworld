@@ -5,9 +5,9 @@ import sys
 from datetime import date, datetime, timedelta
 from pathlib import Path
 
-import requests
+import httpx
 
-from model_selector import get_best_model
+from model_selector import get_best_model, build_candidate_list
 
 SCRIPT_DIR = Path(__file__).parent
 DATA_DIR = SCRIPT_DIR / "../public/data"
@@ -93,6 +93,14 @@ def is_valid_phrase(text):
     return True, None
 
 
+def _parse_json_array(text: str) -> list:
+    start = text.find("[")
+    end = text.rfind("]") + 1
+    if start == -1 or end == 0:
+        raise ValueError(f"No JSON array found in response: {text[:200]}")
+    return json.loads(text[start:end])
+
+
 def call_api(api_key, model, system_message, user_message):
     headers = {
         "Authorization": f"Bearer {api_key}",
@@ -100,21 +108,27 @@ def call_api(api_key, model, system_message, user_message):
         "HTTP-Referer": "https://peopleovertech.pages.dev",
         "X-Title": "People Over Tech",
     }
-    payload = {
-        "model": model,
-        "messages": [
-            {"role": "system", "content": system_message},
-            {"role": "user", "content": user_message},
-        ],
-    }
-    response = requests.post(OPENROUTER_URL, headers=headers, json=payload, timeout=30)
-    response.raise_for_status()
-    content = response.json()["choices"][0]["message"]["content"].strip()
-    start = content.find("[")
-    end = content.rfind("]") + 1
-    if start == -1 or end == 0:
-        raise ValueError(f"No JSON array found in response: {content[:200]}")
-    return json.loads(content[start:end])
+
+    candidates = build_candidate_list(model)
+
+    for candidate in candidates:
+        for messages in [
+            [{"role": "system", "content": system_message}, {"role": "user", "content": user_message}],
+            [{"role": "user", "content": f"{system_message}\n\n{user_message}"}],
+        ]:
+            response = httpx.post(
+                OPENROUTER_URL,
+                headers=headers,
+                json={"model": candidate, "messages": messages},
+                timeout=30,
+            )
+            if response.status_code == 400:
+                continue
+            response.raise_for_status()
+            content = response.json()["choices"][0]["message"]["content"].strip()
+            return _parse_json_array(content)
+
+    raise RuntimeError("All candidate models failed")
 
 
 def next_id(prefix, existing_ids):
@@ -193,7 +207,7 @@ def main():
         sys.exit(1)
 
     try:
-        model = get_best_model(api_key)
+        model = get_best_model()
         print(f"Using model: {model}")
     except Exception as e:
         print(f"ERROR: could not select model: {e}")
