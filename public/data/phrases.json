@@ -99,6 +99,26 @@
     {
       "id": "c025",
       "text": "I felt the world exhale"
+    },
+    {
+      "id": "c026",
+      "text": "I shared someone's morning smile"
+    },
+    {
+      "id": "c027",
+      "text": "I held the world responsibly today"
+    },
+    {
+      "id": "c028",
+      "text": "I carried quiet grace with me"
+    },
+    {
+      "id": "c029",
+      "text": "I heard unspoken understanding again"
+    },
+    {
+      "id": "c030",
+      "text": "I noticed warmth without judgment"
     }
   ],
   "rebel": [
@@ -201,6 +221,26 @@
     {
       "id": "r025",
       "text": "I chose silence over the feed"
+    },
+    {
+      "id": "r026",
+      "text": "I logged off on purpose"
+    },
+    {
+      "id": "r027",
+      "text": "I chose the slower path"
+    },
+    {
+      "id": "r028",
+      "text": "I breathed without the feed"
+    },
+    {
+      "id": "r029",
+      "text": "I wrote it by hand"
+    },
+    {
+      "id": "r030",
+      "text": "I was gloriously offline"
     }
   ]
 }
