@@ -194,6 +194,95 @@ main {
   color: var(--text-primary);
 }
 
+.share-section {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-sm);
+}
+
+.share-section[hidden] {
+  display: none;
+}
+
+.brag-card {
+  background: linear-gradient(135deg, var(--connection-bg) 0%, var(--rebel-bg) 100%);
+  border: 1px solid #1e3a4a;
+  border-radius: var(--radius);
+  padding: var(--space-md);
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.brag-date {
+  font-size: 0.75rem;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-weight: 500;
+}
+
+.brag-prompt {
+  font-size: 0.9375rem;
+  font-weight: 600;
+  color: var(--text-primary);
+}
+
+.brag-phrase {
+  font-size: 1.125rem;
+  font-style: italic;
+  color: var(--connection-hover);
+}
+
+.brag-count {
+  font-size: 0.8125rem;
+  color: var(--text-secondary);
+}
+
+.brag-site {
+  font-size: 0.75rem;
+  color: var(--text-muted);
+  letter-spacing: 0.05em;
+}
+
+.share-buttons {
+  display: flex;
+  justify-content: center;
+  gap: var(--space-sm);
+}
+
+.btn-share {
+  min-height: 44px;
+  padding: 0 var(--space-md);
+  border-radius: var(--radius-sm);
+  font-size: 0.9375rem;
+  font-weight: 600;
+  cursor: pointer;
+  border: 1.5px solid transparent;
+  transition: opacity 0.15s ease, background 0.15s ease;
+}
+
+.btn-share:hover {
+  opacity: 0.85;
+}
+
+.btn-share-twitter {
+  background: #1DA1F2;
+  color: #fff;
+  border-color: #1DA1F2;
+}
+
+.btn-share-copy {
+  background: var(--surface);
+  color: var(--text-primary);
+  border-color: var(--border);
+}
+
+.btn-share-copy.copied {
+  color: #4caf50;
+  border-color: #4caf50;
+}
+
 .error-message {
   text-align: center;
   color: #c0392b;

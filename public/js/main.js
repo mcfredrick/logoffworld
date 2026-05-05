@@ -111,6 +111,49 @@ async function loadCharity() {
   }
 }
 
+function showShareSection(choice, data) {
+  const today = formatDate(new Date());
+  const prompt = document.getElementById('daily-prompt').textContent;
+  const phraseEl = choice === 'connection'
+    ? document.getElementById('connection-phrase')
+    : document.getElementById('rebel-phrase');
+  const phrase = phraseEl.textContent;
+
+  document.getElementById('brag-date').textContent = today;
+  document.getElementById('brag-prompt').textContent = prompt;
+  document.getElementById('brag-phrase').textContent = phrase;
+  document.getElementById('brag-count').textContent = `Joined by ${data.total} humans today`;
+
+  document.getElementById('share-section').hidden = false;
+
+  const twitterBtn = document.getElementById('btn-share-twitter');
+  const copyBtn = document.getElementById('btn-share-copy');
+
+  twitterBtn.onclick = () => {
+    const text = `"${phrase}" — joined by ${data.total} humans today. One prompt. No algorithms. #PeopleOverTech`;
+    const url = `https://twitter.com/intent/tweet?text=${encodeURIComponent(text)}&url=${encodeURIComponent('https://peopleover.tech')}`;
+    window.open(url, '_blank', 'noopener,noreferrer');
+    window.plausible?.('share_click', { props: { method: 'twitter' } });
+  };
+
+  copyBtn.onclick = () => {
+    const siteUrl = 'https://peopleover.tech';
+    window.plausible?.('share_click', { props: { method: 'copy' } });
+    if (navigator.clipboard?.writeText) {
+      navigator.clipboard.writeText(siteUrl).then(() => {
+        copyBtn.textContent = 'Copied!';
+        copyBtn.classList.add('copied');
+        setTimeout(() => {
+          copyBtn.textContent = 'Copy link';
+          copyBtn.classList.remove('copied');
+        }, 2000);
+      });
+    } else {
+      prompt(`Copy this link:`, siteUrl);
+    }
+  };
+}
+
 async function handleVote(choice) {
   const btnConn = document.getElementById('btn-connection');
   const btnReb = document.getElementById('btn-rebel');
@@ -128,8 +171,10 @@ async function handleVote(choice) {
     const data = await res.json();
 
     localStorage.setItem(`pot_has_voted_${todayKey()}`, 'true');
+    localStorage.setItem(`pot_brag_${todayKey()}`, JSON.stringify({ choice, total: data.total }));
     setVoted();
     updateCounters(data);
+    showShareSection(choice, data);
 
     if (typeof PulseClient !== 'undefined' && window._pulse) {
       window._pulse.triggerLocal(choice);
@@ -155,6 +200,13 @@ async function init() {
 
   if (localStorage.getItem(`pot_has_voted_${todayKey()}`)) {
     setVoted();
+    const brag = localStorage.getItem(`pot_brag_${todayKey()}`);
+    if (brag) {
+      try {
+        const { choice, total } = JSON.parse(brag);
+        showShareSection(choice, { total });
+      } catch {}
+    }
   } else {
     document.getElementById('btn-connection').addEventListener('click', () => handleVote('connection'));
     document.getElementById('btn-rebel').addEventListener('click', () => handleVote('rebel'));
