@@ -1,7 +1,7 @@
 const FALLBACK_PROMPT = 'Go outside and consider a cloud.';
 const FALLBACK_CONNECTION = 'I found my sky today';
 const FALLBACK_REBEL = 'I marched to my own drum';
-const SITE_URL = 'https://peopleover.tech';
+const SITE_URL = 'https://logoff.world';
 
 const PLATFORMS = [
   { id: 'twitter',   label: 'X / Twitter' },

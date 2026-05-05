@@ -116,8 +116,8 @@ def call_api(api_key, candidates, system_message, user_message):
     headers = {
         "Authorization": f"Bearer {api_key}",
         "Content-Type": "application/json",
-        "HTTP-Referer": "https://peopleovertech.pages.dev",
-        "X-Title": "People Over Tech",
+        "HTTP-Referer": "https://logoff.world",
+        "X-Title": "Log Off",
     }
 
     for candidate in candidates:

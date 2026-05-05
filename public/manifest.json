@@ -1,6 +1,6 @@
 {
-  "name": "People Over Tech",
-  "short_name": "PeopleOverTech",
+  "name": "Log Off",
+  "short_name": "LogOff",
   "description": "One daily prompt. Two human choices. No algorithms.",
   "start_url": "/",
   "display": "standalone",

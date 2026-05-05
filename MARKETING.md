@@ -1,4 +1,4 @@
-# People Over Tech — Marketing Strategy
+# Log Off — Marketing Strategy
 *One person. ~1 hour/day max. Designed around the product's built-in viral mechanics.*
 
 ---
@@ -21,8 +21,8 @@ The product markets itself if the share loop works. Every dollar of effort goes 
 **Suggested post copy template:**
 > Today's prompt: *"[prompt text]"*
 > ☁️ [connection count] found their sky. 🥁 [rebel count] marched their own drum.
-> Free, ephemeral, no accounts. → peopleover.tech
-> #PeopleOverTech #DigitalMinimalism #SlowLiving
+> Free, ephemeral, no accounts. → logoff.world
+> #LogOff #DigitalMinimalism #SlowLiving
 
 ---
 
@@ -56,7 +56,7 @@ Rotate through:
 ## Monthly (~1 hour total across the month)
 
 **Charity partnership email** (template, personalise per charity):
-> Hi [Name], I run People Over Tech — a daily site where people pause from tech to reflect on one human prompt. This month's charity is [Charity]. [X] people paused in your name this month.
+> Hi [Name], I run Log Off — a daily site where people pause from tech to reflect on one human prompt. This month's charity is [Charity]. [X] people paused in your name this month.
 > Would you be willing to share it with your newsletter / social following? Happy to provide copy and the brag card image.
 
 This is the highest-leverage channel. A single charity newsletter mention can drive thousands of users.

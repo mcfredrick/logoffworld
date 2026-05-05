@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Generate OG image and favicon for People Over Tech."""
+"""Generate OG image and favicon for Log Off."""
 
 import os
 from PIL import Image, ImageDraw, ImageFont
@@ -54,7 +54,7 @@ def make_og_image():
     draw_centered(draw, '☁️  🥁', 140, load_font(56), WHITE, W)
 
     # Title
-    draw_centered(draw, 'People Over Tech', 240, font_large, WHITE, W)
+    draw_centered(draw, 'Log Off', 240, font_large, WHITE, W)
 
     # Divider line
     draw.line([(W // 2 - 120, 340), (W // 2 + 120, 340)], fill=MUTED, width=1)
@@ -66,7 +66,7 @@ def make_og_image():
     draw_centered(draw, 'All data resets at midnight.', 428, font_small, MUTED, W)
 
     # URL
-    draw_centered(draw, 'peopleover.tech', 530, font_tag, CLOUD_BLUE, W)
+    draw_centered(draw, 'logoff.world', 530, font_tag, CLOUD_BLUE, W)
 
     return img
 
