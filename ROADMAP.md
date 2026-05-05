@@ -41,6 +41,7 @@ Prioritized by: launch readiness → viral/growth impact → charitable impact �
 - [ ] Patron badge — lightweight: Stripe webhook sets a signed cookie or short-lived token; badge shown in UI
 - [ ] Admin vetting interface — simple password-protected page for reviewing submitted prompts once volume warrants it
 - [ ] Podcast / media outreach — see MARKETING.md for target list
+- [ ] Daily social bot — GitHub Actions cron posts each day's prompt + previous day's vote counts to Bluesky and X; requires API credentials as repo secrets; low effort, good ambient traffic
 
 ---
 
