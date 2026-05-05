@@ -8,15 +8,17 @@ Prioritized by: launch readiness → viral/growth impact → charitable impact �
 *Everything needed before driving real traffic. Nothing here should block the other.*
 
 - [ ] Register `peopleover.tech` via Cloudflare Registrar + point to Pages
-- [ ] Stripe one-time donation — create Payment Link, wire up footer button
-- [ ] Liberapay recurring donations — link alongside Stripe (5 min)
-- [ ] Open Graph meta tags (`og:title`, `og:description`, `og:image`) — controls how links look when shared
-- [ ] Static OG image — a clean 1200×630 card with the logo/tagline (can be a designed PNG for now)
-- [ ] Favicon + app icons (192px, 512px PNGs)
-- [ ] `manifest.json` + basic service worker → PWA installable to home screen on iOS & Android (this is the "widget" — full native widget is a much bigger lift, PWA gets you 90% of the value)
-- [ ] Share button + brag card — appears after voting, pre-filled text: *"I just [phrase]. Join me → peopleover.tech #PeopleOverTech"*
-- [ ] Fix "Suggest a prompt" — currently links to a dead anchor; either implement the form or redirect to a Tally/Typeform for now
-- [ ] Update `data-domain` in Plausible snippet once custom domain is live
+- [ ] Stripe one-time donation — create Payment Link, replace `https://buy.stripe.com/placeholder` in footer
+- [ ] Liberapay recurring donations — link alongside Stripe in footer
+- [ ] Fix "Suggest a prompt" — create Tally form, replace `https://tally.so/r/placeholder` in footer
+- [ ] Update `data-domain="peopleover.tech"` in Plausible `<script>` tag once custom domain is live
+- [x] Open Graph meta tags (`og:title`, `og:description`, `og:image`)
+- [x] Static OG image — programmatic 1200×630 PNG at `public/assets/og-image.png` (replace with designed version before launch)
+- [x] Favicon — `public/favicon.ico` (16px + 32px)
+- [x] App icons (192px, 512px PNGs)
+- [x] `manifest.json` + service worker → PWA installable to home screen
+- [x] Share button + brag card — all platforms, Web Share API on mobile, dropdown on desktop
+- [x] Daily generated share copy per prompt (anti-social-media angle)
 
 ---
 
