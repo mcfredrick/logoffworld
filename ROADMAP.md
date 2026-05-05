@@ -1,56 +1,66 @@
-# People Over Tech — Feature Roadmap
+# People Over Tech — Roadmap
 
-## Payments & Donations
-- [ ] Stripe one-time donation — create Payment Link, wire up "Support the movement" button in footer
-- [ ] Liberapay recurring donations — account setup, embed widget or link alongside Stripe
-- [ ] 80/15/5 split transparency — static page showing how funds are allocated
-- [ ] Transparency dashboard — running total of funds raised and donated per month (can start as a hand-updated static page)
-- [ ] Donor "Patron" badge — Stripe webhook sets a flag; frontend shows badge to donors (requires some form of lightweight session or token)
-- [ ] Monthly charity rotation — process for selecting and updating `charity.json` each month
+Prioritized by: launch readiness → viral/growth impact → charitable impact → effort.
 
-## Prompt Submission & Moderation
-- [ ] "Suggest a prompt" form — simple form on main page (name optional, prompt text, submit)
-- [ ] Pending queue — submitted prompts stored (GitHub Issue, Airtable, or simple JSON commit to a `pending/` branch)
-- [ ] Admin vetting interface — password-protected page to review, approve, or reject pending prompts
-- [ ] Cloudflare Turnstile CAPTCHA on submission form (per spec)
-- [ ] Auto-notify founder on new submission (email via Cloudflare Email Routing or similar)
+---
 
-## Sponsored Prompts
-- [ ] Sponsored prompt format — spec what a sponsored prompt looks like vs organic (subtle label? separate phrase set?)
-- [ ] Sponsor intake — how sponsors submit a prompt and what the approval process looks like
-- [ ] Sponsored prompt slot in rotation — flag in `prompts.json` (e.g. `"sponsored": true, "sponsor": "Brand Name"`)
-- [ ] Disclosure label in UI when a sponsored prompt is shown
+## Phase 0 — Pre-Launch (Target: this week)
+*Everything needed before driving real traffic. Nothing here should block the other.*
 
-## Content & Rotation
-- [ ] Grow prompt library to 50+ entries (content generator runs daily — will accumulate; can also run manually)
-- [ ] Grow phrase libraries to 50+ connection and rebel entries
-- [ ] Human-submitted prompts mixed into rotation (post-vetting)
-- [ ] Holiday/seasonal theming hook (the blog template has a `holidays.py` pattern worth porting)
+- [ ] Register `peopleover.tech` via Cloudflare Registrar + point to Pages
+- [ ] Stripe one-time donation — create Payment Link, wire up footer button
+- [ ] Liberapay recurring donations — link alongside Stripe (5 min)
+- [ ] Open Graph meta tags (`og:title`, `og:description`, `og:image`) — controls how links look when shared
+- [ ] Static OG image — a clean 1200×630 card with the logo/tagline (can be a designed PNG for now)
+- [ ] Favicon + app icons (192px, 512px PNGs)
+- [ ] `manifest.json` + basic service worker → PWA installable to home screen on iOS & Android (this is the "widget" — full native widget is a much bigger lift, PWA gets you 90% of the value)
+- [ ] Share button + brag card — appears after voting, pre-filled text: *"I just [phrase]. Join me → peopleover.tech #PeopleOverTech"*
+- [ ] Fix "Suggest a prompt" — currently links to a dead anchor; either implement the form or redirect to a Tally/Typeform for now
+- [ ] Update `data-domain` in Plausible snippet once custom domain is live
 
-## Social & Sharing
-- [ ] Share button after voting — pre-filled tweet/post: "I just [phrase] — People Over Tech peopleover.tech"
-- [ ] Open Graph tags — `og:title`, `og:description`, `og:image` for clean social previews
-- [ ] Daily share image — generated card with today's prompt (could be a simple Cloudflare Worker using Canvas API or a static template)
+---
 
-## Audio Pipeline (Phase 2)
-- [ ] ElevenLabs TTS integration — select warm voice, store API key in GitHub secrets
-- [ ] Python audio script — fetch prompt → LLM reflection → TTS → ffmpeg mix with soundscape
-- [ ] Cloudflare R2 bucket — store daily MP3s (`episode-YYYY-MM-DD.mp3`)
-- [ ] RSS feed (`podcast.xml`) — auto-updated by GitHub Actions after each episode
-- [ ] Web player — embedded on main page (HTML5 audio or lightweight JS player)
-- [ ] Submit RSS to Apple Podcasts and Spotify
-- [ ] Source royalty-free ambient soundscape tracks
+## Phase 1 — Soft Launch (Week 2–3)
+*Ship to personal network + relevant communities. Validate the loop before scaling.*
 
-## Domain & Infrastructure
-- [ ] Register `peopleover.tech` via Cloudflare Registrar
-- [ ] Add custom domain to Cloudflare Pages project
-- [ ] Update Plausible site domain
-- [ ] Update `HTTP-Referer` in content generator and Plausible `data-domain`
+- [ ] Milestone reactions — at auspicious counts (100, 500, 1000...) show a special animation + shareable moment ("You were the 1,000th human to pause today")
+- [ ] Holiday themes — detect date, swap prompt/phrase color palette and emoji for major holidays (template's `holidays.py` pattern is a direct port)
+- [ ] Year-ahead charity list — publish the planned rotation publicly; gives charities advance notice and builds anticipation
+- [ ] Charity outreach — email Month 1 charity (Crisis Text Line), tell them X people paused for them today, ask them to share with their audience
+- [ ] Prompt submission form — Tally or Typeform embed (free tier) feeding into a simple review queue; no custom admin needed yet
+- [ ] Encourage recurring donations — after one-time donation completes, Stripe redirect page links to Liberapay
 
-## Polish & Accessibility
-- [ ] Favicon and app icon
-- [ ] `manifest.json` for PWA installability
-- [ ] `robots.txt` and `sitemap.xml`
-- [ ] Dark/light mode toggle (CSS custom properties are already set up for it)
-- [ ] Full keyboard navigation audit
-- [ ] Screen reader test pass
+---
+
+## Phase 2 — Growth (Month 2)
+*Once the viral loop is validated, invest in channels and content.*
+
+- [ ] Sponsored prompts — define format (subtle "Supported by [Brand]" label), intake process, approval criteria (must be in spirit of app), `"sponsored": true` flag in `prompts.json`
+- [ ] App-as-a-service for charities — same engine, charity-branded, same 80/20 split; use peopleovertech as the proof of concept in the pitch
+- [ ] Transparency dashboard — static page updated monthly: funds raised, donated, charity impact (can be hand-updated to start)
+- [ ] Patron badge — lightweight: Stripe webhook sets a signed cookie or short-lived token; badge shown in UI
+- [ ] Admin vetting interface — simple password-protected page for reviewing submitted prompts once volume warrants it
+- [ ] Podcast / media outreach — see MARKETING.md for target list
+
+---
+
+## Phase 3 — Scale (Month 3+)
+*High-effort, high-reward features once there's an audience to justify them.*
+
+- [ ] Daily Audio Pipeline — ElevenLabs TTS + ffmpeg soundscape mix + R2 storage + RSS feed + web player + Apple/Spotify submission
+- [ ] Native home screen widget — requires a React Native or Swift/Kotlin shell; significant effort; revisit after PWA traction data
+- [ ] Real Human Thoughts — sister site (realhumanthoughts.com), crowd-sourced philosophical insights
+- [ ] Aggregate Discovery App — interest-stack content discovery with Horizon Breaker mechanic
+- [ ] Bespoke social engagement apps — use peopleovertech as portfolio piece for white-label pitches
+
+---
+
+## Launch Timeline
+
+| Date | Milestone |
+|---|---|
+| This week | Phase 0 complete — domain live, payments wired, PWA installable, share button working |
+| Week 2 | First soft-launch posts (personal network, Hacker News, r/nosurf) |
+| Week 3 | Charity outreach email sent; milestone reactions live |
+| Month 2 | Sponsored prompt pilot; transparency dashboard; media outreach begins |
+| Month 3+ | Audio pipeline; evaluate native widget based on PWA install data |
