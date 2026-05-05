@@ -1,6 +1,24 @@
 const FALLBACK_PROMPT = 'Go outside and consider a cloud.';
 const FALLBACK_CONNECTION = 'I found my sky today';
 const FALLBACK_REBEL = 'I marched to my own drum';
+const SITE_URL = 'https://peopleover.tech';
+
+const PLATFORMS = [
+  { id: 'twitter',   label: 'X / Twitter' },
+  { id: 'bluesky',   label: 'Bluesky' },
+  { id: 'threads',   label: 'Threads' },
+  { id: 'mastodon',  label: 'Mastodon (copy text)' },
+  { id: 'facebook',  label: 'Facebook' },
+  { id: 'reddit',    label: 'Reddit' },
+  { id: 'linkedin',  label: 'LinkedIn' },
+  { id: 'whatsapp',  label: 'WhatsApp' },
+  { id: 'telegram',  label: 'Telegram' },
+  { id: 'pinterest', label: 'Pinterest' },
+  { id: 'substack',  label: 'Substack Notes (copy text)' },
+  { id: 'copy',      label: 'Copy link' },
+];
+
+let _promptItem = null;
 
 function todayKey() {
   return new Date().toISOString().slice(0, 10);
@@ -67,8 +85,8 @@ async function fetchJSON(url) {
 async function loadPrompt() {
   try {
     const data = await fetchJSON('/data/prompts.json');
-    const item = pickByDay(data);
-    document.getElementById('daily-prompt').textContent = item ? item.text : FALLBACK_PROMPT;
+    _promptItem = pickByDay(data);
+    document.getElementById('daily-prompt').textContent = _promptItem ? _promptItem.text : FALLBACK_PROMPT;
   } catch {
     document.getElementById('daily-prompt').textContent = FALLBACK_PROMPT;
   }
@@ -111,47 +129,98 @@ async function loadCharity() {
   }
 }
 
+function buildShareText(choice, phrase, total) {
+  if (_promptItem) {
+    const field = choice === 'connection' ? _promptItem.connection_share : _promptItem.rebel_share;
+    if (field) return field;
+  }
+  return choice === 'connection'
+    ? `"${phrase}" — a genuine human moment. ${total} of us paused today without an algorithm telling us to. Share this, then close this app.`
+    : `"${phrase}" — I did my own thing instead. ${total} humans checked in today, zero of them needed a feed. Share this, then go live your actual life.`;
+}
+
+function getShareUrl(platform, fullText) {
+  const et = encodeURIComponent(fullText);
+  const eu = encodeURIComponent(SITE_URL);
+  switch (platform) {
+    case 'twitter':   return `https://twitter.com/intent/tweet?text=${et}`;
+    case 'bluesky':   return `https://bsky.app/intent/compose?text=${et}`;
+    case 'threads':   return `https://www.threads.net/intent/post?text=${et}`;
+    case 'facebook':  return `https://www.facebook.com/sharer/sharer.php?u=${eu}`;
+    case 'reddit':    return `https://reddit.com/submit?url=${eu}&title=${encodeURIComponent(fullText.split('\n')[0])}`;
+    case 'linkedin':  return `https://www.linkedin.com/sharing/share-offsite/?url=${eu}`;
+    case 'whatsapp':  return `https://wa.me/?text=${et}`;
+    case 'telegram':  return `https://t.me/share/url?url=${eu}&text=${et}`;
+    case 'pinterest': return `https://pinterest.com/pin/create/button/?url=${eu}&description=${et}`;
+    default: return null;
+  }
+}
+
+function handlePlatformShare(platform, shareText, btn) {
+  const fullText = shareText + '\n\n→ ' + SITE_URL;
+  const copyPlatforms = ['mastodon', 'substack', 'copy'];
+
+  if (copyPlatforms.includes(platform)) {
+    const toCopy = platform === 'copy' ? SITE_URL : fullText;
+    navigator.clipboard?.writeText(toCopy).then(() => {
+      const orig = btn.textContent;
+      btn.textContent = 'Copied!';
+      btn.classList.add('copied');
+      setTimeout(() => { btn.textContent = orig; btn.classList.remove('copied'); }, 2000);
+    });
+    window.plausible?.('share_click', { props: { method: platform } });
+    return;
+  }
+
+  const url = getShareUrl(platform, fullText);
+  if (url) window.open(url, '_blank', 'noopener,noreferrer');
+  window.plausible?.('share_click', { props: { method: platform } });
+}
+
 function showShareSection(choice, data) {
   const today = formatDate(new Date());
-  const prompt = document.getElementById('daily-prompt').textContent;
+  const promptText = document.getElementById('daily-prompt').textContent;
   const phraseEl = choice === 'connection'
     ? document.getElementById('connection-phrase')
     : document.getElementById('rebel-phrase');
   const phrase = phraseEl.textContent;
 
   document.getElementById('brag-date').textContent = today;
-  document.getElementById('brag-prompt').textContent = prompt;
+  document.getElementById('brag-prompt').textContent = promptText;
   document.getElementById('brag-phrase').textContent = phrase;
   document.getElementById('brag-count').textContent = `Joined by ${data.total} humans today`;
-
   document.getElementById('share-section').hidden = false;
 
-  const twitterBtn = document.getElementById('btn-share-twitter');
-  const copyBtn = document.getElementById('btn-share-copy');
+  const shareText = buildShareText(choice, phrase, data.total);
 
-  twitterBtn.onclick = () => {
-    const text = `"${phrase}" — joined by ${data.total} humans today. One prompt. No algorithms. #PeopleOverTech`;
-    const url = `https://twitter.com/intent/tweet?text=${encodeURIComponent(text)}&url=${encodeURIComponent('https://peopleover.tech')}`;
-    window.open(url, '_blank', 'noopener,noreferrer');
-    window.plausible?.('share_click', { props: { method: 'twitter' } });
-  };
+  const dropdown = document.getElementById('share-dropdown');
+  dropdown.innerHTML = '';
+  PLATFORMS.forEach(({ id, label }) => {
+    const btn = document.createElement('button');
+    btn.className = 'share-option';
+    btn.textContent = label;
+    btn.addEventListener('click', () => handlePlatformShare(id, shareText, btn));
+    dropdown.appendChild(btn);
+  });
 
-  copyBtn.onclick = () => {
-    const siteUrl = 'https://peopleover.tech';
-    window.plausible?.('share_click', { props: { method: 'copy' } });
-    if (navigator.clipboard?.writeText) {
-      navigator.clipboard.writeText(siteUrl).then(() => {
-        copyBtn.textContent = 'Copied!';
-        copyBtn.classList.add('copied');
-        setTimeout(() => {
-          copyBtn.textContent = 'Copy link';
-          copyBtn.classList.remove('copied');
-        }, 2000);
-      });
-    } else {
-      prompt(`Copy this link:`, siteUrl);
+  document.getElementById('btn-share-primary').onclick = async () => {
+    if (navigator.share) {
+      try {
+        await navigator.share({ title: 'People Over Tech', text: shareText, url: SITE_URL });
+        window.plausible?.('share_click', { props: { method: 'native' } });
+        return;
+      } catch {}
     }
+    dropdown.hidden = !dropdown.hidden;
   };
+
+  // Close dropdown on outside click
+  document.addEventListener('click', function closeDropdown(e) {
+    if (!e.target.closest('.share-buttons')) {
+      dropdown.hidden = true;
+      document.removeEventListener('click', closeDropdown);
+    }
+  });
 }
 
 async function handleVote(choice) {

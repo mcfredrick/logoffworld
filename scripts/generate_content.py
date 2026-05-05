@@ -26,29 +26,39 @@ OPENROUTER_URL = "https://openrouter.ai/api/v1/chat/completions"
 
 PROMPT_SYSTEM = (
     'You generate daily prompts for a mindfulness website called "People Over Tech". '
-    "Each prompt is exactly one sentence. Prompts are actionable or observational. "
-    "They focus on nature, human connection, presence, slowing down, or resisting technology addiction. "
-    "They are warm, non-preachy, non-political, and non-toxic. "
+    "Each prompt is exactly one sentence. Prompts invite people to have fun, be playful, and delight in the world around them. "
+    "They focus on nature, human connection, presence, spontaneity, and joyful engagement with other people. "
+    "They are whimsical, warm, lighthearted, non-preachy, non-political, and non-toxic. "
     "They do not mention productivity, optimization, goals, streaks, or scores. "
-    'Examples: "Go outside and consider a cloud.", '
-    '"Call someone you haven\'t spoken to in over a year.", '
-    '"Eat one meal today without looking at a screen."'
+    'Examples: "Wave at a stranger and mean it.", '
+    '"Find the silliest cloud in the sky and tell someone about it.", '
+    '"Ask the next person you see what made them smile this week."'
 )
 
 CONNECTION_SYSTEM = (
     'You generate short first-person phrases for a website called "People Over Tech". '
-    "Connection phrases express that the user felt empathy, nature, bonds, or shared humanity. "
-    "They are 3-10 words, poetic, calm, and human. "
-    'Examples: "I found my sky today", "I listened to the wind", '
-    '"I felt part of something old", "I belonged somewhere today"'
+    "Connection phrases are what a user says after completing today's daily prompt — they signal 'I did the thing, I showed up.' "
+    "They are 3-10 words, warm, a little playful, and human — they should feel like a satisfied nod to the prompt. "
+    'Examples: "I showed up for today", "I did the thing today", '
+    '"I played along today", "I took the leap today"'
 )
 
 REBEL_SYSTEM = (
     'You generate short first-person phrases for a website called "People Over Tech". '
-    "Rebel phrases express autonomy, individuality, or calm resistance to technology and algorithms. "
-    "They are 3-10 words, defiant but peaceful. "
-    'Examples: "I marched to my own drum", "I refused the scroll", '
-    '"I put the algorithm down", "I was unreachable and fine"'
+    "Rebel phrases are what a user says when they skipped today's prompt and found their own joyful way to engage with the world. "
+    "They signal 'I did my own thing instead — and it was great.' They are 3-10 words, playful, self-assured, and positive. "
+    'Examples: "I made my own magic today", "I wrote my own prompt", '
+    '"I went off-script and loved it", "I found my own adventure"'
+)
+
+SHARE_SYSTEM = (
+    'You write ironic social media share copy for "People Over Tech" — a site that exists in direct opposition to social media. '
+    "Each prompt invites people to be present, connect with humans, or engage with the physical world. "
+    "The share copy is short (under 180 characters), dry, and lightly contemptuous of the platforms it will be shared on. "
+    "Connection copy: the user completed the prompt and felt something real. "
+    "Rebel copy: the user skipped the prompt and did their own thing — equally valid, equally human. "
+    "Both variants must end by encouraging the reader to share this, then abandon the platform and go do something real. "
+    "Do not include a URL. Do not use hashtags. Do not use exclamation marks. Write in plain, unhurried prose."
 )
 
 
@@ -174,6 +184,33 @@ def generate_prompts(api_key, candidates, used_prompts):
     return accepted, rejected
 
 
+def generate_share_copy(api_key, candidates, prompt_texts):
+    if not prompt_texts:
+        return []
+    numbered = "\n".join(f'{i + 1}. "{t}"' for i, t in enumerate(prompt_texts))
+    user_msg = (
+        f"Here are {len(prompt_texts)} prompts. For each, write share copy — one connection variant and one rebel variant.\n\n"
+        "Return ONLY a JSON array of objects with \"connection_share\" and \"rebel_share\" keys, "
+        f"one object per prompt in the same order.\n\nPrompts:\n{numbered}"
+    )
+    try:
+        raw = call_api(api_key, candidates, SHARE_SYSTEM, user_msg)
+    except Exception as e:
+        print(f"WARNING: share copy generation failed: {e}")
+        return [{}] * len(prompt_texts)
+
+    if not isinstance(raw, list) or len(raw) != len(prompt_texts):
+        print(f"WARNING: share copy count mismatch — got {len(raw) if isinstance(raw, list) else type(raw)}, expected {len(prompt_texts)}")
+        return [{}] * len(prompt_texts)
+
+    result = []
+    for item in raw:
+        conn = item.get("connection_share", "") if isinstance(item, dict) else ""
+        reb = item.get("rebel_share", "") if isinstance(item, dict) else ""
+        result.append({"connection_share": conn[:250], "rebel_share": reb[:250]})
+    return result
+
+
 def generate_phrases(api_key, candidates, category, system_msg, used_phrases):
     try:
         raw = call_api(
@@ -224,6 +261,8 @@ def main():
 
     new_prompts, rejected_prompts = generate_prompts(api_key, candidates, used_prompts)
     time.sleep(3)
+    share_copies = generate_share_copy(api_key, candidates, new_prompts)
+    time.sleep(3)
     new_connection, rejected_connection = generate_phrases(api_key, candidates, "connection", CONNECTION_SYSTEM, used_connection)
     time.sleep(3)
     new_rebel, rejected_rebel = generate_phrases(api_key, candidates, "rebel", REBEL_SYSTEM, used_rebel)
@@ -231,7 +270,10 @@ def main():
     prompts_data = load_json(PROMPTS_FILE)
     next_p = next_id("p", [p["id"] for p in prompts_data])
     for i, text in enumerate(new_prompts):
-        prompts_data.append({"id": f"p{next_p + i:03d}", "text": text, "date_added": TODAY})
+        entry = {"id": f"p{next_p + i:03d}", "text": text, "date_added": TODAY}
+        if i < len(share_copies) and share_copies[i]:
+            entry.update(share_copies[i])
+        prompts_data.append(entry)
     save_json(PROMPTS_FILE, prompts_data)
 
     phrases_data = load_json(PHRASES_FILE)
