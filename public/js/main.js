@@ -123,7 +123,7 @@ async function loadCharity() {
     link.href = data.url || '#';
     link.rel = 'noopener noreferrer';
     link.textContent = data.name;
-    banner.append('This month we support ', link, ` — ${data.tagline}`);
+    banner.append('This month your contributions help us support ', link, ` — ${data.tagline}`);
   } catch {
     // no charity data
   }

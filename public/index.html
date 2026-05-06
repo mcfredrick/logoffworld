@@ -19,7 +19,7 @@
 
   <!-- PWA -->
   <link rel="manifest" href="/manifest.json">
-  <meta name="theme-color" content="#0a0a0a">
+  <meta name="theme-color" content="#a9cdec">
   <link rel="apple-touch-icon" href="/assets/icons/icon-192.png">
 
   <link rel="icon" href="/favicon.ico" sizes="any">
@@ -32,6 +32,11 @@
   </script>
 </head>
 <body>
+  <div class="sky-clouds"></div>
+  <div class="sky-flare"></div>
+  <div id="sky-stars" class="sky-stars"></div>
+  <div id="sky-precip" class="sky-precip"></div>
+  <div class="sky-vignette"></div>
   <main>
     <div class="card">
       <header class="prompt-header">
@@ -96,6 +101,7 @@
     </p>
   </footer>
 
+  <script src="/js/sky.js"></script>
   <script src="/js/pulse.js"></script>
   <script src="/js/main.js"></script>
   <script>
