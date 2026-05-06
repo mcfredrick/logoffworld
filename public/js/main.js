@@ -206,7 +206,7 @@ function showShareSection(choice, data) {
   document.getElementById('btn-share-primary').onclick = async () => {
     if (navigator.share) {
       try {
-        await navigator.share({ title: 'People Over Tech', text: shareText, url: SITE_URL });
+        await navigator.share({ title: 'Log Off', text: shareText, url: SITE_URL });
         window.plausible?.('share_click', { props: { method: 'native' } });
         return;
       } catch {}
@@ -239,8 +239,8 @@ async function handleVote(choice) {
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
     const data = await res.json();
 
-    localStorage.setItem(`pot_has_voted_${todayKey()}`, 'true');
-    localStorage.setItem(`pot_brag_${todayKey()}`, JSON.stringify({ choice, total: data.total }));
+    localStorage.setItem(`lo_has_voted_${todayKey()}`, 'true');
+    localStorage.setItem(`lo_brag_${todayKey()}`, JSON.stringify({ choice, total: data.total }));
     setVoted();
     updateCounters(data);
     showShareSection(choice, data);
@@ -267,9 +267,9 @@ async function init() {
 
   await Promise.all([loadPrompt(), loadPhrases(), loadCharity()]);
 
-  if (localStorage.getItem(`pot_has_voted_${todayKey()}`)) {
+  if (localStorage.getItem(`lo_has_voted_${todayKey()}`)) {
     setVoted();
-    const brag = localStorage.getItem(`pot_brag_${todayKey()}`);
+    const brag = localStorage.getItem(`lo_brag_${todayKey()}`);
     if (brag) {
       try {
         const { choice, total } = JSON.parse(brag);

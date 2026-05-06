@@ -5,3 +5,8 @@ __pycache__/
 .dev.vars
 .env
 dist/
+.agents
+.claude
+.windsurf
+.pi
+.crush

@@ -76,7 +76,7 @@ def make_favicon():
     img = Image.new('RGB', (size, size), BG)
     draw = ImageDraw.Draw(img)
     font = load_font(14)
-    text = 'PoT'
+    text = 'LO'
     bbox = draw.textbbox((0, 0), text, font=font)
     x = (size - (bbox[2] - bbox[0])) // 2 - bbox[0]
     y = (size - (bbox[3] - bbox[1])) // 2 - bbox[1]

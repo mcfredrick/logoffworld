@@ -25,7 +25,7 @@ DEDUP_THRESHOLD = 0.7
 OPENROUTER_URL = "https://openrouter.ai/api/v1/chat/completions"
 
 PROMPT_SYSTEM = (
-    'You generate daily prompts for a mindfulness website called "People Over Tech". '
+    'You generate daily prompts for a mindfulness website called "Log Off". '
     "Each prompt is exactly one sentence. Prompts invite people to have fun, be playful, and delight in the world around them. "
     "They focus on nature, human connection, presence, spontaneity, and joyful engagement with other people. "
     "They are whimsical, warm, lighthearted, non-preachy, non-political, and non-toxic. "
@@ -36,7 +36,7 @@ PROMPT_SYSTEM = (
 )
 
 CONNECTION_SYSTEM = (
-    'You generate short first-person phrases for a website called "People Over Tech". '
+    'You generate short first-person phrases for a website called "Log Off". '
     "Connection phrases are what a user says after completing today's daily prompt — they signal 'I did the thing, I showed up.' "
     "They are 3-10 words, warm, a little playful, and human — they should feel like a satisfied nod to the prompt. "
     'Examples: "I showed up for today", "I did the thing today", '
@@ -44,7 +44,7 @@ CONNECTION_SYSTEM = (
 )
 
 REBEL_SYSTEM = (
-    'You generate short first-person phrases for a website called "People Over Tech". '
+    'You generate short first-person phrases for a website called "Log Off". '
     "Rebel phrases are what a user says when they skipped today's prompt and found their own joyful way to engage with the world. "
     "They signal 'I did my own thing instead — and it was great.' They are 3-10 words, playful, self-assured, and positive. "
     'Examples: "I made my own magic today", "I wrote my own prompt", '
@@ -52,7 +52,7 @@ REBEL_SYSTEM = (
 )
 
 SHARE_SYSTEM = (
-    'You write ironic social media share copy for "People Over Tech" — a site that exists in direct opposition to social media. '
+    'You write ironic social media share copy for "Log Off" — a site that exists in direct opposition to social media. '
     "Each prompt invites people to be present, connect with humans, or engage with the physical world. "
     "The share copy is short (under 180 characters), dry, and lightly contemptuous of the platforms it will be shared on. "
     "Connection copy: the user completed the prompt and felt something real. "

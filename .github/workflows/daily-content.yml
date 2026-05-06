@@ -23,8 +23,8 @@ jobs:
 
       - name: Commit new content
         run: |
-          git config user.name "people-over-tech-bot"
-          git config user.email "bot@peopleovertech.pages.dev"
+          git config user.name "logoff-bot"
+          git config user.email "bot@logoff.world"
           git add public/data/prompts.json public/data/phrases.json scripts/used_prompts.json scripts/used_phrases.json
           git diff --cached --quiet || git commit -m "chore: daily content refresh [skip ci]"
           git push

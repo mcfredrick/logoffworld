@@ -1,4 +1,4 @@
-# People Over Tech
+# Log Off
 
 A daily human check-in. One prompt. Two choices. No algorithms.
 

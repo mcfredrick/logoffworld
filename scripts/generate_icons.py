@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Generate PWA icons for People Over Tech."""
+"""Generate PWA icons for Log Off."""
 
 import os
 from PIL import Image, ImageDraw, ImageFont
@@ -18,7 +18,7 @@ def make_icon(size):
     except (IOError, OSError):
         font = ImageFont.load_default()
 
-    text = 'PoT'
+    text = 'LO'
     bbox = draw.textbbox((0, 0), text, font=font)
     text_w = bbox[2] - bbox[0]
     text_h = bbox[3] - bbox[1]
