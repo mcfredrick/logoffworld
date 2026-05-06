@@ -148,5 +148,40 @@
     "id": "p030",
     "text": "Notice one small thing in your home that you haven't really looked at before.",
     "date_added": "2026-05-05"
+  },
+  {
+    "id": "p031",
+    "text": "Listen to the sound of rain on your window and imagine it's applauding you.",
+    "date_added": "2026-05-06",
+    "connection_share": "Listened to the rain and let it clap for me. Felt ridiculous, then felt seen. Share this, then close the app and go stand outside.",
+    "rebel_share": "Ignored the rain prompt and just stared at the ceiling for twenty minutes. Also counted. Share this, then close the app and go stand outside."
+  },
+  {
+    "id": "p032",
+    "text": "Start a conversation with a shopkeeper about the silliest item they've sold.",
+    "date_added": "2026-05-06",
+    "connection_share": "Asked a shopkeeper about their silliest sale. He told me about a man who bought seventeen rubber chickens for a funeral. Share this, then close the app and go visit a shop.",
+    "rebel_share": "Didn't ask about silly items. Just bought a single rubber chicken for no reason. Share this, then close the app and go visit a shop."
+  },
+  {
+    "id": "p033",
+    "text": "Take a different route home and greet three new faces along the way.",
+    "date_added": "2026-05-06",
+    "connection_share": "Took a different route home. Said hello to a woman with a pug, a man carrying a cello, and a kid on a scooter. All three smiled. Share this, then close the app and go get lost.",
+    "rebel_share": "Took a different route home and greeted nobody. The route itself was enough. Share this, then close the app and go get lost."
+  },
+  {
+    "id": "p034",
+    "text": "Find a flower that looks like it's mid-dance and mimic its movements.",
+    "date_added": "2026-05-06",
+    "connection_share": "Found a dandelion bent sideways like it was doing the wave. Danced with it in a parking lot. A stranger nodded in approval. Share this, then close the app and go find your flower.",
+    "rebel_share": "Found a flower mid-dance and just watched. Didn't mimic it. Some things don't need an audience. Share this, then close the app and go find your flower."
+  },
+  {
+    "id": "p035",
+    "text": "Ask a child what game they're inventing today and ask to join.",
+    "date_added": "2026-05-06",
+    "connection_share": "Asked a child what game she was inventing. It involved capes, a dragon made of pillows, and absolutely no rules. I was the dragon. Share this, then close the app and go find a child.",
+    "rebel_share": "Skipped the child and invented my own game. It involved sitting on a bench and counting pigeons. I won. Share this, then close the app and go find a child."
   }
 ]

@@ -119,6 +119,26 @@
     {
       "id": "c030",
       "text": "I noticed warmth without judgment"
+    },
+    {
+      "id": "c031",
+      "text": "I showed up for today"
+    },
+    {
+      "id": "c032",
+      "text": "I did the thing today"
+    },
+    {
+      "id": "c033",
+      "text": "I played along today"
+    },
+    {
+      "id": "c034",
+      "text": "I took the leap today"
+    },
+    {
+      "id": "c035",
+      "text": "I gave it a go today"
     }
   ],
   "rebel": [
@@ -241,6 +261,26 @@
     {
       "id": "r030",
       "text": "I was gloriously offline"
+    },
+    {
+      "id": "r031",
+      "text": "I crafted my own adventure"
+    },
+    {
+      "id": "r032",
+      "text": "I played by my own rules"
+    },
+    {
+      "id": "r033",
+      "text": "I found joy in unexpected ways"
+    },
+    {
+      "id": "r034",
+      "text": "I danced to a different beat"
+    },
+    {
+      "id": "r035",
+      "text": "I wrote my own story"
     }
   ]
 }
