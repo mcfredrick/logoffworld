@@ -139,6 +139,22 @@
     {
       "id": "c035",
       "text": "I gave it a go today"
+    },
+    {
+      "id": "c036",
+      "text": "Done for today, I showed up"
+    },
+    {
+      "id": "c037",
+      "text": "I did the thing, now I'm free"
+    },
+    {
+      "id": "c038",
+      "text": "Small step, big enough today"
+    },
+    {
+      "id": "c039",
+      "text": "Shown up today, that's enough"
     }
   ],
   "rebel": [
@@ -281,6 +297,26 @@
     {
       "id": "r035",
       "text": "I wrote my own story"
+    },
+    {
+      "id": "r036",
+      "text": "I danced with my own rhythm"
+    },
+    {
+      "id": "r037",
+      "text": "I skipped the plan and thrived"
+    },
+    {
+      "id": "r038",
+      "text": "I built my own little world"
+    },
+    {
+      "id": "r039",
+      "text": "I trusted my wild side today"
+    },
+    {
+      "id": "r040",
+      "text": "I charted my own sunny path"
     }
   ]
 }

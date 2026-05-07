@@ -183,5 +183,40 @@
     "date_added": "2026-05-06",
     "connection_share": "Asked a child what game she was inventing. It involved capes, a dragon made of pillows, and absolutely no rules. I was the dragon. Share this, then close the app and go find a child.",
     "rebel_share": "Skipped the child and invented my own game. It involved sitting on a bench and counting pigeons. I won. Share this, then close the app and go find a child."
+  },
+  {
+    "id": "p036",
+    "text": "Leave a kind note on a park bench for a stranger to find.",
+    "date_added": "2026-05-07",
+    "connection_share": "You left a note on a bench and a stranger found it and smiled. That's more than this app will ever do. Share this, then put your phone down and go sit on a bench.",
+    "rebel_share": "You didn't leave a note. You watched the pigeons for an hour instead. That's fine. Share this, then put your phone down and go watch something real."
+  },
+  {
+    "id": "p037",
+    "text": "Try to mimic the sound of your favorite bird and see if anyone notices.",
+    "date_added": "2026-05-07",
+    "connection_share": "You made a fool of yourself mimicking a sparrow and a jogger actually slowed down to listen. That's a better memory than any feed. Share this, then put your phone down and go listen to something real.",
+    "rebel_share": "You didn't mimic the bird. You just stood there and felt the wind. That's enough. Share this, then put your phone down and go stand somewhere."
+  },
+  {
+    "id": "p038",
+    "text": "Take a photo of something that made you laugh today and share it with a friend.",
+    "date_added": "2026-05-07",
+    "connection_share": "You photographed a crack in the sidewalk that looked like a face and sent it to someone who actually laughed. That's more than this app deserves. Share this, then put your phone down and go find something funny in person.",
+    "rebel_share": "You didn't take the photo. You just laughed and kept walking. That's better. Share this, then put your phone down and go laugh at something real."
+  },
+  {
+    "id": "p039",
+    "text": "Dance like nobody's watching in the middle of a public space.",
+    "date_added": "2026-05-07",
+    "connection_share": "You danced in a parking lot and a guy in a tie actually stopped to clap. That's the kind of thing you can't algorithm. Share this, then put your phone down and go dance somewhere.",
+    "rebel_share": "You didn't dance. You just walked through the lot and thought about dinner. That's fine. Share this, then put your phone down and go think about something real."
+  },
+  {
+    "id": "p040",
+    "text": "Ask a child what their favorite thing about today was.",
+    "date_added": "2026-05-07",
+    "connection_share": "You asked a kid what they liked about today and they said 'the puddle.' That's the best thing you'll read all week. Share this, then put your phone down and go ask someone something real.",
+    "rebel_share": "You didn't ask the kid. You just watched them jump in the puddle. That's enough. Share this, then put your phone down and go watch something real."
   }
 ]
