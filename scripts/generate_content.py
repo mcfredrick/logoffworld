@@ -112,6 +112,19 @@ def _parse_json_array(text: str) -> list:
     return json.loads(text[start:end])
 
 
+def _post_with_retry(headers, payload, max_retries=3):
+    waits = [15, 45, 90]
+    response = httpx.post(OPENROUTER_URL, headers=headers, json=payload, timeout=30)
+    for i in range(max_retries):
+        if response.status_code != 429:
+            break
+        wait = waits[min(i, len(waits) - 1)]
+        print(f"WARNING: rate limited on {payload['model']}, retrying in {wait}s (attempt {i + 1}/{max_retries})")
+        time.sleep(wait)
+        response = httpx.post(OPENROUTER_URL, headers=headers, json=payload, timeout=30)
+    return response
+
+
 def call_api(api_key, candidates, system_message, user_message):
     headers = {
         "Authorization": f"Bearer {api_key}",
@@ -125,17 +138,11 @@ def call_api(api_key, candidates, system_message, user_message):
             [{"role": "system", "content": system_message}, {"role": "user", "content": user_message}],
             [{"role": "user", "content": f"{system_message}\n\n{user_message}"}],
         ]:
-            response = httpx.post(
-                OPENROUTER_URL,
-                headers=headers,
-                json={"model": candidate, "messages": messages},
-                timeout=30,
-            )
+            response = _post_with_retry(headers, {"model": candidate, "messages": messages})
             if response.status_code == 400:
                 continue
             if response.status_code == 429:
-                print(f"WARNING: rate limited on {candidate}, trying next")
-                time.sleep(5)
+                print(f"WARNING: {candidate} still rate limited after retries, trying next model")
                 break
             response.raise_for_status()
             content = response.json()["choices"][0]["message"]["content"].strip()
