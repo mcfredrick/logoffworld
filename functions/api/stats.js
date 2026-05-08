@@ -17,11 +17,9 @@ async function pipeline(env, commands) {
 }
 
 export async function onRequestGet({ env }) {
-  const date = new Date().toISOString().slice(0, 10);
-
   const results = await pipeline(env, [
-    ['GET', `vote:${date}:connection`],
-    ['GET', `vote:${date}:rebel`],
+    ['GET', 'votes:all:connection'],
+    ['GET', 'votes:all:rebel'],
   ]);
 
   const connection = parseInt(results[0].result ?? '0', 10) || 0;

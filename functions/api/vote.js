@@ -34,10 +34,7 @@ export async function onRequestPost({ request, env }) {
   }
 
   const ip = request.headers.get('CF-Connecting-IP') || 'unknown';
-  const now = new Date();
-  const isoNow = now.toISOString();
-  const datePart = isoNow.slice(0, 10);
-  const minuteBucket = isoNow.slice(0, 16).replace('T', '');
+  const minuteBucket = new Date().toISOString().slice(0, 16).replace('T', '');
   const rateLimitKey = `ratelimit:${ip}:${minuteBucket}`;
 
   const rateLimitResults = await pipeline(env, [
@@ -49,21 +46,10 @@ export async function onRequestPost({ request, env }) {
     return jsonResponse({ error: 'Rate limit exceeded' }, 429);
   }
 
-  const connectionKey = `vote:${datePart}:connection`;
-  const rebelKey = `vote:${datePart}:rebel`;
-
   const voteResults = await pipeline(env, [
-    ['INCR', `vote:${datePart}:${choice}`],
-    ['GET', connectionKey],
-    ['GET', rebelKey],
-  ]);
-
-  const tomorrowMidnight =
-    Math.floor(new Date(datePart + 'T00:00:00Z').getTime() / 1000) + 86400;
-
-  await pipeline(env, [
-    ['EXPIREAT', connectionKey, String(tomorrowMidnight)],
-    ['EXPIREAT', rebelKey, String(tomorrowMidnight)],
+    ['INCR', `votes:all:${choice}`],
+    ['GET', 'votes:all:connection'],
+    ['GET', 'votes:all:rebel'],
   ]);
 
   const incrResult = voteResults[0].result;

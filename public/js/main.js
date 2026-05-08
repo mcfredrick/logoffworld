@@ -21,7 +21,7 @@ const PLATFORMS = [
 let _promptItem = null;
 
 function todayKey() {
-  return new Date().toISOString().slice(0, 10);
+  return new Date().toLocaleDateString('en-CA'); // YYYY-MM-DD in local time
 }
 
 function dayOfYear(date) {
@@ -188,7 +188,7 @@ function showShareSection(choice, data) {
   document.getElementById('brag-date').textContent = today;
   document.getElementById('brag-prompt').textContent = promptText;
   document.getElementById('brag-phrase').textContent = phrase;
-  document.getElementById('brag-count').textContent = `Joined by ${data.total} humans today`;
+  document.getElementById('brag-count').textContent = `Joined by ${data.total} humans`;
   document.getElementById('share-section').hidden = false;
 
   const shareText = buildShareText(choice, phrase, data.total);
