@@ -218,5 +218,40 @@
     "date_added": "2026-05-07",
     "connection_share": "You asked a kid what they liked about today and they said 'the puddle.' That's the best thing you'll read all week. Share this, then put your phone down and go ask someone something real.",
     "rebel_share": "You didn't ask the kid. You just watched them jump in the puddle. That's enough. Share this, then put your phone down and go watch something real."
+  },
+  {
+    "id": "p041",
+    "text": "Go barefoot on grass and pretend you’re a secret explorer.",
+    "date_added": "2026-05-08",
+    "connection_share": "You stepped outside, felt the grass, and remembered you were once a person who moved through the world without needing a reason. Share this. Then leave.",
+    "rebel_share": "You didn’t go barefoot. You stayed indoors and scrolled. Share this. Then leave."
+  },
+  {
+    "id": "p042",
+    "text": "Tell a passing dog what your favorite snack is.",
+    "date_added": "2026-05-08",
+    "connection_share": "You told a dog about your snack and it didn’t care, which was the most honest interaction you’ve had in weeks. Share this. Then leave.",
+    "rebel_share": "You didn’t talk to the dog. You talked to your phone instead. Share this. Then leave."
+  },
+  {
+    "id": "p043",
+    "text": "Hum a song you haven’t heard in years and see if anyone joins in.",
+    "date_added": "2026-05-08",
+    "connection_share": "You hummed something old and no one joined, but you felt it in your chest. Share this. Then leave.",
+    "rebel_share": "You didn’t hum. You let the algorithm pick your song. Share this. Then leave."
+  },
+  {
+    "id": "p044",
+    "text": "Snap a photo of the first thing that makes you laugh today.",
+    "date_added": "2026-05-08",
+    "connection_share": "You took a photo of something that made you laugh and for a second it was enough. Share this. Then leave.",
+    "rebel_share": "You didn’t take the photo. You took a screenshot of someone else’s joke instead. Share this. Then leave."
+  },
+  {
+    "id": "p045",
+    "text": "Leave a kind note for someone you’ll never see again.",
+    "date_added": "2026-05-08",
+    "connection_share": "You left a note for a stranger and it felt like the only honest thing you’ve done all week. Share this. Then leave.",
+    "rebel_share": "You didn’t leave a note. You left a like on someone’s post. Share this. Then leave."
   }
 ]

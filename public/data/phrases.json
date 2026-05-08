@@ -155,6 +155,26 @@
     {
       "id": "c039",
       "text": "Shown up today, that's enough"
+    },
+    {
+      "id": "c040",
+      "text": "I kept my word today"
+    },
+    {
+      "id": "c041",
+      "text": "I showed up and stayed"
+    },
+    {
+      "id": "c042",
+      "text": "I leaned into it"
+    },
+    {
+      "id": "c043",
+      "text": "I played along and meant it"
+    },
+    {
+      "id": "c044",
+      "text": "I kept the faith"
     }
   ],
   "rebel": [
@@ -317,6 +337,22 @@
     {
       "id": "r040",
       "text": "I charted my own sunny path"
+    },
+    {
+      "id": "r041",
+      "text": "My joy didn't need instructions"
+    },
+    {
+      "id": "r042",
+      "text": "I danced without the playlist"
+    },
+    {
+      "id": "r043",
+      "text": "My morning was perfectly unplanned"
+    },
+    {
+      "id": "r044",
+      "text": "I followed what made me grin"
     }
   ]
 }
