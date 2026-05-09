@@ -253,5 +253,33 @@
     "date_added": "2026-05-08",
     "connection_share": "You left a note for a stranger and it felt like the only honest thing you’ve done all week. Share this. Then leave.",
     "rebel_share": "You didn’t leave a note. You left a like on someone’s post. Share this. Then leave."
+  },
+  {
+    "id": "p046",
+    "text": "Find a stick that looks like a wand and use it to draw smiley faces in the sand.",
+    "date_added": "2026-05-09",
+    "connection_share": "I drew smiley faces in the sand with a stick that looked like a wand. A stranger stopped and watched. We both smiled. You are probably reading this on a screen instead. Share this, then go touch dirt.",
+    "rebel_share": "I found a wand-stick but drew nothing. I just carried it like I had somewhere important to be. The point was never the smiley faces. Share this if you must, then put the phone down and walk somewhere."
+  },
+  {
+    "id": "p047",
+    "text": "Hum a favorite tune while watching the sunrise paint the sky in soft pinks and golds.",
+    "date_added": "2026-05-09",
+    "connection_share": "I hummed a half-remembered song while the sky turned pink and gold. It was not a performance. It was just mine. Share this, then hum something real to no one and watch a sky.",
+    "rebel_share": "I did not watch the sunrise. I watched the last of the light disappear instead. Both directions work. Share this, then step outside and witness whatever the sky is doing right now."
+  },
+  {
+    "id": "p048",
+    "text": "Splash in a puddle after a rainstorm and giggle at the ripples you create.",
+    "date_added": "2026-05-09",
+    "connection_share": "I splashed in a puddle and giggled at the ripples. I was thirty-one years old and it did not care. Neither did the puddle. Share this, then go find some water and make a mess.",
+    "rebel_share": "I did not find a puddle. I stood in the rain and let it decide where to touch me. Same idea, different mess. Share this, then go get properly wet."
+  },
+  {
+    "id": "p049",
+    "text": "Ask a friend to point out the most interesting leaf they can find and compare your favorites.",
+    "date_added": "2026-05-09",
+    "connection_share": "A friend showed me a leaf full of holes like a constellation. I showed her a red curled one. We held them side by side and said nothing. That was enough. Share this, then hand someone a leaf.",
+    "rebel_share": "I picked up leaves alone and compared them to nothing. I just turned one in my hand until I forgot what I was thinking about. Share this, then go hold something and get lost in it."
   }
 ]

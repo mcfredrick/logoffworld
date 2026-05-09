@@ -175,6 +175,14 @@
     {
       "id": "c044",
       "text": "I kept the faith"
+    },
+    {
+      "id": "c045",
+      "text": "I showed up and did my thing today"
+    },
+    {
+      "id": "c046",
+      "text": "Prompt conquered, I’m here today"
     }
   ],
   "rebel": [
@@ -353,6 +361,22 @@
     {
       "id": "r044",
       "text": "I followed what made me grin"
+    },
+    {
+      "id": "r045",
+      "text": "I painted my world in bright colors"
+    },
+    {
+      "id": "r046",
+      "text": "I followed my curiosity into wonder"
+    },
+    {
+      "id": "r047",
+      "text": "I rewrote the rules and smiled"
+    },
+    {
+      "id": "r048",
+      "text": "I embraced the unexpected with glee"
     }
   ]
 }
