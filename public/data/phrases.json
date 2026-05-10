@@ -183,6 +183,14 @@
     {
       "id": "c046",
       "text": "Prompt conquered, I’m here today"
+    },
+    {
+      "id": "c047",
+      "text": "I answered the call today"
+    },
+    {
+      "id": "c048",
+      "text": "I’m here, I did it"
     }
   ],
   "rebel": [
@@ -377,6 +385,22 @@
     {
       "id": "r048",
       "text": "I embraced the unexpected with glee"
+    },
+    {
+      "id": "r049",
+      "text": "I chased sunsets on my own terms"
+    },
+    {
+      "id": "r050",
+      "text": "Built a fort of pure imagination"
+    },
+    {
+      "id": "r051",
+      "text": "Skipped the script, found bliss"
+    },
+    {
+      "id": "r052",
+      "text": "Explored hidden trails, felt free"
     }
   ]
 }

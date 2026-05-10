@@ -281,5 +281,40 @@
     "date_added": "2026-05-09",
     "connection_share": "A friend showed me a leaf full of holes like a constellation. I showed her a red curled one. We held them side by side and said nothing. That was enough. Share this, then hand someone a leaf.",
     "rebel_share": "I picked up leaves alone and compared them to nothing. I just turned one in my hand until I forgot what I was thinking about. Share this, then go hold something and get lost in it."
+  },
+  {
+    "id": "p050",
+    "text": "Spot a leaf that looks like a tiny hat and imagine who left it there.",
+    "date_added": "2026-05-10",
+    "connection_share": "You found a leaf shaped like a tiny hat and imagined who left it there. That small wonder felt real. Share this, then log off.",
+    "rebel_share": "You ignored the leaf prompt entirely, which is fine. You did something else instead, and that was its own small thing. Share this, then log off."
+  },
+  {
+    "id": "p051",
+    "text": "Hum a tune to a passing bird and see if it sings back.",
+    "date_added": "2026-05-10",
+    "connection_share": "You hummed to a bird. It probably didn't sing back, but you hummed anyway, and that's a strange, honest thing to do. Share this, then log off.",
+    "rebel_share": "You didn't hum to any bird. Maybe you just watched one sit on a wire and thought about nothing, which is also something. Share this, then log off."
+  },
+  {
+    "id": "p052",
+    "text": "Share a silly joke with a friend you haven’t talked to in a while.",
+    "date_added": "2026-05-10",
+    "connection_share": "You told a bad joke to someone you haven't spoken to in months and they laughed, or at least pretended to, and that felt like enough. Share this, then log off.",
+    "rebel_share": "You didn't call anyone. You just sat with the feeling that you should, and that's a kind of honesty too. Share this, then log off."
+  },
+  {
+    "id": "p053",
+    "text": "Lie on the grass and count how many different sounds you can hear.",
+    "date_added": "2026-05-10",
+    "connection_share": "You lay in the grass and counted the sounds. Eleven, maybe twelve. The world was louder than you remembered. Share this, then log off.",
+    "rebel_share": "You didn't lie on the grass. You just stood around doing something else, which is fine. Not every moment needs to be counted. Share this, then log off."
+  },
+  {
+    "id": "p054",
+    "text": "Draw a smiley face on a pebble and leave it for someone to find.",
+    "date_added": "2026-05-10",
+    "connection_share": "You drew a wobbly smiley on a pebble and left it somewhere. Someone will find it, or they won't. Either way, you made a small, pointless gift to the world. Share this, then log off.",
+    "rebel_share": "You skipped the pebble. Maybe you already left something for someone without thinking about it. Share this, then log off."
   }
 ]
