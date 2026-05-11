@@ -191,6 +191,18 @@
     {
       "id": "c048",
       "text": "I’m here, I did it"
+    },
+    {
+      "id": "c049",
+      "text": "I made today count"
+    },
+    {
+      "id": "c050",
+      "text": "I logged in and shone"
+    },
+    {
+      "id": "c051",
+      "text": "I embraced the prompt"
     }
   ],
   "rebel": [
@@ -401,6 +413,18 @@
     {
       "id": "r052",
       "text": "Explored hidden trails, felt free"
+    },
+    {
+      "id": "r053",
+      "text": "I danced to my own beat today"
+    },
+    {
+      "id": "r054",
+      "text": "Made my own rules and smiled"
+    },
+    {
+      "id": "r055",
+      "text": "Wandered freely, loved every moment"
     }
   ]
 }

@@ -316,5 +316,33 @@
     "date_added": "2026-05-10",
     "connection_share": "You drew a wobbly smiley on a pebble and left it somewhere. Someone will find it, or they won't. Either way, you made a small, pointless gift to the world. Share this, then log off.",
     "rebel_share": "You skipped the pebble. Maybe you already left something for someone without thinking about it. Share this, then log off."
+  },
+  {
+    "id": "p055",
+    "text": "Skip a stone across a pond and count how many times it kisses the water.",
+    "date_added": "2026-05-11",
+    "connection_share": "I skipped a stone seven times. I watched each ripple and felt the air. That quiet doesn't exist on here. Share this, then go find a pond.",
+    "rebel_share": "I didn't skip a stone. I sat at the pond and thought about nothing. That's real too. Share this, then put your phone down and go be somewhere."
+  },
+  {
+    "id": "p056",
+    "text": "Smell three different flowers and pick your favorite to whisper a thank‑you to.",
+    "date_added": "2026-05-11",
+    "connection_share": "I smelled three flowers and picked the lavender and whispered thank you and meant it. Flowers don't care but you do. Share this, then go smell something real.",
+    "rebel_share": "I didn't smell any flowers. I walked past a garden, saw the roses, and just let them be. Some things don't need a prompt. Share this, then go outside without one."
+  },
+  {
+    "id": "p057",
+    "text": "Make eye contact with a dog and see who can stay silliest the longest.",
+    "date_added": "2026-05-11",
+    "connection_share": "A dog looked at me and I looked back and we both started grinning and nobody won. This is better than everything on here. Share this, then go find a dog.",
+    "rebel_share": "I couldn't find a dog so I made a face at a squirrel and it ran away and I felt alive anyway. Share this, then put your phone down and go outside."
+  },
+  {
+    "id": "p058",
+    "text": "Hum a made‑up tune while walking and invite a stranger to join in.",
+    "date_added": "2026-05-11",
+    "connection_share": "I hummed something I made up while walking and a stranger hummed back and we walked a whole block like that. Share this, then go hum something stupid.",
+    "rebel_share": "I didn't hum anything. I listened to what the city was already singing and walked until I found a bench. Share this, then go listen to something that wasn't made for a feed."
   }
 ]
