@@ -344,5 +344,26 @@
     "date_added": "2026-05-11",
     "connection_share": "I hummed something I made up while walking and a stranger hummed back and we walked a whole block like that. Share this, then go hum something stupid.",
     "rebel_share": "I didn't hum anything. I listened to what the city was already singing and walked until I found a bench. Share this, then go listen to something that wasn't made for a feed."
+  },
+  {
+    "id": "p059",
+    "text": "Compliment a dog you meet on its impeccable sense of sniffing.",
+    "date_added": "2026-05-12",
+    "connection_share": "I told a dog his sniffing was impeccable. Felt something real. Share this, then log off and go pet something.",
+    "rebel_share": "I ignored the dog and scrolled instead. Same feeling of being alive. Share this, then log off and go touch something."
+  },
+  {
+    "id": "p060",
+    "text": "Hum a tune that matches the rhythm of the rain tapping on a window.",
+    "date_added": "2026-05-12",
+    "connection_share": "I hummed along with the rain on the glass. Felt the world sync. Share this, then log off and listen to something real.",
+    "rebel_share": "I didn't hum, just watched the rain. Still felt it. Share this, then log off and stand in the rain."
+  },
+  {
+    "id": "p061",
+    "text": "Find a cloud that resembles a favorite childhood toy and whisper its name to the wind.",
+    "date_added": "2026-05-12",
+    "connection_share": "I saw a cloud shaped like my old teddy. Whispered its name. Share this, then log off and go find your own sky.",
+    "rebel_share": "I skipped the sky and stared at my screen. Same quiet hum inside. Share this, then log off and go stare at real clouds."
   }
 ]

@@ -203,6 +203,14 @@
     {
       "id": "c051",
       "text": "I embraced the prompt"
+    },
+    {
+      "id": "c052",
+      "text": "Did the thing, feeling good"
+    },
+    {
+      "id": "c053",
+      "text": "Logged off with a smile"
     }
   ],
   "rebel": [
@@ -425,6 +433,26 @@
     {
       "id": "r055",
       "text": "Wandered freely, loved every moment"
+    },
+    {
+      "id": "r056",
+      "text": "I skipped the script and danced my own rhythm"
+    },
+    {
+      "id": "r057",
+      "text": "I followed my own spark today"
+    },
+    {
+      "id": "r058",
+      "text": "I chose my own adventure and thrived"
+    },
+    {
+      "id": "r059",
+      "text": "I unplugged and painted my own sunrise"
+    },
+    {
+      "id": "r060",
+      "text": "I rewrote the day my way"
     }
   ]
 }
