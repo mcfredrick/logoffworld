@@ -211,6 +211,18 @@
     {
       "id": "c053",
       "text": "Logged off with a smile"
+    },
+    {
+      "id": "c054",
+      "text": "I pressed the button today"
+    },
+    {
+      "id": "c055",
+      "text": "I did my part today"
+    },
+    {
+      "id": "c056",
+      "text": "Clocking out with pride"
     }
   ],
   "rebel": [
@@ -453,6 +465,22 @@
     {
       "id": "r060",
       "text": "I rewrote the day my way"
+    },
+    {
+      "id": "r061",
+      "text": "I unplugged and discovered something beautiful"
+    },
+    {
+      "id": "r062",
+      "text": "Today I chose my own path"
+    },
+    {
+      "id": "r063",
+      "text": "My day my rules my joy"
+    },
+    {
+      "id": "r064",
+      "text": "I ditched the script and bloomed"
     }
   ]
 }

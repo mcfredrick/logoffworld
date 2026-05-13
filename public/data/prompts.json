@@ -365,5 +365,33 @@
     "date_added": "2026-05-12",
     "connection_share": "I saw a cloud shaped like my old teddy. Whispered its name. Share this, then log off and go find your own sky.",
     "rebel_share": "I skipped the sky and stared at my screen. Same quiet hum inside. Share this, then log off and go stare at real clouds."
+  },
+  {
+    "id": "p062",
+    "text": "Stick your hand outside a window or door and feel the air on your skin like it's introducing itself.",
+    "date_added": "2026-05-13",
+    "connection_share": "I stuck my hand outside a window and felt the air introduce itself. It was colder than I expected and slightly rude. Share this, then abandon this platform and touch something real.",
+    "rebel_share": "I skipped the prompt. I put my hand on a doorknob instead and felt the whole house hum. Share this, then leave this app and go feel something you didn't expect."
+  },
+  {
+    "id": "p063",
+    "text": "Sit somewhere you've never sat before and notice what changes.",
+    "date_added": "2026-05-13",
+    "connection_share": "I sat under the stairs today and noticed the light was different there. Quieter. Share this, then get up from wherever you are and find a seat you've never tried.",
+    "rebel_share": "I didn't sit anywhere new. I stood on the kitchen counter instead and saw the whole room differently. Share this, then quit scrolling and stand somewhere you haven't stood."
+  },
+  {
+    "id": "p064",
+    "text": "Follow a bird with your eyes until it lands somewhere unexpected.",
+    "date_added": "2026-05-13",
+    "connection_share": "I watched a pigeon for two minutes and it landed on a fire escape I'd never noticed. Share this, then look at something alive and let this app go dark.",
+    "rebel_share": "I didn't follow a bird. I became suspicious of one and it still landed somewhere I wasn't expecting. Share this, then stop scrolling and watch something with intent."
+  },
+  {
+    "id": "p065",
+    "text": "Hum a song you haven't thought about in years and let someone ask what you're humming.",
+    "date_added": "2026-05-13",
+    "connection_share": "I hummed a song from 2009 and my roommate asked what it was and we ended up talking for an hour. Share this, then hum something and let a real person interrupt you.",
+    "rebel_share": "I didn't hum anything. I just made a sound that confused my cat and that felt like enough. Share this, then make a noise in a room and see who comes to find you."
   }
 ]
