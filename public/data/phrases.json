@@ -223,6 +223,14 @@
     {
       "id": "c056",
       "text": "Clocking out with pride"
+    },
+    {
+      "id": "c057",
+      "text": "That one's done and dusted"
+    },
+    {
+      "id": "c058",
+      "text": "Marked it off the list"
     }
   ],
   "rebel": [
@@ -481,6 +489,26 @@
     {
       "id": "r064",
       "text": "I ditched the script and bloomed"
+    },
+    {
+      "id": "r065",
+      "text": "Closed the laptop, found my spark"
+    },
+    {
+      "id": "r066",
+      "text": "I played hooky from the internet"
+    },
+    {
+      "id": "r067",
+      "text": "Today I chose the scenic route"
+    },
+    {
+      "id": "r068",
+      "text": "Unplugged and buzzing with good vibes"
+    },
+    {
+      "id": "r069",
+      "text": "I followed my heart instead"
     }
   ]
 }

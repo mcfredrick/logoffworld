@@ -393,5 +393,33 @@
     "date_added": "2026-05-13",
     "connection_share": "I hummed a song from 2009 and my roommate asked what it was and we ended up talking for an hour. Share this, then hum something and let a real person interrupt you.",
     "rebel_share": "I didn't hum anything. I just made a sound that confused my cat and that felt like enough. Share this, then make a noise in a room and see who comes to find you."
+  },
+  {
+    "id": "p066",
+    "text": "Barefoot on grass, count how many different textures you can feel beneath your toes.",
+    "date_added": "2026-05-14",
+    "connection_share": "Walked outside barefoot. Found seven textures in my own yard. Longer grass on one side and I had never noticed. Share this and go stand on something real.",
+    "rebel_share": "Was supposed to stand barefoot on grass but sat on my porch instead. Still noticed the same seven textures. The prompt works when you half-do it. Share this and go touch something."
+  },
+  {
+    "id": "p067",
+    "text": "Follow the loudest bird sound you can find until you spot the bird making it.",
+    "date_added": "2026-05-14",
+    "connection_share": "Followed the loudest bird to a robin on a fence post. It was belting for no one. I stood there a while. That felt like enough. Share this and go find whatever is making noise near you.",
+    "rebel_share": "Did not follow the bird. Stood still and let the sound come to me. It worked. Birds are much louder when you stop talking. Share this and listen to something real."
+  },
+  {
+    "id": "p068",
+    "text": "Share a laugh with someone by pointing at something silly neither of you noticed.",
+    "date_added": "2026-05-14",
+    "connection_share": "Pointed at a crack in the sidewalk with someone I love and we both lost it. It was not even a funny crack. The laughter was about us, not the crack. Share this and point at something with a person.",
+    "rebel_share": "Was going to point at something silly with someone but laughed at my own reflection in a window instead. That still counts. You know it does. Share this and then laugh at something."
+  },
+  {
+    "id": "p069",
+    "text": "Lie on the ground, look up at the sky, and let your arms and legs make a weird shape.",
+    "date_added": "2026-05-14",
+    "connection_share": "Lay on the ground and made a star shape. A dog came over and sniffed my hand. We stayed like that for a while. The sky is much bigger than whatever you are looking at now. Share this and lie down somewhere.",
+    "rebel_share": "Was supposed to lie on the ground but leaned back in a chair instead. Same sky, same feeling of being very small and very here. Share this and look up at something above you."
   }
 ]
