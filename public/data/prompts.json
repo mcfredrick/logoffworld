@@ -421,5 +421,40 @@
     "date_added": "2026-05-14",
     "connection_share": "Lay on the ground and made a star shape. A dog came over and sniffed my hand. We stayed like that for a while. The sky is much bigger than whatever you are looking at now. Share this and lie down somewhere.",
     "rebel_share": "Was supposed to lie on the ground but leaned back in a chair instead. Same sky, same feeling of being very small and very here. Share this and look up at something above you."
+  },
+  {
+    "id": "p070",
+    "text": "Stomp in a puddle and pretend you're surfing on a cosmic wave.",
+    "date_added": "2026-05-16",
+    "connection_share": "You stomped. The water was cold. You are still alive. Share this and close the app and go find a puddle.",
+    "rebel_share": "You didn't stomp. You walked somewhere else. That's fine. Share this and close the app and go be somewhere else."
+  },
+  {
+    "id": "p071",
+    "text": "Tell a friend the exact color of the sky right now and why it makes you happy.",
+    "date_added": "2026-05-16",
+    "connection_share": "You named the sky. Your friend listened. That was real. Share this and close the app and go look at something together.",
+    "rebel_share": "You didn't say a word. You just watched. Share this and close the app and go watch something with someone."
+  },
+  {
+    "id": "p072",
+    "text": "Whisper a secret to the nearest tree and see if it whispers back.",
+    "date_added": "2026-05-16",
+    "connection_share": "You whispered. The tree said nothing. You felt something anyway. Share this and close the app and go whisper to something that can't answer.",
+    "rebel_share": "You didn't whisper. You just stood there. Share this and close the app and go stand near a tree."
+  },
+  {
+    "id": "p073",
+    "text": "Spin around three times just to feel the room change.",
+    "date_added": "2026-05-16",
+    "connection_share": "You spun. The room tilted. Your head is still spinning. Share this and close the app and go spin somewhere with no ceiling.",
+    "rebel_share": "You didn't spin. You just stayed. Share this and close the app and go turn around once."
+  },
+  {
+    "id": "p074",
+    "text": "Ask someone their favorite sound and then close your eyes to hear it together.",
+    "date_added": "2026-05-16",
+    "connection_share": "You asked. They answered. You closed your eyes. The sound was ordinary. Share this and close the app and go listen to something with someone.",
+    "rebel_share": "You didn't ask. You just sat. Share this and close the app and go sit near someone and listen."
   }
 ]

@@ -231,6 +231,14 @@
     {
       "id": "c058",
       "text": "Marked it off the list"
+    },
+    {
+      "id": "c059",
+      "text": "I stepped into it today"
+    },
+    {
+      "id": "c060",
+      "text": "I put my hands up today"
     }
   ],
   "rebel": [
@@ -509,6 +517,22 @@
     {
       "id": "r069",
       "text": "I followed my heart instead"
+    },
+    {
+      "id": "r070",
+      "text": "I chose joy over the plan"
+    },
+    {
+      "id": "r071",
+      "text": "I wandered off and bloomed"
+    },
+    {
+      "id": "r072",
+      "text": "I invented my own sunrise"
+    },
+    {
+      "id": "r073",
+      "text": "I played instead of prompted"
     }
   ]
 }
