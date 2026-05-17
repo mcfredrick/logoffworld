@@ -456,5 +456,40 @@
     "date_added": "2026-05-16",
     "connection_share": "You asked. They answered. You closed your eyes. The sound was ordinary. Share this and close the app and go listen to something with someone.",
     "rebel_share": "You didn't ask. You just sat. Share this and close the app and go sit near someone and listen."
+  },
+  {
+    "id": "p075",
+    "text": "Skip stones across a puddle and cheer for every splash.",
+    "date_added": "2026-05-17",
+    "connection_share": "You threw a rock and actually cheered. That's more real than any reaction emoji. Share this with someone who still knows what a puddle looks like, then close the app.",
+    "rebel_share": "You skipped the puddle entirely and just stood there. Either way you're outside. Share this with someone who knows, then close the app."
+  },
+  {
+    "id": "p076",
+    "text": "Give a friend a hug and make it last a little longer than usual.",
+    "date_added": "2026-05-17",
+    "connection_share": "You held on past the point of awkwardness and felt something. That's the thing you can't scroll past. Share this with someone who gets it, then close the app.",
+    "rebel_share": "You didn't hug anyone but you thought about it, which is probably enough. Share this with someone who understands, then close the app."
+  },
+  {
+    "id": "p077",
+    "text": "Turn up the music and dance in the middle of your kitchen until you both burst out laughing.",
+    "date_added": "2026-05-17",
+    "connection_share": "You danced in the kitchen and laughed so hard your sides hurt. That's what living sounds like. Share this with someone who needs it, then close the app.",
+    "rebel_share": "You turned the music on but didn't dance. You're still sitting in the kitchen. Share this with someone who won't judge, then close the app."
+  },
+  {
+    "id": "p078",
+    "text": "Lie on the grass and watch the clouds until you see one that looks like something ridiculous.",
+    "date_added": "2026-05-17",
+    "connection_share": "You lay on the grass and found a cloud shaped like a duck with a mustache. That's better than any feed. Share this with someone who remembers looking up, then close the app.",
+    "rebel_share": "You stayed inside and looked at ceiling tiles instead. Still a form of lying down. Share this with someone who gets it, then close the app."
+  },
+  {
+    "id": "p079",
+    "text": "Tell a neighbor about the funniest thing you saw on your walk today.",
+    "date_added": "2026-05-17",
+    "connection_share": "You told your neighbor something funny and watched their face change. That's the whole point. Share this with someone real, then close the app.",
+    "rebel_share": "You kept the funny thing to yourself. It's yours now. Share this with someone who won't make it into a story, then close the app."
   }
 ]

@@ -239,6 +239,14 @@
     {
       "id": "c060",
       "text": "I put my hands up today"
+    },
+    {
+      "id": "c061",
+      "text": "I showed up, slightly nervous but here"
+    },
+    {
+      "id": "c062",
+      "text": "I checked in with myself today"
     }
   ],
   "rebel": [
@@ -533,6 +541,18 @@
     {
       "id": "r073",
       "text": "I played instead of prompted"
+    },
+    {
+      "id": "r074",
+      "text": "My own rhythm felt amazing"
+    },
+    {
+      "id": "r075",
+      "text": "Off-script and fully alive"
+    },
+    {
+      "id": "r076",
+      "text": "I colored outside the lines"
     }
   ]
 }
