@@ -247,6 +247,14 @@
     {
       "id": "c062",
       "text": "I checked in with myself today"
+    },
+    {
+      "id": "c063",
+      "text": "The prompt got me, but I showed up"
+    },
+    {
+      "id": "c064",
+      "text": "I showed up, no excuses"
     }
   ],
   "rebel": [
@@ -553,6 +561,22 @@
     {
       "id": "r076",
       "text": "I colored outside the lines"
+    },
+    {
+      "id": "r077",
+      "text": "I danced with no audience"
+    },
+    {
+      "id": "r078",
+      "text": "I unplugged and recharged myself"
+    },
+    {
+      "id": "r079",
+      "text": "I made breakfast for my soul"
+    },
+    {
+      "id": "r080",
+      "text": "I wandered without a map"
     }
   ]
 }

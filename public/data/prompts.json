@@ -491,5 +491,40 @@
     "date_added": "2026-05-17",
     "connection_share": "You told your neighbor something funny and watched their face change. That's the whole point. Share this with someone real, then close the app.",
     "rebel_share": "You kept the funny thing to yourself. It's yours now. Share this with someone who won't make it into a story, then close the app."
+  },
+  {
+    "id": "p080",
+    "text": "Skip a puddle and make a wish you won't tell anyone.",
+    "date_added": "2026-05-18",
+    "connection_share": "You skipped the puddle, whispered a wish to no one, and felt something unmarketable. Share this and then abandon the platform and go do something real.",
+    "rebel_share": "You ignored the puddle, made your own wish, or didn't bother. Still human. Share this and then abandon the platform and go do something real."
+  },
+  {
+    "id": "p081",
+    "text": "Send a voice note to someone and say exactly what you see right now.",
+    "date_added": "2026-05-18",
+    "connection_share": "You sent a voice note describing the street, the light, the thing on the bench. It felt real. Share this and then abandon the platform and go do something real.",
+    "rebel_share": "You didn't send the voice note. You watched the street, thought about the light, and kept it to yourself. Share this and then abandon the platform and go do something real."
+  },
+  {
+    "id": "p082",
+    "text": "Watch a leaf fall and pretend it's the main character in its own story.",
+    "date_added": "2026-05-18",
+    "connection_share": "You watched the leaf spin down, imagined its plot, its rivals, its quiet monologue. It meant something. Share this and then abandon the platform and go do something real.",
+    "rebel_share": "You didn't watch the leaf. You walked past it, maybe kicked it, and didn't invent a story. Share this and then abandon the platform and go do something real."
+  },
+  {
+    "id": "p083",
+    "text": "Take a walk with no destination and follow the funniest sound you hear.",
+    "date_added": "2026-05-18",
+    "connection_share": "You walked nowhere, chased a creaking gate or a dog's bark, and felt the absurdity settle in. Share this and then abandon the platform and go do something real.",
+    "rebel_share": "You didn't walk. You stayed put, heard the funny sound from inside, and didn't move. Share this and then abandon the platform and go do something real."
+  },
+  {
+    "id": "p084",
+    "text": "Hum a made-up song to the next animal you spot.",
+    "date_added": "2026-05-18",
+    "connection_share": "You hummed a nonsense tune to a pigeon, a squirrel, a stray cat. It made no sense and felt like yours. Share this and then abandon the platform and go do something real.",
+    "rebel_share": "You didn't hum. You walked past the animal, thought about it, and kept quiet. Share this and then abandon the platform and go do something real."
   }
 ]
