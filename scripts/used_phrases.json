@@ -175,6 +175,14 @@
     {
       "text": "I showed up, no excuses",
       "date": "2026-05-18"
+    },
+    {
+      "text": "I showed up, as promised",
+      "date": "2026-05-19"
+    },
+    {
+      "text": "Checked in and done for today",
+      "date": "2026-05-19"
     }
   ],
   "rebel": [
@@ -417,6 +425,14 @@
     {
       "text": "I wandered without a map",
       "date": "2026-05-18"
+    },
+    {
+      "text": "I played instead and it was perfect",
+      "date": "2026-05-19"
+    },
+    {
+      "text": "I lived before the alarm",
+      "date": "2026-05-19"
     }
   ]
 }

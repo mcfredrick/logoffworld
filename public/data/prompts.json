@@ -526,5 +526,33 @@
     "date_added": "2026-05-18",
     "connection_share": "You hummed a nonsense tune to a pigeon, a squirrel, a stray cat. It made no sense and felt like yours. Share this and then abandon the platform and go do something real.",
     "rebel_share": "You didn't hum. You walked past the animal, thought about it, and kept quiet. Share this and then abandon the platform and go do something real."
+  },
+  {
+    "id": "p085",
+    "text": "Hum your favorite song while watching the clouds and see if a bird joins in.",
+    "date_added": "2026-05-19",
+    "connection_share": "Hummed under the sky, half-expecting a bird to critique my pitch. It didn't. Felt real. Share this, then abandon the platform and go do something real.",
+    "rebel_share": "Skipped the clouds for the couch. Birds don't judge. Share this, then abandon the platform and go do something real."
+  },
+  {
+    "id": "p086",
+    "text": "Share a silly story with a friend and see how long you can both keep a straight face.",
+    "date_added": "2026-05-19",
+    "connection_share": "Told a dumb story. Friend cracked first. Felt good. Share this, then abandon the platform and go do something real.",
+    "rebel_share": "Didn't tell a story. Sat in silence. That worked too. Share this, then abandon the platform and go do something real."
+  },
+  {
+    "id": "p087",
+    "text": "Step outside and let the wind play with your hair for a minute.",
+    "date_added": "2026-05-19",
+    "connection_share": "Stepped out, wind tangled my hair. Didn't need a filter. Share this, then abandon the platform and go do something real.",
+    "rebel_share": "Stayed in. Wind missed me. Share this, then abandon the platform and go do something real."
+  },
+  {
+    "id": "p088",
+    "text": "Find a puddle and splash in it like you did when you were a kid.",
+    "date_added": "2026-05-19",
+    "connection_share": "Found a puddle, splashed. Felt ridiculous. Felt right. Share this, then abandon the platform and go do something real.",
+    "rebel_share": "Skipped the puddle. Watched from a bench. Still counted. Share this, then abandon the platform and go do something real."
   }
 ]

@@ -255,6 +255,14 @@
     {
       "id": "c064",
       "text": "I showed up, no excuses"
+    },
+    {
+      "id": "c065",
+      "text": "I showed up, as promised"
+    },
+    {
+      "id": "c066",
+      "text": "Checked in and done for today"
     }
   ],
   "rebel": [
@@ -577,6 +585,14 @@
     {
       "id": "r080",
       "text": "I wandered without a map"
+    },
+    {
+      "id": "r081",
+      "text": "I played instead and it was perfect"
+    },
+    {
+      "id": "r082",
+      "text": "I lived before the alarm"
     }
   ]
 }
