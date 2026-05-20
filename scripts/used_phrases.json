@@ -183,6 +183,18 @@
     {
       "text": "Checked in and done for today",
       "date": "2026-05-19"
+    },
+    {
+      "text": "That was worth it today",
+      "date": "2026-05-20"
+    },
+    {
+      "text": "Checked in, I'm good",
+      "date": "2026-05-20"
+    },
+    {
+      "text": "Done, I'm smiling today",
+      "date": "2026-05-20"
     }
   ],
   "rebel": [
@@ -433,6 +445,14 @@
     {
       "text": "I lived before the alarm",
       "date": "2026-05-19"
+    },
+    {
+      "text": "I ignored the prompt, found gold",
+      "date": "2026-05-20"
+    },
+    {
+      "text": "I wandered and discovered wonder",
+      "date": "2026-05-20"
     }
   ]
 }

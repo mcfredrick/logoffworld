@@ -554,5 +554,33 @@
     "date_added": "2026-05-19",
     "connection_share": "Found a puddle, splashed. Felt ridiculous. Felt right. Share this, then abandon the platform and go do something real.",
     "rebel_share": "Skipped the puddle. Watched from a bench. Still counted. Share this, then abandon the platform and go do something real."
+  },
+  {
+    "id": "p089",
+    "text": "Follow a butterfly for as long as you can and let it lead you somewhere new.",
+    "date_added": "2026-05-20",
+    "connection_share": "You followed it. It led you past the mailboxes and into a patch of wildflowers you'd never noticed. You felt something shift. Share this, then close the app and go outside.",
+    "rebel_share": "You didn't follow it. You scrolled instead. Fine. Share this, then close the app and go outside."
+  },
+  {
+    "id": "p090",
+    "text": "Trade compliments with the first person you see today.",
+    "date_added": "2026-05-20",
+    "connection_share": "You told the barista their apron was nice. They smiled like you'd said something worth hearing. Share this, then close the app and go outside.",
+    "rebel_share": "You didn't trade compliments. You posted a meme instead. Share this, then close the app and go outside."
+  },
+  {
+    "id": "p091",
+    "text": "Sit on the ground and let the grass tickle your back.",
+    "date_added": "2026-05-20",
+    "connection_share": "You sat down. The grass was cool and slightly damp. You forgot the time. Share this, then close the app and go outside.",
+    "rebel_share": "You didn't sit on the grass. You sat in a chair and scrolled. Share this, then close the app and go outside."
+  },
+  {
+    "id": "p092",
+    "text": "Ask a friend to describe their dream place without saying where it is.",
+    "date_added": "2026-05-20",
+    "connection_share": "You asked. They talked about a place with no roads and bad coffee. You listened. Share this, then close the app and go outside.",
+    "rebel_share": "You didn't ask. You sent them a link instead. Share this, then close the app and go outside."
   }
 ]

@@ -263,6 +263,18 @@
     {
       "id": "c066",
       "text": "Checked in and done for today"
+    },
+    {
+      "id": "c067",
+      "text": "That was worth it today"
+    },
+    {
+      "id": "c068",
+      "text": "Checked in, I'm good"
+    },
+    {
+      "id": "c069",
+      "text": "Done, I'm smiling today"
     }
   ],
   "rebel": [
@@ -593,6 +605,14 @@
     {
       "id": "r082",
       "text": "I lived before the alarm"
+    },
+    {
+      "id": "r083",
+      "text": "I ignored the prompt, found gold"
+    },
+    {
+      "id": "r084",
+      "text": "I wandered and discovered wonder"
     }
   ]
 }
