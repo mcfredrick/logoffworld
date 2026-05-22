@@ -582,5 +582,40 @@
     "date_added": "2026-05-20",
     "connection_share": "You asked. They talked about a place with no roads and bad coffee. You listened. Share this, then close the app and go outside.",
     "rebel_share": "You didn't ask. You sent them a link instead. Share this, then close the app and go outside."
+  },
+  {
+    "id": "p093",
+    "text": "Tiptoe through a puddle and make a wish as the water splashes your shoes.",
+    "date_added": "2026-05-22",
+    "connection_share": "You tiptoed, you wished, the water was cold and your shoes were soaked. Share this, then log off and go stand in a puddle.",
+    "rebel_share": "You skipped the puddle. You just walked through it and laughed. Share this, then abandon the app and go get wet."
+  },
+  {
+    "id": "p094",
+    "text": "Sit next to someone and tell them a joke that makes you laugh before they can laugh.",
+    "date_added": "2026-05-22",
+    "connection_share": "You told the joke, you laughed first, they laughed after. Share this, then put the phone down and talk to someone.",
+    "rebel_share": "You didn't tell the joke. You just laughed at the silence. Share this, then log off and sit with someone in the quiet."
+  },
+  {
+    "id": "p095",
+    "text": "Notice three things you can hear right now and whisper them to the nearest person.",
+    "date_added": "2026-05-22",
+    "connection_share": "You heard the hum, the bird, the fan. You whispered them to someone. Share this, then log off and listen to the world.",
+    "rebel_share": "You didn't whisper. You just heard the hum, the bird, the fan, and kept scrolling. Share this, then log off and actually listen."
+  },
+  {
+    "id": "p096",
+    "text": "Dance in the middle of the sidewalk and see who joins you.",
+    "date_added": "2026-05-22",
+    "connection_share": "You danced, you looked ridiculous, someone almost joined. Share this, then log off and go dance in the street.",
+    "rebel_share": "You didn't dance. You just stood on the sidewalk and watched people walk by. Share this, then log off and go be ridiculous somewhere."
+  },
+  {
+    "id": "p097",
+    "text": "Ask a stranger to tell you their favorite color and then guess it together.",
+    "date_added": "2026-05-22",
+    "connection_share": "You asked, they told, you guessed wrong, they laughed. Share this, then log off and go ask someone a real question.",
+    "rebel_share": "You didn't ask. You just guessed your own favorite color and felt satisfied. Share this, then log off and go be a stranger to someone."
   }
 ]

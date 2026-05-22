@@ -275,6 +275,22 @@
     {
       "id": "c069",
       "text": "Done, I'm smiling today"
+    },
+    {
+      "id": "c070",
+      "text": "I danced with today's weird little prompt"
+    },
+    {
+      "id": "c071",
+      "text": "I cracked the code today"
+    },
+    {
+      "id": "c072",
+      "text": "I gave today the wink it needed"
+    },
+    {
+      "id": "c073",
+      "text": "I threw my hat in today"
     }
   ],
   "rebel": [
@@ -613,6 +629,22 @@
     {
       "id": "r084",
       "text": "I wandered and discovered wonder"
+    },
+    {
+      "id": "r085",
+      "text": "I went rogue and it ruled"
+    },
+    {
+      "id": "r086",
+      "text": "My joy had its own plan"
+    },
+    {
+      "id": "r087",
+      "text": "I made today mine solo"
+    },
+    {
+      "id": "r088",
+      "text": "I flew where prompts couldn't reach"
     }
   ]
 }
