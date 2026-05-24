@@ -299,6 +299,14 @@
     {
       "id": "c075",
       "text": "Done with today, feeling good"
+    },
+    {
+      "id": "c076",
+      "text": "I showed up despite myself"
+    },
+    {
+      "id": "c077",
+      "text": "I followed through today"
     }
   ],
   "rebel": [
@@ -661,6 +669,18 @@
     {
       "id": "r090",
       "text": "I forgot the prompt and thrived"
+    },
+    {
+      "id": "r091",
+      "text": "I chased butterflies, no map needed"
+    },
+    {
+      "id": "r092",
+      "text": "I said yes to myself"
+    },
+    {
+      "id": "r093",
+      "text": "I let joy lead the way"
     }
   ]
 }

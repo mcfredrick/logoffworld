@@ -638,5 +638,40 @@
     "date_added": "2026-05-23",
     "connection_share": "You stomped in a puddle and had fun. Share this, then abandon the platform and go do something real.",
     "rebel_share": "You didn't stomp in a puddle. You did your own thing. Share this, then abandon the platform and go do something real."
+  },
+  {
+    "id": "p101",
+    "text": "Send a ridiculous selfie to a friend and see how fast they reply.",
+    "date_added": "2026-05-24",
+    "connection_share": "Sent a stupid selfie to someone I actually like. They replied before I finished typing. It was real. Share this, then log off and go touch something that isn't a screen.",
+    "rebel_share": "Skipped the selfie. Went outside and saw a dog. Still better than your feed. Share this, then close the app and go be somewhere."
+  },
+  {
+    "id": "p102",
+    "text": "Step outside and name the first bird you hear.",
+    "date_added": "2026-05-24",
+    "connection_share": "Stepped out, heard a sparrow, said its name out loud. Felt dumb. Felt present. Share this, then log off and go hear something real.",
+    "rebel_share": "Ignored the bird. Picked up a pinecone. Same nature, less performative. Share this, then close the screen and go outside."
+  },
+  {
+    "id": "p103",
+    "text": "Challenge a coworker to a staring contest and laugh when you lose.",
+    "date_added": "2026-05-24",
+    "connection_share": "Stared at Dave until I blinked. Laughed. He laughed. Neither of us looked at our phones. Share this, then log off and go make eye contact with a human.",
+    "rebel_share": "Didn't stare at Dave. Ate a sandwich instead. Still human. Share this, then close the app and go do something pointless in person."
+  },
+  {
+    "id": "p104",
+    "text": "Trace the shape of a leaf with your finger and show it to someone.",
+    "date_added": "2026-05-24",
+    "connection_share": "Traced a leaf on my palm. Showed it to my sister. She said it looked like a hand. We talked for ten minutes. Share this, then log off and go show someone something real.",
+    "rebel_share": "Skipped the leaf. Drew a spiral on a napkin. Handed it to a stranger. They looked confused. Share this, then close the app and go make someone uncomfortable in person."
+  },
+  {
+    "id": "p105",
+    "text": "Whisper a compliment to the next person who walks by.",
+    "date_added": "2026-05-24",
+    "connection_share": "Whispered 'you have nice shoes' to a stranger. They smiled. I forgot to check my notifications. Share this, then log off and go say something kind to a real person.",
+    "rebel_share": "Didn't whisper. Walked past and thought about coffee. Still a human moment. Share this, then close the app and go be awake for once."
   }
 ]
