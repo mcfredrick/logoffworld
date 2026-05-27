@@ -307,6 +307,14 @@
     {
       "id": "c077",
       "text": "I followed through today"
+    },
+    {
+      "id": "c078",
+      "text": "Today was a success"
+    },
+    {
+      "id": "c079",
+      "text": "I crushing it today"
     }
   ],
   "rebel": [
@@ -681,6 +689,18 @@
     {
       "id": "r093",
       "text": "I let joy lead the way"
+    },
+    {
+      "id": "r094",
+      "text": "I chose sunshine over schedules"
+    },
+    {
+      "id": "r095",
+      "text": "I made joy my daily ritual"
+    },
+    {
+      "id": "r096",
+      "text": "I ignored the script completely"
     }
   ]
 }

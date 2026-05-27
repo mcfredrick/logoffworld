@@ -673,5 +673,40 @@
     "date_added": "2026-05-24",
     "connection_share": "Whispered 'you have nice shoes' to a stranger. They smiled. I forgot to check my notifications. Share this, then log off and go say something kind to a real person.",
     "rebel_share": "Didn't whisper. Walked past and thought about coffee. Still a human moment. Share this, then close the app and go be awake for once."
+  },
+  {
+    "id": "p106",
+    "text": "Dance in the rain without an umbrella and splash through puddles.",
+    "date_added": "2026-05-27",
+    "connection_share": "You danced in the rain. Got soaked. Felt something you'd forgotten you could. Share this, then put the phone down and go find a puddle.",
+    "rebel_share": "You ignored the prompt and went inside, which is fine. Share this, then put the phone down and do literally anything else."
+  },
+  {
+    "id": "p107",
+    "text": "Sing a silly song to a bird you spot and see if it sings back.",
+    "date_added": "2026-05-27",
+    "connection_share": "You sang to a bird. It stared at you. You stared back. Something was real in that silence. Share this, then close the app and find a bird.",
+    "rebel_share": "You didn't sing to a bird. You scrolled instead, which is honestly more your speed. Share this, then close the app and do something uncurated."
+  },
+  {
+    "id": "p108",
+    "text": "Send a funny drawing to someone you love out of nowhere.",
+    "date_added": "2026-05-27",
+    "connection_share": "You drew something dumb and sent it. They probably laughed. You felt the whole thing. Share this, then close the app and draw more for people who matter.",
+    "rebel_share": "You skipped the drawing and just thought about the person, which is harder and rarer. Share this, then close the app and tell them something real."
+  },
+  {
+    "id": "p109",
+    "text": "Blow a dandelion and make a wish out loud, even if it's silly.",
+    "date_added": "2026-05-27",
+    "connection_share": "You blew a dandelion and whispered something stupid into the wind. The wind didn't care. You did. Share this, then close the app and blow something else.",
+    "rebel_share": "You saw the dandelion and left it. But you thought about what you'd wish for, which is close enough. Share this, then close the app and make a wish without a witness."
+  },
+  {
+    "id": "p110",
+    "text": "Sit with a friend in comfortable silence, then break it with laughter.",
+    "date_added": "2026-05-27",
+    "connection_share": "You sat with someone and said nothing. Then you laughed at nothing. Then you remembered what quiet could be. Share this, then close the app and sit with someone real.",
+    "rebel_share": "You didn't sit with anyone. You just sat, which is a kind of silence too. Share this, then close the app and find a person or don't."
   }
 ]
