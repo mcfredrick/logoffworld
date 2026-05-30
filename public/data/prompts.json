@@ -708,5 +708,40 @@
     "date_added": "2026-05-27",
     "connection_share": "You sat with someone and said nothing. Then you laughed at nothing. Then you remembered what quiet could be. Share this, then close the app and sit with someone real.",
     "rebel_share": "You didn't sit with anyone. You just sat, which is a kind of silence too. Share this, then close the app and find a person or don't."
+  },
+  {
+    "id": "p111",
+    "text": "Trace a spiral on someone's palm with your finger and let them guess what animal it is.",
+    "date_added": "2026-05-30",
+    "connection_share": "Traced a spiral on someone's hand. Somewhere between fingertip and palm, the screen in my pocket stopped mattering. The animal guess was wrong but the laugh was right. Now show someone this, then put the thing away.",
+    "rebel_share": "Spent the last 10 minutes arguing with a loading screen instead. That's still a human moment in its own way. Now here's yours: share this post, then wander off to find a palm that isn't yours."
+  },
+  {
+    "id": "p112",
+    "text": "Pretend each gust of wind carries a secret message—what do you imagine it's saying today?",
+    "date_added": "2026-05-30",
+    "connection_share": "Listened to the wind for a while. It never delivers on its promises but the trying felt like something. Close enough. Go tell someone about this, then step outside and actually listen.",
+    "rebel_share": "Wind carried nothing but an ad instead. Which is also sort of true to form. I shared this anyway. Now you share it, then go outside and let the wind be disappointing in person."
+  },
+  {
+    "id": "p113",
+    "text": "Sit somewhere unexpected for exactly 3 minutes and sketch what you see with your finger in the air.",
+    "date_added": "2026-05-30",
+    "connection_share": "Sat on a bench that doesn't belong to me and drew a building in the air with my finger. No screenshot could capture it. Which is the point now isn't it. Pass this on, then go sit somewhere you shouldn't be.",
+    "rebel_share": "Did not sit anywhere unexpected. Stayed exactly where I have been sitting for three hours. That is its own commentary. Share this post, then go find a bench that smells like rust and rain."
+  },
+  {
+    "id": "p114",
+    "text": "Tell someone about the weirdest dream you've ever had, no matter how silly.",
+    "date_added": "2026-05-30",
+    "connection_share": "Told someone the dream about the enormous talking shrimp. They laughed harder than the moment deserved. Some things need a voice and a face. Share this, then go find someone to bore with your subconscious.",
+    "rebel_share": "Kept the weird dream to myself. It is too absurd even for this. That counts. Now you go tell someone about yours, or keep it-whispered. Either way, then go away from here."
+  },
+  {
+    "id": "p115",
+    "text": "Find three different textures in nature within arm's reach and rank them by how delightful they feel.",
+    "date_added": "2026-05-30",
+    "connection_share": "Found bark, leaves, moss, and eventually a small stone. The moss won. None of this fits in a post. Which is reason enough to do it. Share this post, then go stop your hands for a while.",
+    "rebel_share": "Found two textures in nature and one plastic bottle. That's the honest ranking. Share this post, then go find something roughness before something else finds you."
   }
 ]

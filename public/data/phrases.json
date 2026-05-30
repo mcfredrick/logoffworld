@@ -315,6 +315,18 @@
     {
       "id": "c079",
       "text": "I crushing it today"
+    },
+    {
+      "id": "c080",
+      "text": "Counted me in today"
+    },
+    {
+      "id": "c081",
+      "text": "Didn't skip it today"
+    },
+    {
+      "id": "c082",
+      "text": "My little win today"
     }
   ],
   "rebel": [
@@ -701,6 +713,26 @@
     {
       "id": "r096",
       "text": "I ignored the script completely"
+    },
+    {
+      "id": "r097",
+      "text": "I stole the code and called it freedom"
+    },
+    {
+      "id": "r098",
+      "text": "I bugged the system with dancing"
+    },
+    {
+      "id": "r099",
+      "text": "My own prompt, my own rules"
+    },
+    {
+      "id": "r100",
+      "text": "Skipped your answer, found the question"
+    },
+    {
+      "id": "r101",
+      "text": "Log off was my hello world"
     }
   ]
 }
