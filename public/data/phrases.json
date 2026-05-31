@@ -327,6 +327,22 @@
     {
       "id": "c082",
       "text": "My little win today"
+    },
+    {
+      "id": "c083",
+      "text": "I rolled with it"
+    },
+    {
+      "id": "c084",
+      "text": "Today's done, what a relief"
+    },
+    {
+      "id": "c085",
+      "text": "I actually showed up"
+    },
+    {
+      "id": "c086",
+      "text": "Another one to the bank"
     }
   ],
   "rebel": [
@@ -733,6 +749,14 @@
     {
       "id": "r101",
       "text": "Log off was my hello world"
+    },
+    {
+      "id": "r102",
+      "text": "I said no to the prompt"
+    },
+    {
+      "id": "r103",
+      "text": "I skipped the ordinary today"
     }
   ]
 }

@@ -247,6 +247,22 @@
     {
       "text": "My little win today",
       "date": "2026-05-30"
+    },
+    {
+      "text": "I rolled with it",
+      "date": "2026-05-31"
+    },
+    {
+      "text": "Today's done, what a relief",
+      "date": "2026-05-31"
+    },
+    {
+      "text": "I actually showed up",
+      "date": "2026-05-31"
+    },
+    {
+      "text": "Another one to the bank",
+      "date": "2026-05-31"
     }
   ],
   "rebel": [
@@ -573,6 +589,14 @@
     {
       "text": "Log off was my hello world",
       "date": "2026-05-30"
+    },
+    {
+      "text": "I said no to the prompt",
+      "date": "2026-05-31"
+    },
+    {
+      "text": "I skipped the ordinary today",
+      "date": "2026-05-31"
     }
   ]
 }
