@@ -343,6 +343,18 @@
     {
       "id": "c086",
       "text": "Another one to the bank"
+    },
+    {
+      "id": "c087",
+      "text": "I honored myself today"
+    },
+    {
+      "id": "c088",
+      "text": "I gently chose me today"
+    },
+    {
+      "id": "c089",
+      "text": "I paused and noticed today"
     }
   ],
   "rebel": [
@@ -757,6 +769,18 @@
     {
       "id": "r103",
       "text": "I skipped the ordinary today"
+    },
+    {
+      "id": "r104",
+      "text": "wrote my own plot twist"
+    },
+    {
+      "id": "r105",
+      "text": "followed the wild inside"
+    },
+    {
+      "id": "r106",
+      "text": "built something beautifully my own"
     }
   ]
 }
