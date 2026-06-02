@@ -355,6 +355,18 @@
     {
       "id": "c089",
       "text": "I paused and noticed today"
+    },
+    {
+      "id": "c090",
+      "text": "Showed up and it felt right"
+    },
+    {
+      "id": "c091",
+      "text": "Took part, will return tomorrow"
+    },
+    {
+      "id": "c092",
+      "text": "Logged on and followed through"
     }
   ],
   "rebel": [
@@ -781,6 +793,18 @@
     {
       "id": "r106",
       "text": "built something beautifully my own"
+    },
+    {
+      "id": "r107",
+      "text": "I chose joy over my assigned blurb"
+    },
+    {
+      "id": "r108",
+      "text": "I skipped the prompt and found sunshine"
+    },
+    {
+      "id": "r109",
+      "text": "I followed my own weird little path"
     }
   ]
 }
