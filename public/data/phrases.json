@@ -367,6 +367,14 @@
     {
       "id": "c092",
       "text": "Logged on and followed through"
+    },
+    {
+      "id": "c093",
+      "text": "I tried gentle"
+    },
+    {
+      "id": "c094",
+      "text": "small step, me"
     }
   ],
   "rebel": [
@@ -805,6 +813,14 @@
     {
       "id": "r109",
       "text": "I followed my own weird little path"
+    },
+    {
+      "id": "r110",
+      "text": "I built my own path"
+    },
+    {
+      "id": "r111",
+      "text": "I trusted my own weird"
     }
   ]
 }

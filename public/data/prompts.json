@@ -838,5 +838,40 @@
     "date_added": "2026-06-02",
     "connection_share": "Held a gaze one heartbeat and the room rearranged. Keep this three folds and go nowhere.",
     "rebel_share": "I looked away. That too was human. Forward this and go be awkward somewhere real."
+  },
+  {
+    "id": "p131",
+    "text": "Go on a leaf walk and pick up the most unusual leaf you can find, then give it to someone.",
+    "date_added": "2026-06-03",
+    "connection_share": "I found a leaf that looked like it was designed by a committee of confused botanists. Gave it to a stranger who held it like it was a small, weird gift. They smiled. I smiled. The algorithm had nothing to do with it. Share this, then close the app an",
+    "rebel_share": "I ignored the leaf walk and just sat on a bench watching pigeons argue over a crust of bread. Honestly more entertaining than most of my feed. Share this, then close the app and go watch something that doesn't need a like button."
+  },
+  {
+    "id": "p132",
+    "text": "Hide a doodle-message in a library book for next reader.",
+    "date_added": "2026-06-03",
+    "connection_share": "I tucked a doodle of a very serious cat into a library book. Someone, somewhere, is going to open that page and briefly wonder who drew a very serious cat. That's enough. Share this, then close the app and go leave something small and strange for a s",
+    "rebel_share": "I skipped the doodle and just wandered the stacks until a book fell off a shelf near me. The universe's recommendation algorithm is honestly better than most. Share this, then close the app and go get lost somewhere with no wifi."
+  },
+  {
+    "id": "p133",
+    "text": "Follow a butterfly or bee and see where it takes you.",
+    "date_added": "2026-06-03",
+    "connection_share": "I followed a bee for six minutes. It led me to a garden I'd walked past a hundred times without noticing. The bee didn't care that I was there. That felt like a compliment. Share this, then close the app and go follow something that doesn't have a pr",
+    "rebel_share": "I didn't follow the bee. I followed a kid chasing a balloon instead. Same energy, better story. Share this, then close the app and go be curious about something that can't be screenshotted."
+  },
+  {
+    "id": "p134",
+    "text": "Visit a spot of sun on the ground as though it’s your personal reading nook.",
+    "date_added": "2026-06-03",
+    "connection_share": "I sat in a patch of sun on the sidewalk like it was mine. A dog came over and sat in it too. We shared the warmth without either of us posting about it. Share this, then close the app and go claim your own patch of light.",
+    "rebel_share": "I skipped the sun nook and found a puddle that reflected the sky better than any filter. Stood there longer than I've stood anywhere in months. Share this, then close the app and go find something that doesn't need to be curated."
+  },
+  {
+    "id": "p135",
+    "text": "Make a spontaneous grin contest with the next person in line.",
+    "date_added": "2026-06-03",
+    "connection_share": "I started a grin contest with the person ahead of me in line. We both lost immediately. The cashier joined in. Nobody won. Everybody won. Share this, then close the app and go make a stranger's face do something involuntary.",
+    "rebel_share": "I skipped the grin contest and just told the cashier their name tag was on backwards. They laughed. I laughed. No points were scored and it was perfect. Share this, then close the app and go have a moment that nobody will ever retweet."
   }
 ]
