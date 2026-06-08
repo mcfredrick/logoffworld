@@ -387,6 +387,14 @@
     {
       "id": "c097",
       "text": "I hit pause on purpose"
+    },
+    {
+      "id": "c098",
+      "text": "I paused and it felt good"
+    },
+    {
+      "id": "c099",
+      "text": "I logged in to log off"
     }
   ],
   "rebel": [
@@ -853,6 +861,14 @@
     {
       "id": "r116",
       "text": "I wandered until the path found me"
+    },
+    {
+      "id": "r117",
+      "text": "I chased fireflies instead"
+    },
+    {
+      "id": "r118",
+      "text": "I danced like nobody watched"
     }
   ]
 }

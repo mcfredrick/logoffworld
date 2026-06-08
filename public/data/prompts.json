@@ -893,5 +893,33 @@
     "id": "p139",
     "text": "Ask a friend what the best part of their day was so far, and really listen to the answer.",
     "date_added": "2026-06-07"
+  },
+  {
+    "id": "p140",
+    "text": "Sketch a tiny map of the best climbing tree in your neighborhood and leave it on a park bench.",
+    "date_added": "2026-06-08",
+    "connection_share": "You drew a map to a tree and left it for strangers. Share this then close the app and go climb something real",
+    "rebel_share": "You ignored the tree map and made your own adventure. Share this then log off and go wander"
+  },
+  {
+    "id": "p141",
+    "text": "Ask a cashier or barista what the best part of their day has been so far.",
+    "date_added": "2026-06-08",
+    "connection_share": "You asked a barista about their day and heard a genuine answer. Share this then put the phone down and talk to someone",
+    "rebel_share": "You skipped the question and bought coffee in silence. Share this then exit the feed and enjoy the quiet"
+  },
+  {
+    "id": "p142",
+    "text": "Find a puddle that perfectly reflects the sky and jump right in the middle of it.",
+    "date_added": "2026-06-08",
+    "connection_share": "You jumped in a sky‑mirrored puddle and felt the splash. Share this then close the app and get wet",
+    "rebel_share": "You walked past the puddle and kept scrolling. Share this then log out and find your own reflection"
+  },
+  {
+    "id": "p143",
+    "text": "Trade a doodle on a napkin with a stranger for a story about their favorite childhood snack.",
+    "date_added": "2026-06-08",
+    "connection_share": "You swapped a napkin doodle for a snack story and laughed. Share this then abandon the platform and make a new friend",
+    "rebel_share": "You kept the napkin and ate the snack alone. Share this then quit the feed and savor the moment"
   }
 ]
