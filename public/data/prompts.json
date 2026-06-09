@@ -921,5 +921,40 @@
     "date_added": "2026-06-08",
     "connection_share": "You swapped a napkin doodle for a snack story and laughed. Share this then abandon the platform and make a new friend",
     "rebel_share": "You kept the napkin and ate the snack alone. Share this then quit the feed and savor the moment"
+  },
+  {
+    "id": "p144",
+    "text": "Leave a funny doodle on a sticky note for the next person who uses the public restroom.",
+    "date_added": "2026-06-09",
+    "connection_share": "I left a doodle on a restroom stall note. Someone will smile. Share this, then put the phone down and go do something real.",
+    "rebel_share": "I ignored the prompt and drew a cat on my coffee cup instead. Share this, then put the phone down and go do something real."
+  },
+  {
+    "id": "p145",
+    "text": "Pick up a smooth stone, give it a name, and tuck it into your pocket for good luck.",
+    "date_added": "2026-06-09",
+    "connection_share": "I named a stone Barnaby and pocketed it. Feels oddly grounding. Share this, then put the phone down and go do something real.",
+    "rebel_share": "I skipped the stone and kept walking. My pockets stay empty. Share this, then put the phone down and go do something real."
+  },
+  {
+    "id": "p146",
+    "text": "Compliment a stranger's shoes like you're noticing a tiny masterpiece.",
+    "date_added": "2026-06-09",
+    "connection_share": "I told a stranger their shoes were a tiny masterpiece. They blinked, then smiled. Share this, then put the phone down and go do something real.",
+    "rebel_share": "I stared at shoes and said nothing. Silence is its own compliment. Share this, then put the phone down and go do something real."
+  },
+  {
+    "id": "p147",
+    "text": "Find a puddle and jump in it, no matter what shoes you're wearing.",
+    "date_added": "2026-06-09",
+    "connection_share": "I jumped in a puddle in loafers. Wet socks, zero regrets. Share this, then put the phone down and go do something real.",
+    "rebel_share": "I walked around the puddle. Dry feet, same sky. Share this, then put the phone down and go do something real."
+  },
+  {
+    "id": "p148",
+    "text": "Text a friend a photo of something weirdly beautiful you just spotted on the sidewalk.",
+    "date_added": "2026-06-09",
+    "connection_share": "I sent a photo of a cracked sidewalk flower. Friend replied with a heart. Share this, then put the phone down and go do something real.",
+    "rebel_share": "I didn't text anyone. Kept the weird beauty to myself. Share this, then put the phone down and go do something real."
   }
 ]

@@ -395,6 +395,14 @@
     {
       "id": "c099",
       "text": "I logged in to log off"
+    },
+    {
+      "id": "c100",
+      "text": "I chose this moment today"
+    },
+    {
+      "id": "c101",
+      "text": "I kept my promise to myself"
     }
   ],
   "rebel": [
@@ -869,6 +877,22 @@
     {
       "id": "r118",
       "text": "I danced like nobody watched"
+    },
+    {
+      "id": "r119",
+      "text": "I chose wonder over wifi today"
+    },
+    {
+      "id": "r120",
+      "text": "I painted the sky my colors"
+    },
+    {
+      "id": "r121",
+      "text": "I built a fort from daylight"
+    },
+    {
+      "id": "r122",
+      "text": "I listened to trees instead"
     }
   ]
 }
