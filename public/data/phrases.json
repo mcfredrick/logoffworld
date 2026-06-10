@@ -403,6 +403,14 @@
     {
       "id": "c101",
       "text": "I kept my promise to myself"
+    },
+    {
+      "id": "c102",
+      "text": "I came back to center"
+    },
+    {
+      "id": "c103",
+      "text": "I answered today's invitation"
     }
   ],
   "rebel": [
@@ -893,6 +901,14 @@
     {
       "id": "r122",
       "text": "I listened to trees instead"
+    },
+    {
+      "id": "r123",
+      "text": "I built a fort, not a habit"
+    },
+    {
+      "id": "r124",
+      "text": "I listened to birds, not notifications"
     }
   ]
 }

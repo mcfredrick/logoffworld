@@ -956,5 +956,26 @@
     "date_added": "2026-06-09",
     "connection_share": "I sent a photo of a cracked sidewalk flower. Friend replied with a heart. Share this, then put the phone down and go do something real.",
     "rebel_share": "I didn't text anyone. Kept the weird beauty to myself. Share this, then put the phone down and go do something real."
+  },
+  {
+    "id": "p149",
+    "text": "Leave a happy doodle on a public bench for the next tired soul.",
+    "date_added": "2026-06-10",
+    "connection_share": "You left a doodle on a bench. Someone smiled. Share this, then log off and go do something real.",
+    "rebel_share": "You ignored the bench prompt and doodled on a napkin instead. Share this, then log off and go do something real."
+  },
+  {
+    "id": "p150",
+    "text": "Ask a friend to tell you their favorite tree memory.",
+    "date_added": "2026-06-10",
+    "connection_share": "You asked a friend about their favorite tree memory. They told you about the oak they climbed. Share this, then log off and go do something real.",
+    "rebel_share": "You didn't ask about trees. You talked about pizza instead. Share this, then log off and go do something real."
+  },
+  {
+    "id": "p151",
+    "text": "Trade a genuine high-five with someone who looks like they need one.",
+    "date_added": "2026-06-10",
+    "connection_share": "You gave a high-five to a stranger who needed it. Their face lit up. Share this, then log off and go do something real.",
+    "rebel_share": "You skipped the high-five and gave a nod. Still human. Share this, then log off and go do something real."
   }
 ]
