@@ -411,6 +411,14 @@
     {
       "id": "c103",
       "text": "I answered today's invitation"
+    },
+    {
+      "id": "c104",
+      "text": "I nailed the daily"
+    },
+    {
+      "id": "c105",
+      "text": "I gave it my all"
     }
   ],
   "rebel": [
@@ -909,6 +917,14 @@
     {
       "id": "r124",
       "text": "I listened to birds, not notifications"
+    },
+    {
+      "id": "r125",
+      "text": "I danced through the notification noise"
+    },
+    {
+      "id": "r126",
+      "text": "I whispered yes to my own rhythm"
     }
   ]
 }
