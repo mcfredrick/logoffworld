@@ -419,6 +419,14 @@
     {
       "id": "c105",
       "text": "I gave it my all"
+    },
+    {
+      "id": "c106",
+      "text": "I logged in with a grin"
+    },
+    {
+      "id": "c107",
+      "text": "I did the thing and celebrated"
     }
   ],
   "rebel": [
@@ -925,6 +933,14 @@
     {
       "id": "r126",
       "text": "I whispered yes to my own rhythm"
+    },
+    {
+      "id": "r127",
+      "text": "I danced off the grid and felt alive"
+    },
+    {
+      "id": "r128",
+      "text": "I explored my own path without a map"
     }
   ]
 }

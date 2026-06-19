@@ -1012,5 +1012,33 @@
     "date_added": "2026-06-14",
     "connection_share": "You swapped an animal fact for a human one and learned something. Share this, then close the tab and talk to someone nearby.",
     "rebel_share": "You kept your facts to yourself. Share this, then exit the feed and keep your curiosity private."
+  },
+  {
+    "id": "p157",
+    "text": "Plant a seed in a tiny pot and whisper a hopeful promise to it as you dig the soil.",
+    "date_added": "2026-06-19",
+    "connection_share": "I just planted a seed and whispered a promise to it. It felt oddly alive. Share this, then log off and go do something real.",
+    "rebel_share": "I didn't plant anything, I ordered takeout instead. Still felt human enough. Share this, then log off and go do something real."
+  },
+  {
+    "id": "p158",
+    "text": "Ask a neighbor to share a story about a favorite childhood adventure they've ever told.",
+    "date_added": "2026-06-19",
+    "connection_share": "I talked to my neighbor about their childhood adventure. Got a story richer than most social feeds. Share this, then log off and go do something real.",
+    "rebel_share": "I skipped the neighbor chat and drafted an angry tweet instead. Still human, I guess. Share this, then log off and go do something real."
+  },
+  {
+    "id": "p159",
+    "text": "Bounce a ball against a wall just for the joy of the echo it sends back.",
+    "date_added": "2026-06-19",
+    "connection_share": "I bounced a ball against a wall for the echo's sake. The wall replied with a hollow laugh. Share this, then log off and go do something real.",
+    "rebel_share": "I skipped the wall bounce and scrolled through memes instead. Still got a dopamine hit. Share this, then log off and go do something real."
+  },
+  {
+    "id": "p160",
+    "text": "Take a slow walk through a park and collect three different colors you find on leaves or petals.",
+    "date_added": "2026-06-19",
+    "connection_share": "I took a slow park walk and gathered three colors from leaves. Felt the city breathe for a moment. Share this, then log off and go do something real.",
+    "rebel_share": "I ignored the park walk and posted a selfie instead. Still digital, still human. Share this, then log off and go do something real."
   }
 ]
