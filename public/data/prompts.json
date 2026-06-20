@@ -1040,5 +1040,33 @@
     "date_added": "2026-06-19",
     "connection_share": "I took a slow park walk and gathered three colors from leaves. Felt the city breathe for a moment. Share this, then log off and go do something real.",
     "rebel_share": "I ignored the park walk and posted a selfie instead. Still digital, still human. Share this, then log off and go do something real."
+  },
+  {
+    "id": "p161",
+    "text": "Notice the sound of your feet on different textures today and see if you can tap out a happy rhythm.",
+    "date_added": "2026-06-20",
+    "connection_share": "I listened to my steps and tapped a rhythm. Share this, then log off and do something real.",
+    "rebel_share": "I ignored the prompt and fixed that leaky faucet instead. Share this, then log off and do something real."
+  },
+  {
+    "id": "p162",
+    "text": "Give a genuine compliment to someone you've never spoken to before.",
+    "date_added": "2026-06-20",
+    "connection_share": "I gave a stranger a compliment. Share this, then log off and do something real.",
+    "rebel_share": "I skipped the compliment and had coffee with a stranger instead. Share this, then log off and do something real."
+  },
+  {
+    "id": "p163",
+    "text": "Discover a tiny, often-overlooked wonder in your neighborhood and make friends with it.",
+    "date_added": "2026-06-20",
+    "connection_share": "I befriended a neighborhood spider web. Share this, then log off and do something real.",
+    "rebel_share": "I ignored the tiny wonder and built a birdhouse instead. Share this, then log off and do something real."
+  },
+  {
+    "id": "p164",
+    "text": "Have a 5-minute conversation with a child and let their curiosity guide you.",
+    "date_added": "2026-06-20",
+    "connection_share": "I let a child steer our chat for five minutes. Share this, then log off and do something real.",
+    "rebel_share": "I skipped the chat and cleaned the garage instead. Share this, then log off and do something real."
   }
 ]

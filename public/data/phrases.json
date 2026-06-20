@@ -427,6 +427,26 @@
     {
       "id": "c107",
       "text": "I did the thing and celebrated"
+    },
+    {
+      "id": "c108",
+      "text": "I logged off after finishing today's challenge"
+    },
+    {
+      "id": "c109",
+      "text": "I played along and shut down with a grin"
+    },
+    {
+      "id": "c110",
+      "text": "I showed up, did the thing, and powered down"
+    },
+    {
+      "id": "c111",
+      "text": "I followed the prompt, logged off, and rested well"
+    },
+    {
+      "id": "c112",
+      "text": "I took the leap, completed task, logged off calm"
     }
   ],
   "rebel": [
@@ -941,6 +961,18 @@
     {
       "id": "r128",
       "text": "I explored my own path without a map"
+    },
+    {
+      "id": "r129",
+      "text": "I brewed my own tea and sipped stories"
+    },
+    {
+      "id": "r130",
+      "text": "I wrote a poem for strangers in the park"
+    },
+    {
+      "id": "r131",
+      "text": "I built a tiny house from cardboard and smiled"
     }
   ]
 }
