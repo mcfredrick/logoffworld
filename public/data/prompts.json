@@ -1068,5 +1068,40 @@
     "date_added": "2026-06-20",
     "connection_share": "I let a child steer our chat for five minutes. Share this, then log off and do something real.",
     "rebel_share": "I skipped the chat and cleaned the garage instead. Share this, then log off and do something real."
+  },
+  {
+    "id": "p165",
+    "text": "Take a coffee break and watch a bee dance on a flower.",
+    "date_added": "2026-06-21",
+    "connection_share": "Take a coffee break and watch a bee dance on a flower. Share this, then log off and do something real.",
+    "rebel_share": "Skipped the bee, I'm posting memes. Share this, then log off and do something real."
+  },
+  {
+    "id": "p166",
+    "text": "Leave a sticky note with a sweet phrase on a mailbox you pass by.",
+    "date_added": "2026-06-21",
+    "connection_share": "Leave a sweet note on a mailbox. Share this, then log off and do something real.",
+    "rebel_share": "I left the mailbox alone, just scrolling. Share this, then log off and do something real."
+  },
+  {
+    "id": "p167",
+    "text": "Invent a short, silly chant and whisper it to the wind.",
+    "date_added": "2026-06-21",
+    "connection_share": "Whisper a silly chant to the wind. Share this, then log off and do something real.",
+    "rebel_share": "I invented a chant but posted it instead. Share this, then log off and do something real."
+  },
+  {
+    "id": "p168",
+    "text": "Spot a hidden treasure—a four-leaf clover, a broken smile, or a stray feather—and pause to admire it.",
+    "date_added": "2026-06-21",
+    "connection_share": "Found a four-leaf clover, paused to breathe. Share this, then log off and do something real.",
+    "rebel_share": "Ignored the treasure, clicked another feed. Share this, then log off and do something real."
+  },
+  {
+    "id": "p169",
+    "text": "Ask a stranger to share a favorite childhood game.",
+    "date_added": "2026-06-21",
+    "connection_share": "Asked a stranger about their childhood game. Share this, then log off and do something real.",
+    "rebel_share": "Asked no one, just watch videos. Share this, then log off and do something real."
   }
 ]

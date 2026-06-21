@@ -447,6 +447,14 @@
     {
       "id": "c112",
       "text": "I took the leap, completed task, logged off calm"
+    },
+    {
+      "id": "c113",
+      "text": "I smashed the prompt challenge today"
+    },
+    {
+      "id": "c114",
+      "text": "I completed the daily quest today"
     }
   ],
   "rebel": [
@@ -973,6 +981,14 @@
     {
       "id": "r131",
       "text": "I built a tiny house from cardboard and smiled"
+    },
+    {
+      "id": "r132",
+      "text": "I played music all day, my way"
+    },
+    {
+      "id": "r133",
+      "text": "I laughed with friends, making memories"
     }
   ]
 }
