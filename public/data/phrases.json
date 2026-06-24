@@ -455,6 +455,18 @@
     {
       "id": "c114",
       "text": "I completed the daily quest today"
+    },
+    {
+      "id": "c115",
+      "text": "I played along and logged off happy"
+    },
+    {
+      "id": "c116",
+      "text": "I took the leap and showed up"
+    },
+    {
+      "id": "c117",
+      "text": "I stuck around and logged off satisfied"
     }
   ],
   "rebel": [
@@ -989,6 +1001,26 @@
     {
       "id": "r133",
       "text": "I laughed with friends, making memories"
+    },
+    {
+      "id": "r134",
+      "text": "I baked my own sunrise and savored it"
+    },
+    {
+      "id": "r135",
+      "text": "I explored the city without a map and thrived"
+    },
+    {
+      "id": "r136",
+      "text": "I created my own playlist and felt unstoppable"
+    },
+    {
+      "id": "r137",
+      "text": "I wrote letters to my future self with joy"
+    },
+    {
+      "id": "r138",
+      "text": "I took a spontaneous road trip and discovered wonder"
     }
   ]
 }

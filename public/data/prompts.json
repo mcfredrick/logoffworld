@@ -1103,5 +1103,40 @@
     "date_added": "2026-06-21",
     "connection_share": "Asked a stranger about their childhood game. Share this, then log off and do something real.",
     "rebel_share": "Asked no one, just watch videos. Share this, then log off and do something real."
+  },
+  {
+    "id": "p170",
+    "text": "Let a butterfly land on your hand and watch the world pause for a moment together.",
+    "date_added": "2026-06-24",
+    "connection_share": "Thought a butterfly would stop time. It did, for a breath. Share this, then log off and do something real.",
+    "rebel_share": "I skipped the butterfly, but still logged off to stare at clouds. Share this, then log off and do something real."
+  },
+  {
+    "id": "p171",
+    "text": "Sprinkle laughter across a park bench and see who joins in the spontaneous chorus.",
+    "date_added": "2026-06-24",
+    "connection_share": "Sprinkled laughter on a bench, strangers sang back. Share this, then log off and do something real.",
+    "rebel_share": "Skipped the bench chorus, but logged off to scroll through feeds. Share this, then log off and do something real."
+  },
+  {
+    "id": "p172",
+    "text": "Sit by a flowing creek and name each ripple as if it were a friend's story.",
+    "date_added": "2026-06-24",
+    "connection_share": "Sat by a creek, naming ripples like old tales. Share this, then log off and do something real.",
+    "rebel_share": "Ignored the creek, but logged off to watch a cat video. Share this, then log off and do something real."
+  },
+  {
+    "id": "p173",
+    "text": "Offer a stranger a slice of sunshine by giving them a bright, unexpected compliment.",
+    "date_added": "2026-06-24",
+    "connection_share": "Gave a stranger sunshine in words. They brightened, and so did I. Share this, then log off and do something real.",
+    "rebel_share": "Skipped the compliment, but logged off to check my followers. Share this, then log off and do something real."
+  },
+  {
+    "id": "p174",
+    "text": "Dance barefoot in the grass and invite the wind to lead the next step.",
+    "date_added": "2026-06-24",
+    "connection_share": "Bared feet to grass, let wind guide a step. Body felt alive. Share this, then log off and do something real.",
+    "rebel_share": "Skipped the grass dance, but logged off to replay a favorite song. Share this, then log off and do something real."
   }
 ]
