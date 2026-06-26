@@ -1138,5 +1138,40 @@
     "date_added": "2026-06-24",
     "connection_share": "Bared feet to grass, let wind guide a step. Body felt alive. Share this, then log off and do something real.",
     "rebel_share": "Skipped the grass dance, but logged off to replay a favorite song. Share this, then log off and do something real."
+  },
+  {
+    "id": "p175",
+    "text": "Have a 10-second staredown with a tree and see who blinks first.",
+    "date_added": "2026-06-26",
+    "connection_share": "Stared at a tree for ten seconds. Might have blinked first. Share this, then log off and go do something real.",
+    "rebel_share": "Skipped the staredown, took a detour instead. Share this, then log off and go do something real."
+  },
+  {
+    "id": "p176",
+    "text": "Draw a portrait of your favorite fruit and give it a funny name.",
+    "date_added": "2026-06-26",
+    "connection_share": "Drew a portrait of my favorite fruit and named it 'Banana Bandit'. Share this, then log off and go do something real.",
+    "rebel_share": "Skipped the fruit portrait, went for a walk instead. Share this, then log off and go do something real."
+  },
+  {
+    "id": "p177",
+    "text": "Call a friend and ask them to describe their favorite childhood smell.",
+    "date_added": "2026-06-26",
+    "connection_share": "Called a friend for their favorite childhood smell. Nostalgia delivered. Share this, then log off and go do something real.",
+    "rebel_share": "Ignored the smell request, brewed coffee instead. Share this, then log off and go do something real."
+  },
+  {
+    "id": "p178",
+    "text": "Write a love letter to an inanimate object that brings you joy.",
+    "date_added": "2026-06-26",
+    "connection_share": "Wrote a love letter to my coffee mug. It probably appreciated it. Share this, then log off and go do something real.",
+    "rebel_share": "Skipped the love letter, hugged my plant instead. Share this, then log off and go do something real."
+  },
+  {
+    "id": "p179",
+    "text": "Skip down the street with an imaginary parade behind you.",
+    "date_added": "2026-06-26",
+    "connection_share": "Skipped down the street with an imaginary parade. Everyone waved. Share this, then log off and go do something real.",
+    "rebel_share": "Passed on the parade skip, read a book on the bench. Share this, then log off and go do something real."
   }
 ]
