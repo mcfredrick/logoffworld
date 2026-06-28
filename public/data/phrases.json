@@ -479,6 +479,14 @@
     {
       "id": "c120",
       "text": "I caught the spark of today"
+    },
+    {
+      "id": "c121",
+      "text": "I took part and enjoyed it"
+    },
+    {
+      "id": "c122",
+      "text": "I joined in and celebrated"
     }
   ],
   "rebel": [
@@ -1045,6 +1053,22 @@
     {
       "id": "r141",
       "text": "I invented laughter as my superpower"
+    },
+    {
+      "id": "r142",
+      "text": "I crafted my own masterpiece today"
+    },
+    {
+      "id": "r143",
+      "text": "I explored the city on my own terms"
+    },
+    {
+      "id": "r144",
+      "text": "I turned a routine day into a celebration"
+    },
+    {
+      "id": "r145",
+      "text": "I invented my own playlist just for me"
     }
   ]
 }

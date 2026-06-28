@@ -1173,5 +1173,40 @@
     "date_added": "2026-06-26",
     "connection_share": "Skipped down the street with an imaginary parade. Everyone waved. Share this, then log off and go do something real.",
     "rebel_share": "Passed on the parade skip, read a book on the bench. Share this, then log off and go do something real."
+  },
+  {
+    "id": "p180",
+    "text": "Step outside and let a robin’s song lead you to a hidden patch of sunshine.",
+    "date_added": "2026-06-28",
+    "connection_share": "I stepped outside; a robin’s song led me to a hidden patch of sunshine. Share this, then log off and get real.",
+    "rebel_share": "I skipped the robin prompt, but still got outside for fresh air. Share this, then quit Instagram."
+  },
+  {
+    "id": "p181",
+    "text": "Play a spontaneous game of tick‑tick‑tock with the wind chime outside your window.",
+    "date_added": "2026-06-28",
+    "connection_share": "I played tick‑tick‑tock with the wind chime outside; the breeze made music. Share this, then log off and breathe.",
+    "rebel_share": "I ignored the wind chime, but still opened a window for the breeze. Share this, then quit Instagram."
+  },
+  {
+    "id": "p182",
+    "text": "Offer a quick, genuine compliment to the barista behind your cup of coffee.",
+    "date_added": "2026-06-28",
+    "connection_share": "I gave the barista a genuine compliment; the smile made my coffee taste better. Share this, then log off and talk to people.",
+    "rebel_share": "I skipped the barista, but still thanked a stranger with a nod. Share this, then quit the feed."
+  },
+  {
+    "id": "p183",
+    "text": "Gather three tiny pebbles and arrange them into a cheerful little fort on a windowsill.",
+    "date_added": "2026-06-28",
+    "connection_share": "I gathered three pebbles and built a tiny fort on the windowsill; it felt like a small victory. Share this, then log off and touch wood.",
+    "rebel_share": "I skipped the pebbles, but still polished my pencil and declared it art. Share this, then log off and create."
+  },
+  {
+    "id": "p184",
+    "text": "Dance in your kitchen for three minutes, letting the kettle’s bubbles be your drumbeat.",
+    "date_added": "2026-06-28",
+    "connection_share": "I danced in the kitchen for three minutes, kettle bubbles as drumbeat; the floor felt alive. Share this, then log off and move.",
+    "rebel_share": "I skipped the kitchen dance, but sang in the shower while steaming mugs hummed. Share this, then abandon the platform."
   }
 ]
