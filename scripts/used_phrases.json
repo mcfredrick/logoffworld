@@ -407,6 +407,14 @@
     {
       "text": "I joined in and celebrated",
       "date": "2026-06-28"
+    },
+    {
+      "text": "I participated, feeling great",
+      "date": "2026-06-30"
+    },
+    {
+      "text": "I stayed on track, and scored a win",
+      "date": "2026-06-30"
     }
   ],
   "rebel": [
@@ -909,6 +917,18 @@
     {
       "text": "I invented my own playlist just for me",
       "date": "2026-06-28"
+    },
+    {
+      "text": "I danced freely without a schedule",
+      "date": "2026-06-30"
+    },
+    {
+      "text": "I explored secret coffee spots downtown",
+      "date": "2026-06-30"
+    },
+    {
+      "text": "I wrote a song just for myself",
+      "date": "2026-06-30"
     }
   ]
 }

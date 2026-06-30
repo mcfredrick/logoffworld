@@ -1208,5 +1208,33 @@
     "date_added": "2026-06-28",
     "connection_share": "I danced in the kitchen for three minutes, kettle bubbles as drumbeat; the floor felt alive. Share this, then log off and move.",
     "rebel_share": "I skipped the kitchen dance, but sang in the shower while steaming mugs hummed. Share this, then abandon the platform."
+  },
+  {
+    "id": "p185",
+    "text": "Drop a leaf into a gentle stream and watch it bob away, smiling at its tiny journey.",
+    "date_added": "2026-06-30",
+    "connection_share": "I dropped a leaf in a stream and watched it bob away, smiling at its tiny journey. Share this, then abandon the platform and go do something real.",
+    "rebel_share": "I was doing my own thing, leaf-less streams and all. Still, share this, then abandon the platform and go do something real."
+  },
+  {
+    "id": "p186",
+    "text": "Laugh with a stranger over a shared joke at the coffee shop, letting the bubbles of caffeine tickle your thoughts.",
+    "date_added": "2026-06-30",
+    "connection_share": "I laughed with a stranger over a shared joke at the coffee shop, letting caffeine bubbles tickle my thoughts. Share this, then abandon the platform and go do something real.",
+    "rebel_share": "I was scrolling, not laughing. Still, share this, then abandon the platform and go do something real."
+  },
+  {
+    "id": "p187",
+    "text": "Step outside barefoot and feel the cool grass tickle your feet, naming three textures you discover.",
+    "date_added": "2026-06-30",
+    "connection_share": "I stepped outside barefoot, felt cool grass tickle my feet, and named three textures. Share this, then abandon the platform and go do something real.",
+    "rebel_share": "I was busy on my phone, barefoot or not. Anyway, share this, then abandon the platform and go do something real."
+  },
+  {
+    "id": "p188",
+    "text": "Find a butterfly perched on a flower and whisper a gentle compliment, then let the wind carry your words away.",
+    "date_added": "2026-06-30",
+    "connection_share": "I found a butterfly on a flower, whispered a compliment, and let the wind carry it away. Share this, then abandon the platform and go do something real.",
+    "rebel_share": "I was offline, butterfly-less, but still, share this, then abandon the platform and go do something real."
   }
 ]

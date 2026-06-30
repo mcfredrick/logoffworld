@@ -487,6 +487,14 @@
     {
       "id": "c122",
       "text": "I joined in and celebrated"
+    },
+    {
+      "id": "c123",
+      "text": "I participated, feeling great"
+    },
+    {
+      "id": "c124",
+      "text": "I stayed on track, and scored a win"
     }
   ],
   "rebel": [
@@ -1069,6 +1077,18 @@
     {
       "id": "r145",
       "text": "I invented my own playlist just for me"
+    },
+    {
+      "id": "r146",
+      "text": "I danced freely without a schedule"
+    },
+    {
+      "id": "r147",
+      "text": "I explored secret coffee spots downtown"
+    },
+    {
+      "id": "r148",
+      "text": "I wrote a song just for myself"
     }
   ]
 }
