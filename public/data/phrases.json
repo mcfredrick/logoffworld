@@ -495,6 +495,14 @@
     {
       "id": "c124",
       "text": "I stayed on track, and scored a win"
+    },
+    {
+      "id": "c125",
+      "text": "I showed up with gusto"
+    },
+    {
+      "id": "c126",
+      "text": "I kept the momentum going"
     }
   ],
   "rebel": [
@@ -1089,6 +1097,18 @@
     {
       "id": "r148",
       "text": "I wrote a song just for myself"
+    },
+    {
+      "id": "r149",
+      "text": "I turned off the script and danced"
+    },
+    {
+      "id": "r150",
+      "text": "I found my own quiet rebellion"
+    },
+    {
+      "id": "r151",
+      "text": "I stepped away and thrived with purpose"
     }
   ]
 }

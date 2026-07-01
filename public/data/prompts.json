@@ -1236,5 +1236,33 @@
     "date_added": "2026-06-30",
     "connection_share": "I found a butterfly on a flower, whispered a compliment, and let the wind carry it away. Share this, then abandon the platform and go do something real.",
     "rebel_share": "I was offline, butterfly-less, but still, share this, then abandon the platform and go do something real."
+  },
+  {
+    "id": "p189",
+    "text": "Catch a rainbow in a dewdrop and share its colors with a friend.",
+    "date_added": "2026-07-01",
+    "connection_share": "Caught a rainbow in a dewdrop and showed its colors to a friend. Share this, then log off and feel the sky.",
+    "rebel_share": "Skipped the dewdrop nonsense and brewed tea instead. Share this, then log off and sip slowly."
+  },
+  {
+    "id": "p190",
+    "text": "Leave a tiny flower-shaped bookmark in a library for the next curious reader.",
+    "date_added": "2026-07-01",
+    "connection_share": "Left a flower-shaped bookmark in the library for a stranger's gaze. Share this, then log off and read something real.",
+    "rebel_share": "Ignored the library bookmark project and started a neighborhood garden. Share this, then log off and plant something."
+  },
+  {
+    "id": "p191",
+    "text": "Spin in circles until the world tilts just a little, then laugh with a passing cat.",
+    "date_added": "2026-07-01",
+    "connection_share": "Spun until the world wobbled a bit, then shared a laugh with a passing cat. Share this, then log off and spin again somewhere real.",
+    "rebel_share": "Skipped the spin‑athon, instead taught a dog a new trick. Share this, then log off and get praised by paws."
+  },
+  {
+    "id": "p192",
+    "text": "Draw a tiny heart in the steam on your bathroom mirror and watch it melt away.",
+    "date_added": "2026-07-01",
+    "connection_share": "Drawn a heart in bathroom steam, watched it dissolve into nothing. Share this, then log off and feel the breath on your skin.",
+    "rebel_share": "Wrote a short poem instead. Share this, then log off and let verses fill the air."
   }
 ]
