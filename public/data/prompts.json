@@ -1264,5 +1264,40 @@
     "date_added": "2026-07-01",
     "connection_share": "Drawn a heart in bathroom steam, watched it dissolve into nothing. Share this, then log off and feel the breath on your skin.",
     "rebel_share": "Wrote a short poem instead. Share this, then log off and let verses fill the air."
+  },
+  {
+    "id": "p193",
+    "text": "Give a nearby tree a gentle hug and whisper a thank-you for shading you.",
+    "date_added": "2026-07-08",
+    "connection_share": "I hugged a tree and whispered thanks for shade. It beat posting here. Share this, then abandon this platform and go do something real.",
+    "rebel_share": "I skipped the tree and watched a wall. Still a person. Share this, then abandon this platform and go do something real."
+  },
+  {
+    "id": "p194",
+    "text": "Ask a neighbor to join you in spotting the most unusually shaped cloud today.",
+    "date_added": "2026-07-08",
+    "connection_share": "I asked a neighbor to spot odd clouds. We laughed, unrecorded. Share this, then abandon this platform and go do something real.",
+    "rebel_share": "I skipped the cloud watch and scrubbed a pot. Equally human. Share this, then abandon this platform and go do something real."
+  },
+  {
+    "id": "p195",
+    "text": "Skip instead of walk to your next destination and see how it lifts your mood.",
+    "date_added": "2026-07-08",
+    "connection_share": "I skipped to the corner and felt alive. Better than this feed. Share this, then abandon this platform and go do something real.",
+    "rebel_share": "I refused to skip and walked slow. My quiet revolt. Share this, then abandon this platform and go do something real."
+  },
+  {
+    "id": "p196",
+    "text": "Share a piece of your favorite snack with a friend and watch their face light up.",
+    "date_added": "2026-07-08",
+    "connection_share": "I shared my snack with a friend and saw a real smile. No likes required. Share this, then abandon this platform and go do something real.",
+    "rebel_share": "I ate the snack alone and relished it. Valid enough. Share this, then abandon this platform and go do something real."
+  },
+  {
+    "id": "p197",
+    "text": "Crouch down to insect level and wish a busy ant a wonderful day.",
+    "date_added": "2026-07-08",
+    "connection_share": "I crouched to ant height and wished one well. Calmer than this app. Share this, then abandon this platform and go do something real.",
+    "rebel_share": "I ignored the ant and sorted books. Still perfectly human. Share this, then abandon this platform and go do something real."
   }
 ]

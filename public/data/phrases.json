@@ -503,6 +503,18 @@
     {
       "id": "c126",
       "text": "I kept the momentum going"
+    },
+    {
+      "id": "c127",
+      "text": "I gave the prompt a hug"
+    },
+    {
+      "id": "c128",
+      "text": "I whispered yes to the day"
+    },
+    {
+      "id": "c129",
+      "text": "I danced with the prompt today"
     }
   ],
   "rebel": [
@@ -1109,6 +1121,14 @@
     {
       "id": "r151",
       "text": "I stepped away and thrived with purpose"
+    },
+    {
+      "id": "r152",
+      "text": "I invented a better way today"
+    },
+    {
+      "id": "r153",
+      "text": "I wandered where no prompt goes"
     }
   ]
 }
