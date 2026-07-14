@@ -1299,5 +1299,33 @@
     "date_added": "2026-07-08",
     "connection_share": "I crouched to ant height and wished one well. Calmer than this app. Share this, then abandon this platform and go do something real.",
     "rebel_share": "I ignored the ant and sorted books. Still perfectly human. Share this, then abandon this platform and go do something real."
+  },
+  {
+    "id": "p198",
+    "text": "Give a friendly nod to a tree like it’s an old acquaintance.",
+    "date_added": "2026-07-14",
+    "connection_share": "I nodded at a tree like an old acquaintance and felt something real for once. Share this, then abandon the platform and go do something real.",
+    "rebel_share": "I skipped the tree nod and stared at the sky, equally valid and human. Share this, then abandon the platform and go do something real."
+  },
+  {
+    "id": "p199",
+    "text": "Invite a neighbor to join you in watching the sunset with no plan beyond the view.",
+    "date_added": "2026-07-14",
+    "connection_share": "I watched the sunset with a neighbor and said nothing, which meant more than any post. Share this, then abandon the platform and go do something real.",
+    "rebel_share": "I skipped the sunset invite and cleaned my room instead, my own quiet reality. Share this, then abandon the platform and go do something real."
+  },
+  {
+    "id": "p200",
+    "text": "Spin around once outside and laugh if the world looks a little wobbly.",
+    "date_added": "2026-07-14",
+    "connection_share": "I spun outside and the world wobbled and I laughed, a feeling no algorithm gives. Share this, then abandon the platform and go do something real.",
+    "rebel_share": "I did not spin but stood still and breathed, equally a human choice. Share this, then abandon the platform and go do something real."
+  },
+  {
+    "id": "p201",
+    "text": "Share a silly joke with the person behind you in line just to see their eyes light up.",
+    "date_added": "2026-07-14",
+    "connection_share": "I told a silly joke to the person in line and their eyes lit up, a real small miracle. Share this, then abandon the platform and go do something real.",
+    "rebel_share": "I skipped the joke and simply smiled at the line stranger, which also counted. Share this, then abandon the platform and go do something real."
   }
 ]

@@ -515,6 +515,18 @@
     {
       "id": "c129",
       "text": "I danced with the prompt today"
+    },
+    {
+      "id": "c130",
+      "text": "I gave today a little nod"
+    },
+    {
+      "id": "c131",
+      "text": "I ticked the box and smiled"
+    },
+    {
+      "id": "c132",
+      "text": "I took my small step today"
     }
   ],
   "rebel": [
@@ -1129,6 +1141,14 @@
     {
       "id": "r153",
       "text": "I wandered where no prompt goes"
+    },
+    {
+      "id": "r154",
+      "text": "I invented a brand new game"
+    },
+    {
+      "id": "r155",
+      "text": "I wandered wherever my whim led"
     }
   ]
 }
