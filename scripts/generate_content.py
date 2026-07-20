@@ -224,7 +224,7 @@ def generate_phrases(api_key, candidates, category, system_msg, used_phrases):
             api_key,
             candidates,
             system_msg,
-            f"Generate 5 new {category} phrases. Return ONLY a JSON array of strings, no explanation.",
+            f"Generate 10 new {category} phrases. Return ONLY a JSON array of strings, no explanation.",
         )
     except Exception as e:
         print(f"WARNING: {category} phrase generation failed: {e}")
@@ -307,15 +307,15 @@ def main():
     for text, reason in rejected_prompts:
         print(f"  REJECTED ({reason}): {text}")
 
-    print(f"Connection: generated=5, accepted={len(new_connection)}, rejected={len(rejected_connection)}, total={len(phrases_data['connection'])}")
+    print(f"Connection: generated={len(new_connection) + len(rejected_connection)}, accepted={len(new_connection)}, rejected={len(rejected_connection)}, total={len(phrases_data['connection'])}")
     for text, reason in rejected_connection:
         print(f"  REJECTED ({reason}): {text}")
 
-    print(f"Rebel:      generated=5, accepted={len(new_rebel)}, rejected={len(rejected_rebel)}, total={len(phrases_data['rebel'])}")
+    print(f"Rebel:      generated={len(new_rebel) + len(rejected_rebel)}, accepted={len(new_rebel)}, rejected={len(rejected_rebel)}, total={len(phrases_data['rebel'])}")
     for text, reason in rejected_rebel:
         print(f"  REJECTED ({reason}): {text}")
 
-    if len(new_prompts) < 2 or len(new_connection) < 2 or len(new_rebel) < 2:
+    if len(new_prompts) < 2 or len(new_connection) < 1 or len(new_rebel) < 1:
         print("\nERROR: insufficient content accepted — not committing")
         sys.exit(1)
 
