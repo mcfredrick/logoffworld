@@ -16,15 +16,28 @@ const HEART_EMOJIS = [
 const HEARTS_MAX = 80;
 let _heartsInit = false;
 
+function _seededRand(seed) {
+  // mulberry32 — fast, good distribution, one-liner seed from date
+  return () => {
+    seed |= 0; seed = seed + 0x6D2B79F5 | 0;
+    let t = Math.imul(seed ^ seed >>> 15, 1 | seed);
+    t = t + Math.imul(t ^ t >>> 7, 61 | t) ^ t;
+    return ((t ^ t >>> 14) >>> 0) / 4294967296;
+  };
+}
+
+const _d = new Date();
+const _rand = _seededRand(_d.getFullYear() * 10000 + (_d.getMonth() + 1) * 100 + _d.getDate());
+
 function _makeHeart() {
   const span = document.createElement('span');
-  span.textContent = HEART_EMOJIS[Math.floor(Math.random() * HEART_EMOJIS.length)];
-  span.style.setProperty('--dur',   `${8 + Math.random() * 12}s`);
-  span.style.setProperty('--delay', `${-(Math.random() * 20)}s`);
-  span.style.setProperty('--sz',    `${0.8 + Math.random() * 1.2}rem`);
-  span.style.setProperty('--alpha', `${0.15 + Math.random() * 0.2}`);
-  span.style.setProperty('--rot',   `${-25 + Math.random() * 50}deg`);
-  span.style.left = `${Math.random() * 98}%`;
+  span.textContent = HEART_EMOJIS[Math.floor(_rand() * HEART_EMOJIS.length)];
+  span.style.setProperty('--dur',   `${8 + _rand() * 12}s`);
+  span.style.setProperty('--delay', `${-(_rand() * 20)}s`);
+  span.style.setProperty('--sz',    `${0.8 + _rand() * 1.2}rem`);
+  span.style.setProperty('--alpha', `${0.15 + _rand() * 0.2}`);
+  span.style.setProperty('--rot',   `${-25 + _rand() * 50}deg`);
+  span.style.left = `${_rand() * 98}%`;
   return span;
 }
 
