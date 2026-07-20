@@ -35,8 +35,6 @@ function _makeHeart() {
   span.style.setProperty('--dur',   `${8 + _rand() * 12}s`);
   span.style.setProperty('--delay', `${-(_rand() * 20)}s`);
   span.style.setProperty('--sz',    `${0.8 + _rand() * 1.2}rem`);
-  span.style.setProperty('--alpha', `${0.15 + _rand() * 0.2}`);
-  span.style.setProperty('--rot',   `${-25 + _rand() * 50}deg`);
   span.style.left = `${_rand() * 98}%`;
   return span;
 }
