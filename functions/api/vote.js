@@ -50,6 +50,7 @@ export async function onRequestPost({ request, env }) {
     ['INCR', `votes:all:${choice}`],
     ['GET', 'votes:all:connection'],
     ['GET', 'votes:all:rebel'],
+    ['INCR', 'votes:lifetime:total'],
   ]);
 
   const incrResult = voteResults[0].result;
@@ -63,11 +64,14 @@ export async function onRequestPost({ request, env }) {
     rebel = incrResult;
   }
 
+  const lifetimeTotal = parseInt(voteResults[3].result ?? '0', 10) || 0;
+
   return jsonResponse({
     success: true,
     connection,
     rebel,
     total: connection + rebel,
+    lifetimeTotal,
   });
 }
 

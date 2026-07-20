@@ -20,12 +20,14 @@ export async function onRequestGet({ env }) {
   const results = await pipeline(env, [
     ['GET', 'votes:all:connection'],
     ['GET', 'votes:all:rebel'],
+    ['GET', 'votes:lifetime:total'],
   ]);
 
   const connection = parseInt(results[0].result ?? '0', 10) || 0;
   const rebel = parseInt(results[1].result ?? '0', 10) || 0;
+  const lifetimeTotal = parseInt(results[2].result ?? '0', 10) || 0;
 
-  return new Response(JSON.stringify({ connection, rebel, total: connection + rebel }), {
+  return new Response(JSON.stringify({ connection, rebel, total: connection + rebel, lifetimeTotal }), {
     status: 200,
     headers: {
       ...CORS_HEADERS,

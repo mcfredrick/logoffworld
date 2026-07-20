@@ -1,4 +1,36 @@
 const FALLBACK_PROMPT = 'Go outside and consider a cloud.';
+
+const HEART_EMOJIS = ['❤️', '🧡', '💛', '💚', '💙', '💜', '🩷', '🩵'];
+// ponytail: cap at 80 DOM nodes; bump or switch to 1-per-N if the site grows large
+const HEARTS_MAX = 80;
+let _heartsInit = false;
+
+function _makeHeart() {
+  const span = document.createElement('span');
+  span.textContent = HEART_EMOJIS[Math.floor(Math.random() * HEART_EMOJIS.length)];
+  span.style.setProperty('--dur',   `${8 + Math.random() * 12}s`);
+  span.style.setProperty('--delay', `${-(Math.random() * 20)}s`);
+  span.style.setProperty('--sz',    `${0.8 + Math.random() * 1.2}rem`);
+  span.style.setProperty('--alpha', `${0.15 + Math.random() * 0.2}`);
+  span.style.setProperty('--rot',   `${-25 + Math.random() * 50}deg`);
+  span.style.left = `${Math.random() * 98}%`;
+  return span;
+}
+
+function renderHearts(count) {
+  if (_heartsInit) return;
+  _heartsInit = true;
+  const bg = document.getElementById('heart-bg');
+  if (!bg) return;
+  const n = Math.min(count || 0, HEARTS_MAX);
+  for (let i = 0; i < n; i++) bg.appendChild(_makeHeart());
+}
+
+function addHeart() {
+  const bg = document.getElementById('heart-bg');
+  if (!bg || bg.children.length >= HEARTS_MAX) return;
+  bg.appendChild(_makeHeart());
+}
 const FALLBACK_CONNECTION = 'I found my sky today';
 const FALLBACK_REBEL = 'I marched to my own drum';
 const SITE_URL = 'https://logoff.world';
@@ -109,6 +141,7 @@ async function loadStats() {
   try {
     const data = await fetchJSON('/api/stats');
     updateCounters(data);
+    renderHearts(data.lifetimeTotal);
   } catch (err) {
     if (err.status !== 501) console.warn('Stats unavailable:', err.message);
   }
@@ -228,6 +261,7 @@ async function handleVote(choice) {
     localStorage.setItem(`lo_brag_${todayKey()}`, JSON.stringify({ choice, total: data.total }));
     setVoted();
     updateCounters(data);
+    addHeart();
     showShareSection(choice, data);
 
     if (typeof PulseClient !== 'undefined' && window._pulse) {

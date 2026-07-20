@@ -219,8 +219,30 @@ body {
   100% { transform: translate(20px, 120vh); }
 }
 
+@keyframes heartFloat {
+  0%   { transform: translateY(0)       rotate(var(--rot)); opacity: 0; }
+  8%   { opacity: var(--alpha); }
+  88%  { opacity: var(--alpha); }
+  100% { transform: translateY(-108vh)  rotate(calc(var(--rot) * -0.8)); opacity: 0; }
+}
+
+.heart-bg {
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  overflow: hidden;
+}
+
+.heart-bg span {
+  position: absolute;
+  bottom: -2rem;
+  user-select: none;
+  font-size: var(--sz);
+  animation: heartFloat var(--dur) var(--delay) ease-in-out infinite;
+}
+
 @media (prefers-reduced-motion: reduce) {
-  .sky-clouds, .sky-star, .sky-drop, .sky-flake { animation: none !important; }
+  .sky-clouds, .sky-star, .sky-drop, .sky-flake, .heart-bg span { animation: none !important; }
 }
 
 main {
