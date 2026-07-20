@@ -223,7 +223,7 @@ body {
   0%   { transform: translateY(0)       rotate(var(--rot)); opacity: 0; }
   8%   { opacity: var(--alpha); }
   88%  { opacity: var(--alpha); }
-  100% { transform: translateY(-108vh)  rotate(calc(var(--rot) * -0.8)); opacity: 0; }
+  100% { transform: translateY(-110vh)  rotate(calc(var(--rot) * -0.8)); opacity: 0; }
 }
 
 .heart-bg {
@@ -233,8 +233,8 @@ body {
 }
 
 .heart-bg span {
-  position: absolute;
-  bottom: -2rem;
+  position: fixed;
+  top: 100vh;
   user-select: none;
   font-size: var(--sz);
   animation: heartFloat var(--dur) var(--delay) ease-in-out infinite;
