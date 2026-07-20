@@ -86,14 +86,10 @@
   </main>
 
   <footer>
-    <div class="charity-banner" id="charity-banner"></div>
     <nav class="footer-links">
       <a href="https://tally.so/r/placeholder" rel="noopener noreferrer" target="_blank">Suggest a prompt</a>
+      <a href="https://dayjob.dev" rel="noopener noreferrer" target="_blank">dayjob.dev</a>
     </nav>
-    <p class="analytics-notice">
-      Contributions via Ko-fi are not tax-deductible — Log Off is not a 501(c)(3).
-      80% goes to the monthly charity. If a tax deduction matters to you, donate directly to the charity shown above.
-    </p>
     <p class="analytics-notice">
       We use <a href="https://plausible.io/privacy" rel="noopener noreferrer">Plausible Analytics</a>.
       No cookies. No tracking.
@@ -107,15 +103,6 @@
     if ('serviceWorker' in navigator) {
       navigator.serviceWorker.register('/sw.js');
     }
-  </script>
-  <script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
-  <script>
-    kofiWidgetOverlay.draw('dayjobdev', {
-      'type': 'floating-chat',
-      'floating-chat.donateButton.text': 'Support',
-      'floating-chat.donateButton.background-color': '#1e6fa8',
-      'floating-chat.donateButton.text-color': '#f0f8ff'
-    });
   </script>
 </body>
 </html>

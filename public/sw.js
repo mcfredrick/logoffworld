@@ -6,7 +6,6 @@ const STATIC_ASSETS = [
   '/js/pulse.js',
   '/data/prompts.json',
   '/data/phrases.json',
-  '/data/charity.json',
 ];
 
 self.addEventListener('install', (event) => {

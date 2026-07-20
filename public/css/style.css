@@ -521,29 +521,6 @@ footer {
   z-index: 1;
 }
 
-.charity-banner {
-  font-size: 0.875rem;
-  color: rgba(255, 255, 255, 0.85);
-  text-align: center;
-  max-width: 480px;
-  border-top: 1px solid rgba(255, 255, 255, 0.25);
-  padding-top: var(--space-sm);
-  width: 100%;
-}
-
-.charity-banner:empty {
-  display: none;
-}
-
-.charity-banner a {
-  color: #ffe4a0;
-  text-decoration: none;
-}
-
-.charity-banner a:hover {
-  text-decoration: underline;
-}
-
 .footer-links {
   display: flex;
   gap: var(--space-md);

@@ -114,21 +114,6 @@ async function loadStats() {
   }
 }
 
-async function loadCharity() {
-  try {
-    const data = await fetchJSON('/data/charity.json');
-    if (!data || !data.name) return;
-    const banner = document.getElementById('charity-banner');
-    const link = document.createElement('a');
-    link.href = data.url || '#';
-    link.rel = 'noopener noreferrer';
-    link.textContent = data.name;
-    banner.append('This month your contributions help us support ', link, ` — ${data.tagline}`);
-  } catch {
-    // no charity data
-  }
-}
-
 function buildShareText(choice, phrase, total) {
   if (_promptItem) {
     const field = choice === 'connection' ? _promptItem.connection_share : _promptItem.rebel_share;
@@ -265,7 +250,7 @@ function onPulse() {
 async function init() {
   document.getElementById('today-date').textContent = formatDate(new Date());
 
-  await Promise.all([loadPrompt(), loadPhrases(), loadCharity()]);
+  await Promise.all([loadPrompt(), loadPhrases()]);
 
   if (localStorage.getItem(`lo_has_voted_${todayKey()}`)) {
     setVoted();
