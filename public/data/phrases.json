@@ -527,6 +527,34 @@
     {
       "id": "c132",
       "text": "I took my small step today"
+    },
+    {
+      "id": "c133",
+      "text": "I put the phone down"
+    },
+    {
+      "id": "c134",
+      "text": "I noticed the small things"
+    },
+    {
+      "id": "c135",
+      "text": "I gave myself this moment"
+    },
+    {
+      "id": "c136",
+      "text": "I unplugged and felt it"
+    },
+    {
+      "id": "c137",
+      "text": "I chose presence over noise"
+    },
+    {
+      "id": "c138",
+      "text": "I listened to my own rhythm"
+    },
+    {
+      "id": "c139",
+      "text": "I stepped away and returned"
     }
   ],
   "rebel": [
@@ -1149,6 +1177,14 @@
     {
       "id": "r155",
       "text": "I wandered wherever my whim led"
+    },
+    {
+      "id": "r156",
+      "text": "I cooked dinner from scratch"
+    },
+    {
+      "id": "r157",
+      "text": "I watched clouds drift by"
     }
   ]
 }
