@@ -1327,5 +1327,19 @@
     "date_added": "2026-07-14",
     "connection_share": "I told a silly joke to the person in line and their eyes lit up, a real small miracle. Share this, then abandon the platform and go do something real.",
     "rebel_share": "I skipped the joke and simply smiled at the line stranger, which also counted. Share this, then abandon the platform and go do something real."
+  },
+  {
+    "id": "p202",
+    "text": "Share a genuine compliment with the next person whose path crosses yours.",
+    "date_added": "2026-07-21",
+    "connection_share": "You said something kind to a stranger and meant it. The air changed. Share this then put the phone down and go be a person.",
+    "rebel_share": "You walked past three people without performing warmth. Good. Share this then put the phone down and go be a person."
+  },
+  {
+    "id": "p203",
+    "text": "Challenge a friend to a contest of who can spot the most interesting texture on a walk.",
+    "date_added": "2026-07-21",
+    "connection_share": "You found lichen on a fence post and won. Your friend found rust on a bolt and lost. Share this then put the phone down and go be a person.",
+    "rebel_share": "You walked alone and noticed nothing useful. The light on the pavement was enough. Share this then put the phone down and go be a person."
   }
 ]
