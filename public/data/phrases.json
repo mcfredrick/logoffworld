@@ -531,6 +531,18 @@
     {
       "id": "c133",
       "text": "I marked my return today"
+    },
+    {
+      "id": "c134",
+      "text": "I paused and played along"
+    },
+    {
+      "id": "c135",
+      "text": "I carved out a moment"
+    },
+    {
+      "id": "c136",
+      "text": "I finished what I started"
     }
   ],
   "rebel": [
@@ -1169,6 +1181,26 @@
     {
       "id": "r159",
       "text": "I let my mind wander home"
+    },
+    {
+      "id": "r160",
+      "text": "I traded the prompt for a sunset"
+    },
+    {
+      "id": "r161",
+      "text": "I cooked breakfast like a ritual"
+    },
+    {
+      "id": "r162",
+      "text": "I wandered where the wifi won't reach"
+    },
+    {
+      "id": "r163",
+      "text": "I called my mom just because"
+    },
+    {
+      "id": "r164",
+      "text": "I danced badly in my kitchen"
     }
   ]
 }

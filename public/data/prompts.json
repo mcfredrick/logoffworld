@@ -1341,5 +1341,40 @@
     "date_added": "2026-07-21",
     "connection_share": "You found lichen on a fence post and won. Your friend found rust on a bolt and lost. Share this then put the phone down and go be a person.",
     "rebel_share": "You walked alone and noticed nothing useful. The light on the pavement was enough. Share this then put the phone down and go be a person."
+  },
+  {
+    "id": "p204",
+    "text": "Leave a funny doodle on a sticky note for a coworker to find.",
+    "date_added": "2026-07-22",
+    "connection_share": "You left a doodle. They laughed. Neither of you posted it. Share this, then put the phone down.",
+    "rebel_share": "You drew a tiny monster on your own hand instead. Better. Share this, then go make something useless."
+  },
+  {
+    "id": "p205",
+    "text": "High-five a tree and thank it for the shade.",
+    "date_added": "2026-07-22",
+    "connection_share": "You high-fived a tree. It didn't high-five back. You're both fine with that. Share this, then go outside.",
+    "rebel_share": "You sat under it and ate a sandwich. The tree didn't mind. Share this, then stay there awhile."
+  },
+  {
+    "id": "p206",
+    "text": "Ask a friend to teach you their go-to dance move right now.",
+    "date_added": "2026-07-22",
+    "connection_share": "Your friend taught you the shoulder shimmy. You looked ridiculous. It was perfect. Share this, then dance badly somewhere.",
+    "rebel_share": "You showed them your grocery aisle sway. They adopted it. Share this, then move however you want."
+  },
+  {
+    "id": "p207",
+    "text": "Spot a bird, give it a nickname, and whisper it to the person next to you.",
+    "date_added": "2026-07-22",
+    "connection_share": "You named a pigeon Gerald. The stranger beside you nodded. Gerald approves. Share this, then look up.",
+    "rebel_share": "You watched a crow steal a fry and said nothing. Respect. Share this, then keep watching."
+  },
+  {
+    "id": "p208",
+    "text": "Write a tiny compliment on a receipt and leave it in the next book you open.",
+    "date_added": "2026-07-22",
+    "connection_share": "You hid 'great taste in books' in a library copy. A stranger will find it. Maybe tomorrow. Share this, then read something.",
+    "rebel_share": "You wrote 'this ends on page 47' in a thriller. Chaos. Share this, then go confuse someone pleasantly."
   }
 ]
