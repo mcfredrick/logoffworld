@@ -543,6 +543,14 @@
     {
       "id": "c136",
       "text": "I finished what I started"
+    },
+    {
+      "id": "c137",
+      "text": "I said yes today"
+    },
+    {
+      "id": "c138",
+      "text": "I remembered how today"
     }
   ],
   "rebel": [
@@ -1201,6 +1209,26 @@
     {
       "id": "r164",
       "text": "I danced badly in my kitchen"
+    },
+    {
+      "id": "r165",
+      "text": "I followed a butterfly, not instructions"
+    },
+    {
+      "id": "r166",
+      "text": "I drew outside every single line"
+    },
+    {
+      "id": "r167",
+      "text": "I wrote poems on napkins today"
+    },
+    {
+      "id": "r168",
+      "text": "I chased the ice cream truck"
+    },
+    {
+      "id": "r169",
+      "text": "I became the prompt myself"
     }
   ]
 }

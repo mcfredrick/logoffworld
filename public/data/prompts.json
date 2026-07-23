@@ -1376,5 +1376,20 @@
     "date_added": "2026-07-22",
     "connection_share": "You hid 'great taste in books' in a library copy. A stranger will find it. Maybe tomorrow. Share this, then read something.",
     "rebel_share": "You wrote 'this ends on page 47' in a thriller. Chaos. Share this, then go confuse someone pleasantly."
+  },
+  {
+    "id": "p209",
+    "text": "Notice the texture of a tree bark and trace a pattern with your fingertip.",
+    "date_added": "2026-07-23"
+  },
+  {
+    "id": "p210",
+    "text": "Share the last bite of your treat with someone watching hopefully.",
+    "date_added": "2026-07-23"
+  },
+  {
+    "id": "p211",
+    "text": "Invent a secret handshake with a friend and use it immediately.",
+    "date_added": "2026-07-23"
   }
 ]
