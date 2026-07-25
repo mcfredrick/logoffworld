@@ -551,6 +551,10 @@
     {
       "id": "c138",
       "text": "I remembered how today"
+    },
+    {
+      "id": "c139",
+      "text": "I said yes to the prompt"
     }
   ],
   "rebel": [
@@ -1229,6 +1233,26 @@
     {
       "id": "r169",
       "text": "I became the prompt myself"
+    },
+    {
+      "id": "r170",
+      "text": "I baked cookies at midnight"
+    },
+    {
+      "id": "r171",
+      "text": "I climbed a tree today"
+    },
+    {
+      "id": "r172",
+      "text": "I wrote a terrible poem"
+    },
+    {
+      "id": "r173",
+      "text": "I followed a random trail"
+    },
+    {
+      "id": "r174",
+      "text": "I stared at clouds for hours"
     }
   ]
 }

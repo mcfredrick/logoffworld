@@ -1391,5 +1391,26 @@
     "id": "p211",
     "text": "Invent a secret handshake with a friend and use it immediately.",
     "date_added": "2026-07-23"
+  },
+  {
+    "id": "p212",
+    "text": "Notice the way the light hits the dust motes dancing in a sunbeam.",
+    "date_added": "2026-07-25",
+    "connection_share": "You watched dust dance in a sunbeam and felt the quiet. Share this then put your phone down and go do something real.",
+    "rebel_share": "You ignored the sunbeam and did something else. Share this then put your phone down and go do something real."
+  },
+  {
+    "id": "p213",
+    "text": "Compliment someone's shoes like you're admiring a work of art.",
+    "date_added": "2026-07-25",
+    "connection_share": "You called their shoes a masterpiece and they smiled. Share this then put your phone down and go do something real.",
+    "rebel_share": "You kept scrolling past the shoes. Share this then put your phone down and go do something real."
+  },
+  {
+    "id": "p214",
+    "text": "Pretend you're a tourist in your own neighborhood and take a photo of something mundane.",
+    "date_added": "2026-07-25",
+    "connection_share": "You photographed a fire hydrant like a landmark and felt curious. Share this then put your phone down and go do something real.",
+    "rebel_share": "You stayed on the feed and missed the ordinary. Share this then put your phone down and go do something real."
   }
 ]
