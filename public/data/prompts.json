@@ -1412,5 +1412,19 @@
     "date_added": "2026-07-25",
     "connection_share": "You photographed a fire hydrant like a landmark and felt curious. Share this then put your phone down and go do something real.",
     "rebel_share": "You stayed on the feed and missed the ordinary. Share this then put your phone down and go do something real."
+  },
+  {
+    "id": "p215",
+    "text": "Tell a cashier you hope they have a surprisingly wonderful afternoon.",
+    "date_added": "2026-07-28",
+    "connection_share": "You told a cashier to have a surprisingly wonderful afternoon. It felt weirdly good. Share this, then put the phone down and talk to someone.",
+    "rebel_share": "You ignored the prompt and bought a snack instead. That's fine. Share this, then log off and do whatever you want."
+  },
+  {
+    "id": "p216",
+    "text": "Pick up a smooth stone, hold it tight, then toss it back to the earth with a wish.",
+    "date_added": "2026-07-28",
+    "connection_share": "You held a stone, wished, threw it back. The world felt a little smaller. Share this, then leave the screen and find another stone.",
+    "rebel_share": "You kept scrolling instead of picking up a stone. No judgment. Share this, then close the app and go outside."
   }
 ]

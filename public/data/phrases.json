@@ -555,6 +555,10 @@
     {
       "id": "c139",
       "text": "I said yes to the prompt"
+    },
+    {
+      "id": "c140",
+      "text": "I started anyway today"
     }
   ],
   "rebel": [
@@ -1253,6 +1257,26 @@
     {
       "id": "r174",
       "text": "I stared at clouds for hours"
+    },
+    {
+      "id": "r175",
+      "text": "I followed my curiosity down a rabbit hole"
+    },
+    {
+      "id": "r176",
+      "text": "I ignored the app and climbed a tree"
+    },
+    {
+      "id": "r177",
+      "text": "I chose wonder over a worksheet"
+    },
+    {
+      "id": "r178",
+      "text": "I made breakfast for dinner and called it victory"
+    },
+    {
+      "id": "r179",
+      "text": "I trusted my gut over the guide"
     }
   ]
 }
