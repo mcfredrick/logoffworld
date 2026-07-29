@@ -559,6 +559,18 @@
     {
       "id": "c140",
       "text": "I started anyway today"
+    },
+    {
+      "id": "c141",
+      "text": "I leaned into today's moment"
+    },
+    {
+      "id": "c142",
+      "text": "I took a pause that mattered"
+    },
+    {
+      "id": "c143",
+      "text": "I let today's prompt land"
     }
   ],
   "rebel": [
@@ -1277,6 +1289,14 @@
     {
       "id": "r179",
       "text": "I trusted my gut over the guide"
+    },
+    {
+      "id": "r180",
+      "text": "I made the moment mine"
+    },
+    {
+      "id": "r181",
+      "text": "I built a fort instead"
     }
   ]
 }

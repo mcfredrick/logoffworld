@@ -1426,5 +1426,26 @@
     "date_added": "2026-07-28",
     "connection_share": "You held a stone, wished, threw it back. The world felt a little smaller. Share this, then leave the screen and find another stone.",
     "rebel_share": "You kept scrolling instead of picking up a stone. No judgment. Share this, then close the app and go outside."
+  },
+  {
+    "id": "p217",
+    "text": "Ask a friend to describe their perfect sandwich in ridiculous detail.",
+    "date_added": "2026-07-29",
+    "connection_share": "You asked. They answered. The mayo discourse was transcendent. Share this then put your phone down and go make a sandwich.",
+    "rebel_share": "You ignored the prompt and called your mom instead. Better. Share this then put your phone down and go talk to someone."
+  },
+  {
+    "id": "p218",
+    "text": "Find a puddle and jump in it like nobody's watching.",
+    "date_added": "2026-07-29",
+    "connection_share": "You found water. You jumped. Your socks are ruined and you haven't felt this alive in years. Share this then put your phone down and go outside.",
+    "rebel_share": "You stayed dry and read a book on a park bench. Sensible. Share this then put your phone down and go sit somewhere quiet."
+  },
+  {
+    "id": "p219",
+    "text": "Compliment a stranger's shoes and watch their walk get bouncier.",
+    "date_added": "2026-07-29",
+    "connection_share": "You complimented the boots. Their stride changed. Tiny victory, actual human moment. Share this then put your phone down and go notice someone.",
+    "rebel_share": "You kept walking and pet a dog instead. Correct choice. Share this then put your phone down and go find a dog."
   }
 ]
