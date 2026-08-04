@@ -571,6 +571,10 @@
     {
       "id": "c143",
       "text": "I let today's prompt land"
+    },
+    {
+      "id": "c144",
+      "text": "I breathed through it"
     }
   ],
   "rebel": [
@@ -1297,6 +1301,18 @@
     {
       "id": "r181",
       "text": "I built a fort instead"
+    },
+    {
+      "id": "r182",
+      "text": "I made my own morning ritual"
+    },
+    {
+      "id": "r183",
+      "text": "I ignored the screen, lived life"
+    },
+    {
+      "id": "r184",
+      "text": "I found joy off the grid"
     }
   ]
 }

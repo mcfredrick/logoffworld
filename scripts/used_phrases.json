@@ -1,46 +1,6 @@
 {
   "connection": [
     {
-      "text": "I let the silence hold me",
-      "date": "2026-05-04"
-    },
-    {
-      "text": "I touched the edge of now",
-      "date": "2026-05-04"
-    },
-    {
-      "text": "I met kindness in the rain",
-      "date": "2026-05-04"
-    },
-    {
-      "text": "I followed a distant song",
-      "date": "2026-05-04"
-    },
-    {
-      "text": "I felt the world exhale",
-      "date": "2026-05-04"
-    },
-    {
-      "text": "I shared someone's morning smile",
-      "date": "2026-05-05"
-    },
-    {
-      "text": "I held the world responsibly today",
-      "date": "2026-05-05"
-    },
-    {
-      "text": "I carried quiet grace with me",
-      "date": "2026-05-05"
-    },
-    {
-      "text": "I heard unspoken understanding again",
-      "date": "2026-05-05"
-    },
-    {
-      "text": "I noticed warmth without judgment",
-      "date": "2026-05-05"
-    },
-    {
       "text": "I showed up for today",
       "date": "2026-05-06"
     },
@@ -491,49 +451,13 @@
     {
       "text": "I let today's prompt land",
       "date": "2026-07-29"
+    },
+    {
+      "text": "I breathed through it",
+      "date": "2026-08-04"
     }
   ],
   "rebel": [
-    {
-      "text": "I deleted the feed, stayed unbothered",
-      "date": "2026-05-04"
-    },
-    {
-      "text": "Silenced my phone, found my own way",
-      "date": "2026-05-04"
-    },
-    {
-      "text": "I traded screens for stars",
-      "date": "2026-05-04"
-    },
-    {
-      "text": "Dropped the algorithm like a bad habit",
-      "date": "2026-05-04"
-    },
-    {
-      "text": "I chose silence over the feed",
-      "date": "2026-05-04"
-    },
-    {
-      "text": "I logged off on purpose",
-      "date": "2026-05-05"
-    },
-    {
-      "text": "I chose the slower path",
-      "date": "2026-05-05"
-    },
-    {
-      "text": "I breathed without the feed",
-      "date": "2026-05-05"
-    },
-    {
-      "text": "I wrote it by hand",
-      "date": "2026-05-05"
-    },
-    {
-      "text": "I was gloriously offline",
-      "date": "2026-05-05"
-    },
     {
       "text": "I crafted my own adventure",
       "date": "2026-05-06"
@@ -1137,6 +1061,18 @@
     {
       "text": "I built a fort instead",
       "date": "2026-07-29"
+    },
+    {
+      "text": "I made my own morning ritual",
+      "date": "2026-08-04"
+    },
+    {
+      "text": "I ignored the screen, lived life",
+      "date": "2026-08-04"
+    },
+    {
+      "text": "I found joy off the grid",
+      "date": "2026-08-04"
     }
   ]
 }

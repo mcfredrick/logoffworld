@@ -1447,5 +1447,19 @@
     "date_added": "2026-07-29",
     "connection_share": "You complimented the boots. Their stride changed. Tiny victory, actual human moment. Share this then put your phone down and go notice someone.",
     "rebel_share": "You kept walking and pet a dog instead. Correct choice. Share this then put your phone down and go find a dog."
+  },
+  {
+    "id": "p220",
+    "text": "Trace a raindrop's journey down the window with your finger and guess where it wants to go next.",
+    "date_added": "2026-08-04",
+    "connection_share": "You traced a raindrop and felt the world slow. Share this, then close the app and watch the rain.",
+    "rebel_share": "You ignored the raindrop and did something else. Share this, then put the phone down and go outside."
+  },
+  {
+    "id": "p221",
+    "text": "Ask a friend to tell you about the best sandwich they've ever eaten.",
+    "date_added": "2026-08-04",
+    "connection_share": "You asked a friend about their best sandwich and tasted nostalgia. Share this, then close the feed and eat something real.",
+    "rebel_share": "You didn't ask about sandwiches and chose your own lunch. Share this, then log off and bite into something tangible."
   }
 ]
