@@ -1461,5 +1461,26 @@
     "date_added": "2026-08-04",
     "connection_share": "You asked a friend about their best sandwich and tasted nostalgia. Share this, then close the feed and eat something real.",
     "rebel_share": "You didn't ask about sandwiches and chose your own lunch. Share this, then log off and bite into something tangible."
+  },
+  {
+    "id": "p222",
+    "text": "Leave a kind note in a library book for the next reader to find.",
+    "date_added": "2026-08-07",
+    "connection_share": "You left a note in a library book. A stranger will find it. That matters more than this feed. Share this, then put your phone down.",
+    "rebel_share": "You didn't leave a note. You did something else instead. Good. Share this, then put your phone down."
+  },
+  {
+    "id": "p223",
+    "text": "Skip instead of walk for the next twenty steps and notice how it changes your breath.",
+    "date_added": "2026-08-07",
+    "connection_share": "You skipped twenty steps. Your breath changed. Your body remembered how to play. Share this, then put your phone down.",
+    "rebel_share": "You walked normally. Maybe you danced. Maybe you stood still. Either way you moved. Share this, then put your phone down."
+  },
+  {
+    "id": "p224",
+    "text": "Find a puddle, stare at the reflection, and wave at the sky upside down.",
+    "date_added": "2026-08-07",
+    "connection_share": "You waved at the sky upside down in a puddle. The reflection waved back. Share this, then put your phone down.",
+    "rebel_share": "You ignored the puddle. You looked at the actual sky. Smart. Share this, then put your phone down."
   }
 ]

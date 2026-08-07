@@ -575,6 +575,14 @@
     {
       "id": "c144",
       "text": "I breathed through it"
+    },
+    {
+      "id": "c145",
+      "text": "I actually did it today"
+    },
+    {
+      "id": "c146",
+      "text": "I landed here today"
     }
   ],
   "rebel": [
@@ -1313,6 +1321,30 @@
     {
       "id": "r184",
       "text": "I found joy off the grid"
+    },
+    {
+      "id": "r185",
+      "text": "I painted my walls with sunshine"
+    },
+    {
+      "id": "r186",
+      "text": "I cooked breakfast for dinner, just because"
+    },
+    {
+      "id": "r187",
+      "text": "I wandered until my feet knew home"
+    },
+    {
+      "id": "r188",
+      "text": "I traded my screen for a skyline"
+    },
+    {
+      "id": "r189",
+      "text": "I wrote a letter to the moon"
+    },
+    {
+      "id": "r190",
+      "text": "I remembered how to play"
     }
   ]
 }

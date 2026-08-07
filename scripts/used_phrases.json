@@ -1,62 +1,6 @@
 {
   "connection": [
     {
-      "text": "I showed up for today",
-      "date": "2026-05-06"
-    },
-    {
-      "text": "I did the thing today",
-      "date": "2026-05-06"
-    },
-    {
-      "text": "I played along today",
-      "date": "2026-05-06"
-    },
-    {
-      "text": "I took the leap today",
-      "date": "2026-05-06"
-    },
-    {
-      "text": "I gave it a go today",
-      "date": "2026-05-06"
-    },
-    {
-      "text": "Done for today, I showed up",
-      "date": "2026-05-07"
-    },
-    {
-      "text": "I did the thing, now I'm free",
-      "date": "2026-05-07"
-    },
-    {
-      "text": "Small step, big enough today",
-      "date": "2026-05-07"
-    },
-    {
-      "text": "Shown up today, that's enough",
-      "date": "2026-05-07"
-    },
-    {
-      "text": "I kept my word today",
-      "date": "2026-05-08"
-    },
-    {
-      "text": "I showed up and stayed",
-      "date": "2026-05-08"
-    },
-    {
-      "text": "I leaned into it",
-      "date": "2026-05-08"
-    },
-    {
-      "text": "I played along and meant it",
-      "date": "2026-05-08"
-    },
-    {
-      "text": "I kept the faith",
-      "date": "2026-05-08"
-    },
-    {
       "text": "I showed up and did my thing today",
       "date": "2026-05-09"
     },
@@ -455,65 +399,17 @@
     {
       "text": "I breathed through it",
       "date": "2026-08-04"
+    },
+    {
+      "text": "I actually did it today",
+      "date": "2026-08-07"
+    },
+    {
+      "text": "I landed here today",
+      "date": "2026-08-07"
     }
   ],
   "rebel": [
-    {
-      "text": "I crafted my own adventure",
-      "date": "2026-05-06"
-    },
-    {
-      "text": "I played by my own rules",
-      "date": "2026-05-06"
-    },
-    {
-      "text": "I found joy in unexpected ways",
-      "date": "2026-05-06"
-    },
-    {
-      "text": "I danced to a different beat",
-      "date": "2026-05-06"
-    },
-    {
-      "text": "I wrote my own story",
-      "date": "2026-05-06"
-    },
-    {
-      "text": "I danced with my own rhythm",
-      "date": "2026-05-07"
-    },
-    {
-      "text": "I skipped the plan and thrived",
-      "date": "2026-05-07"
-    },
-    {
-      "text": "I built my own little world",
-      "date": "2026-05-07"
-    },
-    {
-      "text": "I trusted my wild side today",
-      "date": "2026-05-07"
-    },
-    {
-      "text": "I charted my own sunny path",
-      "date": "2026-05-07"
-    },
-    {
-      "text": "My joy didn't need instructions",
-      "date": "2026-05-08"
-    },
-    {
-      "text": "I danced without the playlist",
-      "date": "2026-05-08"
-    },
-    {
-      "text": "My morning was perfectly unplanned",
-      "date": "2026-05-08"
-    },
-    {
-      "text": "I followed what made me grin",
-      "date": "2026-05-08"
-    },
     {
       "text": "I painted my world in bright colors",
       "date": "2026-05-09"
@@ -1073,6 +969,30 @@
     {
       "text": "I found joy off the grid",
       "date": "2026-08-04"
+    },
+    {
+      "text": "I painted my walls with sunshine",
+      "date": "2026-08-07"
+    },
+    {
+      "text": "I cooked breakfast for dinner, just because",
+      "date": "2026-08-07"
+    },
+    {
+      "text": "I wandered until my feet knew home",
+      "date": "2026-08-07"
+    },
+    {
+      "text": "I traded my screen for a skyline",
+      "date": "2026-08-07"
+    },
+    {
+      "text": "I wrote a letter to the moon",
+      "date": "2026-08-07"
+    },
+    {
+      "text": "I remembered how to play",
+      "date": "2026-08-07"
     }
   ]
 }
