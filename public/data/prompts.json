@@ -1482,5 +1482,26 @@
     "date_added": "2026-08-07",
     "connection_share": "You waved at the sky upside down in a puddle. The reflection waved back. Share this, then put your phone down.",
     "rebel_share": "You ignored the puddle. You looked at the actual sky. Smart. Share this, then put your phone down."
+  },
+  {
+    "id": "p225",
+    "text": "Find a puddle and jump in it, preferably while making eye contact with a duck.",
+    "date_added": "2026-08-08",
+    "connection_share": "You jumped in a puddle, stared a duck down, and felt the water soak your socks — share this then log off and go be wet somewhere real",
+    "rebel_share": "You ignored the puddle, walked past the duck, and did whatever you wanted — share this then close the app and go exist on your own terms"
+  },
+  {
+    "id": "p226",
+    "text": "Trade a high-five with a crossing guard or a bus driver just because.",
+    "date_added": "2026-08-08",
+    "connection_share": "You high‑fived a crossing guard, the bus driver smiled, and the moment felt unusually human — share this then quit scrolling and go touch someone",
+    "rebel_share": "You kept walking, left the guard hanging, and chose your own greeting — share this then put the phone down and go make your own contact"
+  },
+  {
+    "id": "p227",
+    "text": "Pick up a fallen leaf, give it a dramatic name, and gift it to a passerby.",
+    "date_added": "2026-08-08",
+    "connection_share": "You named a leaf 'Sir Crinkle', handed it to a stranger, and watched confusion turn to laughter — share this then exit the feed and go hand out absurdity",
+    "rebel_share": "You left the leaf on the pavement, kept your dignity, and invented your own ritual — share this then abandon the platform and go create something pointless"
   }
 ]

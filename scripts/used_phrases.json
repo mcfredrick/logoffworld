@@ -1,14 +1,6 @@
 {
   "connection": [
     {
-      "text": "I showed up and did my thing today",
-      "date": "2026-05-09"
-    },
-    {
-      "text": "Prompt conquered, I’m here today",
-      "date": "2026-05-09"
-    },
-    {
       "text": "I answered the call today",
       "date": "2026-05-10"
     },
@@ -407,25 +399,17 @@
     {
       "text": "I landed here today",
       "date": "2026-08-07"
+    },
+    {
+      "text": "I kept my word today",
+      "date": "2026-08-08"
+    },
+    {
+      "text": "I made it happen today",
+      "date": "2026-08-08"
     }
   ],
   "rebel": [
-    {
-      "text": "I painted my world in bright colors",
-      "date": "2026-05-09"
-    },
-    {
-      "text": "I followed my curiosity into wonder",
-      "date": "2026-05-09"
-    },
-    {
-      "text": "I rewrote the rules and smiled",
-      "date": "2026-05-09"
-    },
-    {
-      "text": "I embraced the unexpected with glee",
-      "date": "2026-05-09"
-    },
     {
       "text": "I chased sunsets on my own terms",
       "date": "2026-05-10"
@@ -993,6 +977,22 @@
     {
       "text": "I remembered how to play",
       "date": "2026-08-07"
+    },
+    {
+      "text": "I trusted my gut and won",
+      "date": "2026-08-08"
+    },
+    {
+      "text": "I skipped the script, wrote my story",
+      "date": "2026-08-08"
+    },
+    {
+      "text": "I made a mess and masterpiece",
+      "date": "2026-08-08"
+    },
+    {
+      "text": "I wandered off path and found treasure",
+      "date": "2026-08-08"
     }
   ]
 }

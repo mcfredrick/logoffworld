@@ -583,6 +583,14 @@
     {
       "id": "c146",
       "text": "I landed here today"
+    },
+    {
+      "id": "c147",
+      "text": "I kept my word today"
+    },
+    {
+      "id": "c148",
+      "text": "I made it happen today"
     }
   ],
   "rebel": [
@@ -1345,6 +1353,22 @@
     {
       "id": "r190",
       "text": "I remembered how to play"
+    },
+    {
+      "id": "r191",
+      "text": "I trusted my gut and won"
+    },
+    {
+      "id": "r192",
+      "text": "I skipped the script, wrote my story"
+    },
+    {
+      "id": "r193",
+      "text": "I made a mess and masterpiece"
+    },
+    {
+      "id": "r194",
+      "text": "I wandered off path and found treasure"
     }
   ]
 }
