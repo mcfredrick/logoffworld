@@ -1,14 +1,6 @@
 {
   "connection": [
     {
-      "text": "I answered the call today",
-      "date": "2026-05-10"
-    },
-    {
-      "text": "I’m here, I did it",
-      "date": "2026-05-10"
-    },
-    {
       "text": "I made today count",
       "date": "2026-05-11"
     },
@@ -407,25 +399,17 @@
     {
       "text": "I made it happen today",
       "date": "2026-08-08"
+    },
+    {
+      "text": "I answered the call today",
+      "date": "2026-08-09"
+    },
+    {
+      "text": "I wandered in and stayed",
+      "date": "2026-08-09"
     }
   ],
   "rebel": [
-    {
-      "text": "I chased sunsets on my own terms",
-      "date": "2026-05-10"
-    },
-    {
-      "text": "Built a fort of pure imagination",
-      "date": "2026-05-10"
-    },
-    {
-      "text": "Skipped the script, found bliss",
-      "date": "2026-05-10"
-    },
-    {
-      "text": "Explored hidden trails, felt free",
-      "date": "2026-05-10"
-    },
     {
       "text": "I danced to my own beat today",
       "date": "2026-05-11"
@@ -993,6 +977,10 @@
     {
       "text": "I wandered off path and found treasure",
       "date": "2026-08-08"
+    },
+    {
+      "text": "I made memories, not metrics today",
+      "date": "2026-08-09"
     }
   ]
 }

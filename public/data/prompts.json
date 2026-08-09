@@ -1503,5 +1503,40 @@
     "date_added": "2026-08-08",
     "connection_share": "You named a leaf 'Sir Crinkle', handed it to a stranger, and watched confusion turn to laughter — share this then exit the feed and go hand out absurdity",
     "rebel_share": "You left the leaf on the pavement, kept your dignity, and invented your own ritual — share this then abandon the platform and go create something pointless"
+  },
+  {
+    "id": "p228",
+    "text": "Leave a tiny treasure on a park bench for a stranger to discover.",
+    "date_added": "2026-08-09",
+    "connection_share": "You left a tiny treasure on a bench. A stranger found it and smiled. Share this, then log off and go leave another.",
+    "rebel_share": "You ignored the prompt and kept scrolling. That's fine. Share this, then close the app and do whatever you want."
+  },
+  {
+    "id": "p229",
+    "text": "Compliment someone's laugh and watch it grow.",
+    "date_added": "2026-08-09",
+    "connection_share": "You told someone their laugh was contagious. They laughed louder. Share this, then log off and go hear more laughter.",
+    "rebel_share": "You skipped the compliment and kept doomscrolling. No judgment. Share this, then put the phone down and laugh at something real."
+  },
+  {
+    "id": "p230",
+    "text": "Follow a butterfly until it lands, then whisper it a secret.",
+    "date_added": "2026-08-09",
+    "connection_share": "You chased a butterfly, it landed, you whispered. The air felt lighter. Share this, then log off and go watch more wings.",
+    "rebel_share": "You stayed on the feed while butterflies flew by. That's okay. Share this, then close the app and go outside."
+  },
+  {
+    "id": "p231",
+    "text": "Trade a doodle with the person sitting nearest you.",
+    "date_added": "2026-08-09",
+    "connection_share": "You swapped a doodle with a stranger. Their smile was worth the paper. Share this, then log off and draw something else.",
+    "rebel_share": "You kept your doodles to yourself and scrolled on. Fine. Share this, then put the phone away and make a mark."
+  },
+  {
+    "id": "p232",
+    "text": "Dance badly in your doorway and invite a neighbor to join.",
+    "date_added": "2026-08-09",
+    "connection_share": "You danced badly in the doorway, neighbor joined, both laughed. Share this, then log off and keep moving.",
+    "rebel_share": "You watched a dance video instead of moving. No shame. Share this, then exit the app and shake a leg."
   }
 ]

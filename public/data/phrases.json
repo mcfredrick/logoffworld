@@ -591,6 +591,14 @@
     {
       "id": "c148",
       "text": "I made it happen today"
+    },
+    {
+      "id": "c149",
+      "text": "I answered the call today"
+    },
+    {
+      "id": "c150",
+      "text": "I wandered in and stayed"
     }
   ],
   "rebel": [
@@ -1369,6 +1377,10 @@
     {
       "id": "r194",
       "text": "I wandered off path and found treasure"
+    },
+    {
+      "id": "r195",
+      "text": "I made memories, not metrics today"
     }
   ]
 }
