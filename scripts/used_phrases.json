@@ -1,38 +1,6 @@
 {
   "connection": [
     {
-      "text": "I made today count",
-      "date": "2026-05-11"
-    },
-    {
-      "text": "I logged in and shone",
-      "date": "2026-05-11"
-    },
-    {
-      "text": "I embraced the prompt",
-      "date": "2026-05-11"
-    },
-    {
-      "text": "Did the thing, feeling good",
-      "date": "2026-05-12"
-    },
-    {
-      "text": "Logged off with a smile",
-      "date": "2026-05-12"
-    },
-    {
-      "text": "I pressed the button today",
-      "date": "2026-05-13"
-    },
-    {
-      "text": "I did my part today",
-      "date": "2026-05-13"
-    },
-    {
-      "text": "Clocking out with pride",
-      "date": "2026-05-13"
-    },
-    {
       "text": "That one's done and dusted",
       "date": "2026-05-14"
     },
@@ -407,57 +375,25 @@
     {
       "text": "I wandered in and stayed",
       "date": "2026-08-09"
+    },
+    {
+      "text": "I played along today, it was fun",
+      "date": "2026-08-12"
+    },
+    {
+      "text": "I finished the daily, feeling lit",
+      "date": "2026-08-12"
+    },
+    {
+      "text": "I showed up, I'm glad I did",
+      "date": "2026-08-12"
+    },
+    {
+      "text": "I finished the prompt, good vibes",
+      "date": "2026-08-12"
     }
   ],
   "rebel": [
-    {
-      "text": "I danced to my own beat today",
-      "date": "2026-05-11"
-    },
-    {
-      "text": "Made my own rules and smiled",
-      "date": "2026-05-11"
-    },
-    {
-      "text": "Wandered freely, loved every moment",
-      "date": "2026-05-11"
-    },
-    {
-      "text": "I skipped the script and danced my own rhythm",
-      "date": "2026-05-12"
-    },
-    {
-      "text": "I followed my own spark today",
-      "date": "2026-05-12"
-    },
-    {
-      "text": "I chose my own adventure and thrived",
-      "date": "2026-05-12"
-    },
-    {
-      "text": "I unplugged and painted my own sunrise",
-      "date": "2026-05-12"
-    },
-    {
-      "text": "I rewrote the day my way",
-      "date": "2026-05-12"
-    },
-    {
-      "text": "I unplugged and discovered something beautiful",
-      "date": "2026-05-13"
-    },
-    {
-      "text": "Today I chose my own path",
-      "date": "2026-05-13"
-    },
-    {
-      "text": "My day my rules my joy",
-      "date": "2026-05-13"
-    },
-    {
-      "text": "I ditched the script and bloomed",
-      "date": "2026-05-13"
-    },
     {
       "text": "Closed the laptop, found my spark",
       "date": "2026-05-14"
@@ -981,6 +917,22 @@
     {
       "text": "I made memories, not metrics today",
       "date": "2026-08-09"
+    },
+    {
+      "text": "I made my own fun today",
+      "date": "2026-08-12"
+    },
+    {
+      "text": "I went off-script, it ruled",
+      "date": "2026-08-12"
+    },
+    {
+      "text": "I did things my way today",
+      "date": "2026-08-12"
+    },
+    {
+      "text": "I went off and loved it",
+      "date": "2026-08-12"
     }
   ]
 }

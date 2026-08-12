@@ -599,6 +599,22 @@
     {
       "id": "c150",
       "text": "I wandered in and stayed"
+    },
+    {
+      "id": "c151",
+      "text": "I played along today, it was fun"
+    },
+    {
+      "id": "c152",
+      "text": "I finished the daily, feeling lit"
+    },
+    {
+      "id": "c153",
+      "text": "I showed up, I'm glad I did"
+    },
+    {
+      "id": "c154",
+      "text": "I finished the prompt, good vibes"
     }
   ],
   "rebel": [
@@ -1381,6 +1397,22 @@
     {
       "id": "r195",
       "text": "I made memories, not metrics today"
+    },
+    {
+      "id": "r196",
+      "text": "I made my own fun today"
+    },
+    {
+      "id": "r197",
+      "text": "I went off-script, it ruled"
+    },
+    {
+      "id": "r198",
+      "text": "I did things my way today"
+    },
+    {
+      "id": "r199",
+      "text": "I went off and loved it"
     }
   ]
 }

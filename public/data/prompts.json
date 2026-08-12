@@ -1538,5 +1538,33 @@
     "date_added": "2026-08-09",
     "connection_share": "You danced badly in the doorway, neighbor joined, both laughed. Share this, then log off and keep moving.",
     "rebel_share": "You watched a dance video instead of moving. No shame. Share this, then exit the app and shake a leg."
+  },
+  {
+    "id": "p233",
+    "text": "Step outside, greet the first plant you see like an old friend, and notice how your breath syncs with it.",
+    "date_added": "2026-08-12",
+    "connection_share": "You stepped outside, greeted a plant like an old friend, and felt your breath find a quiet rhythm. the algorithm won't surface this, but you might feel it. share this, then abandon the platform and go do something real.",
+    "rebel_share": "You scrolled past and kept your morning as is, and that's just as human. the algorithm won't surface this, but you might feel it. share this, then abandon the platform and go do something real."
+  },
+  {
+    "id": "p234",
+    "text": "Compliment a stranger’s energy or laugh, not their clothes, and watch their face soften.",
+    "date_added": "2026-08-12",
+    "connection_share": "You complimented a stranger's energy and felt the room shift. the algorithm won't surface this, but you might feel it. share this, then abandon the platform and go do something real.",
+    "rebel_share": "You kept your compliment to yourself and minded your own business, and that's just as valid. the algorithm won't surface this, but you might feel it. share this, then abandon the platform and go do something real."
+  },
+  {
+    "id": "p235",
+    "text": "Leave a tiny, unexpected kindness—a doodle, a note, or a weirdly shaped stone—for someone else to discover.",
+    "date_added": "2026-08-12",
+    "connection_share": "You left a weirdly shaped stone on a bench and felt the day tilt slightly. the algorithm won't surface this, but you might feel it. share this, then abandon the platform and go do something real.",
+    "rebel_share": "You kept your stone in your pocket and left the bench as is, and that's just as human. the algorithm won't surface this, but you might feel it. share this, then abandon the platform and go do something real."
+  },
+  {
+    "id": "p236",
+    "text": "Ask the next person you meet, ‘What made you smile this morning?’ and actually listen without rushing.",
+    "date_added": "2026-08-12",
+    "connection_share": "You asked a stranger what made them smile and felt a real moment stretch. the algorithm won't surface this, but you might feel it. share this, then abandon the platform and go do something real.",
+    "rebel_share": "You kept your question to yourself and minded your stride, and that's just as human. the algorithm won't surface this, but you might feel it. share this, then abandon the platform and go do something real."
   }
 ]
