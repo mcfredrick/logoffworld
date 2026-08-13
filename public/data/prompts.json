@@ -1566,5 +1566,40 @@
     "date_added": "2026-08-12",
     "connection_share": "You asked a stranger what made them smile and felt a real moment stretch. the algorithm won't surface this, but you might feel it. share this, then abandon the platform and go do something real.",
     "rebel_share": "You kept your question to yourself and minded your stride, and that's just as human. the algorithm won't surface this, but you might feel it. share this, then abandon the platform and go do something real."
+  },
+  {
+    "id": "p237",
+    "text": "Press your palm against a tree and imagine what it’s been watching all day.",
+    "date_added": "2026-08-13",
+    "connection_share": "palm flat, bark cold, i imagined the day. share this. then go outside.",
+    "rebel_share": "walked past, whistled instead. share this. then go outside."
+  },
+  {
+    "id": "p238",
+    "text": "Wear mismatched socks on purpose and notice who smiles first.",
+    "date_added": "2026-08-13",
+    "connection_share": "socks mismatched, a stranger grinned. share this. then go outside.",
+    "rebel_share": "socks matched dull, kept my head down. share this. then go outside."
+  },
+  {
+    "id": "p239",
+    "text": "Leave a tiny doodle on a public bench with a happy message for the next person who sits.",
+    "date_added": "2026-08-13",
+    "connection_share": "bench doodle left, happy secret sent. share this. then go outside.",
+    "rebel_share": "sat elsewhere, no doodle found. share this. then go outside."
+  },
+  {
+    "id": "p240",
+    "text": "Hum a favorite song while watering a plant and listen for how it changes the moment.",
+    "date_added": "2026-08-13",
+    "connection_share": "hummed low, plant leaves quivered. share this. then go outside.",
+    "rebel_share": "sang loud, skipped the pot. share this. then go outside."
+  },
+  {
+    "id": "p241",
+    "text": "Tell a friend about the most beautiful small thing you noticed today, just because.",
+    "date_added": "2026-08-13",
+    "connection_share": "told a friend, a small beauty noted. share this. then go outside.",
+    "rebel_share": "kept it quiet, nodded to myself. share this. then go outside."
   }
 ]

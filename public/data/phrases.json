@@ -615,6 +615,14 @@
     {
       "id": "c154",
       "text": "I finished the prompt, good vibes"
+    },
+    {
+      "id": "c155",
+      "text": "I smiled through the creative stretch today"
+    },
+    {
+      "id": "c156",
+      "text": "I showed up, it's all good today"
     }
   ],
   "rebel": [
@@ -1413,6 +1421,22 @@
     {
       "id": "r199",
       "text": "I went off and loved it"
+    },
+    {
+      "id": "r200",
+      "text": "I took the scenic route"
+    },
+    {
+      "id": "r201",
+      "text": "I love skipping the script"
+    },
+    {
+      "id": "r202",
+      "text": "I found joy unplugged"
+    },
+    {
+      "id": "r203",
+      "text": "I did me, unfiltered"
     }
   ]
 }
