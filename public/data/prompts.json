@@ -1601,5 +1601,33 @@
     "date_added": "2026-08-13",
     "connection_share": "told a friend, a small beauty noted. share this. then go outside.",
     "rebel_share": "kept it quiet, nodded to myself. share this. then go outside."
+  },
+  {
+    "id": "p242",
+    "text": "Call a friend just to describe the most unexpected thing a squirrel has done lately.",
+    "date_added": "2026-08-14",
+    "connection_share": "You called a friend instead of scrolling, described a squirrel raiding a bird feeder, and felt something loosen. Share this, put the phone down, and go do something real.",
+    "rebel_share": "You ignored the prompt and watched a squirrel raid a feeder instead of posting a photo, equally human. Share this, put the phone down, and go do something real."
+  },
+  {
+    "id": "p243",
+    "text": "Send a handwritten note to a neighbor with a drawing of a wobbling pancake and no other message.",
+    "date_added": "2026-08-14",
+    "connection_share": "You wrote a note, drew a wobbling pancake on paper, slipped it in a mailbox instead of posting online, and waited. Share this, put the phone down, and go do something real.",
+    "rebel_share": "You skipped the prompt and doodled a wobbling pancake on your toast instead of snapping a pic, equally valid. Share this, put the phone down, and go do something real."
+  },
+  {
+    "id": "p244",
+    "text": "Sit by a window and invent a fun adventure for the next person you see walking by.",
+    "date_added": "2026-08-14",
+    "connection_share": "You sat by a window, invented a spy adventure for the next walker instead of refreshing your feed, and caught yourself smiling. Share this, put the phone down, and go do something real.",
+    "rebel_share": "You pulled the curtain shut and invented an adventure for your reflection instead of uploading a story, equally human. Share this, put the phone down, and go do something real."
+  },
+  {
+    "id": "p245",
+    "text": "Hold a spoonful of honey, savor it slowly, and make the silliest face you can while doing it.",
+    "date_added": "2026-08-14",
+    "connection_share": "You held a spoonful of honey, let it slow-climb up the spoon, made a face at the ceiling instead of posting a selfie, and laughed. Share this, put the phone down, and go do something real.",
+    "rebel_share": "You skipped the spoon and drizzled honey on toast instead of snapping a food pic, made a face, and called it art equally. Share this, put the phone down, and go do something real."
   }
 ]

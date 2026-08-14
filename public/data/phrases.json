@@ -623,6 +623,34 @@
     {
       "id": "c156",
       "text": "I showed up, it's all good today"
+    },
+    {
+      "id": "c157",
+      "text": "I played along with joy"
+    },
+    {
+      "id": "c158",
+      "text": "I embraced the messy middle"
+    },
+    {
+      "id": "c159",
+      "text": "I kept it light and fun"
+    },
+    {
+      "id": "c160",
+      "text": "I celebrated my attempt"
+    },
+    {
+      "id": "c161",
+      "text": "I stayed curious today"
+    },
+    {
+      "id": "c162",
+      "text": "I took the creative leap"
+    },
+    {
+      "id": "c163",
+      "text": "I smiled through it all"
     }
   ],
   "rebel": [
@@ -1437,6 +1465,26 @@
     {
       "id": "r203",
       "text": "I did me, unfiltered"
+    },
+    {
+      "id": "r204",
+      "text": "I found my own groove"
+    },
+    {
+      "id": "r205",
+      "text": "Off script on beat"
+    },
+    {
+      "id": "r206",
+      "text": "My adventure my rules"
+    },
+    {
+      "id": "r207",
+      "text": "I tuned out and tuned in"
+    },
+    {
+      "id": "r208",
+      "text": "Happy off grid today"
     }
   ]
 }
