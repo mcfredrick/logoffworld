@@ -1629,5 +1629,19 @@
     "date_added": "2026-08-14",
     "connection_share": "You held a spoonful of honey, let it slow-climb up the spoon, made a face at the ceiling instead of posting a selfie, and laughed. Share this, put the phone down, and go do something real.",
     "rebel_share": "You skipped the spoon and drizzled honey on toast instead of snapping a food pic, made a face, and called it art equally. Share this, put the phone down, and go do something real."
+  },
+  {
+    "id": "p246",
+    "text": "Compliment a stranger’s energy and ask what song’s been stuck in their head.",
+    "date_added": "2026-08-15",
+    "connection_share": "you complimented a stranger's energy and asked what song was stuck in their head. share this, then abandon the platform and go do something real.",
+    "rebel_share": "you skipped the prompt and did your own thing, equally valid and equally human. share this, then abandon the platform and go do something real."
+  },
+  {
+    "id": "p247",
+    "text": "Lie on the grass and find shapes in the clouds, then name them with a friend.",
+    "date_added": "2026-08-15",
+    "connection_share": "you lay on grass and found shapes in the clouds with a friend. share this, then abandon the platform and go do something real.",
+    "rebel_share": "you skipped the grass and found your own sky, equally valid and equally human. share this, then abandon the platform and go do something real."
   }
 ]

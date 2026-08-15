@@ -651,6 +651,26 @@
     {
       "id": "c163",
       "text": "I smiled through it all"
+    },
+    {
+      "id": "c164",
+      "text": "I showed up for the day"
+    },
+    {
+      "id": "c165",
+      "text": "I finished today's round"
+    },
+    {
+      "id": "c166",
+      "text": "I went for it today"
+    },
+    {
+      "id": "c167",
+      "text": "I'm all done today"
+    },
+    {
+      "id": "c168",
+      "text": "I completed the challenge"
     }
   ],
   "rebel": [
@@ -1485,6 +1505,22 @@
     {
       "id": "r208",
       "text": "Happy off grid today"
+    },
+    {
+      "id": "r209",
+      "text": "I chose joy over the prompt"
+    },
+    {
+      "id": "r210",
+      "text": "I wrote my own sunshine"
+    },
+    {
+      "id": "r211",
+      "text": "I broke the rules, found joy"
+    },
+    {
+      "id": "r212",
+      "text": "I followed my heart today"
     }
   ]
 }

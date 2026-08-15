@@ -1,14 +1,6 @@
 {
   "connection": [
     {
-      "text": "I stepped into it today",
-      "date": "2026-05-16"
-    },
-    {
-      "text": "I put my hands up today",
-      "date": "2026-05-16"
-    },
-    {
       "text": "I showed up, slightly nervous but here",
       "date": "2026-05-17"
     },
@@ -419,25 +411,29 @@
     {
       "text": "I smiled through it all",
       "date": "2026-08-14"
+    },
+    {
+      "text": "I showed up for the day",
+      "date": "2026-08-15"
+    },
+    {
+      "text": "I finished today's round",
+      "date": "2026-08-15"
+    },
+    {
+      "text": "I went for it today",
+      "date": "2026-08-15"
+    },
+    {
+      "text": "I'm all done today",
+      "date": "2026-08-15"
+    },
+    {
+      "text": "I completed the challenge",
+      "date": "2026-08-15"
     }
   ],
   "rebel": [
-    {
-      "text": "I chose joy over the plan",
-      "date": "2026-05-16"
-    },
-    {
-      "text": "I wandered off and bloomed",
-      "date": "2026-05-16"
-    },
-    {
-      "text": "I invented my own sunrise",
-      "date": "2026-05-16"
-    },
-    {
-      "text": "I played instead of prompted",
-      "date": "2026-05-16"
-    },
     {
       "text": "My own rhythm felt amazing",
       "date": "2026-05-17"
@@ -977,6 +973,22 @@
     {
       "text": "Happy off grid today",
       "date": "2026-08-14"
+    },
+    {
+      "text": "I chose joy over the prompt",
+      "date": "2026-08-15"
+    },
+    {
+      "text": "I wrote my own sunshine",
+      "date": "2026-08-15"
+    },
+    {
+      "text": "I broke the rules, found joy",
+      "date": "2026-08-15"
+    },
+    {
+      "text": "I followed my heart today",
+      "date": "2026-08-15"
     }
   ]
 }
