@@ -671,6 +671,18 @@
     {
       "id": "c168",
       "text": "I completed the challenge"
+    },
+    {
+      "id": "c169",
+      "text": "I did the daily thing today"
+    },
+    {
+      "id": "c170",
+      "text": "I embraced the daily prompt"
+    },
+    {
+      "id": "c171",
+      "text": "I showed up and it was fun"
     }
   ],
   "rebel": [
@@ -1521,6 +1533,18 @@
     {
       "id": "r212",
       "text": "I followed my heart today"
+    },
+    {
+      "id": "r213",
+      "text": "I found my own happy path"
+    },
+    {
+      "id": "r214",
+      "text": "I logged off into wonder"
+    },
+    {
+      "id": "r215",
+      "text": "I ditched the list for sky"
     }
   ]
 }

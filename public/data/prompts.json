@@ -1643,5 +1643,26 @@
     "date_added": "2026-08-15",
     "connection_share": "you lay on grass and found shapes in the clouds with a friend. share this, then abandon the platform and go do something real.",
     "rebel_share": "you skipped the grass and found your own sky, equally valid and equally human. share this, then abandon the platform and go do something real."
+  },
+  {
+    "id": "p248",
+    "text": "Pick a wildflower and gift it to someone just because it made you smile.",
+    "date_added": "2026-08-16",
+    "connection_share": "you picked a wildflower and gifted it to a stranger. the quiet moment felt more genuine than any feed. share this, then put the phone down and go do something real.",
+    "rebel_share": "you ignored the prompt and made tea instead. turning away doesn't make you less human. share this, then put the phone down and go do something real."
+  },
+  {
+    "id": "p249",
+    "text": "Spin around until you're a little dizzy, then wave at the next person you see.",
+    "date_added": "2026-08-16",
+    "connection_share": "you spun until dizzy and waved at a passerby. the street felt briefly alive. share this, then put the phone down and go do something real.",
+    "rebel_share": "you kept your feet planted and watched the world go by. staying still is just as valid. share this, then put the phone down and go do something real."
+  },
+  {
+    "id": "p250",
+    "text": "Find a rock that looks like an animal and invent a secret name for its personality.",
+    "date_added": "2026-08-16",
+    "connection_share": "you found a rock, saw a badger, named it Gerald. the nonsense grounded you in the moment. share this, then put the phone down and go do something real.",
+    "rebel_share": "you walked past the rocks and left the imagining to others. not every stone needs a story. share this, then put the phone down and go do something real."
   }
 ]

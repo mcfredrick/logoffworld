@@ -1,14 +1,6 @@
 {
   "connection": [
     {
-      "text": "I showed up, slightly nervous but here",
-      "date": "2026-05-17"
-    },
-    {
-      "text": "I checked in with myself today",
-      "date": "2026-05-17"
-    },
-    {
       "text": "The prompt got me, but I showed up",
       "date": "2026-05-18"
     },
@@ -431,21 +423,21 @@
     {
       "text": "I completed the challenge",
       "date": "2026-08-15"
+    },
+    {
+      "text": "I did the daily thing today",
+      "date": "2026-08-16"
+    },
+    {
+      "text": "I embraced the daily prompt",
+      "date": "2026-08-16"
+    },
+    {
+      "text": "I showed up and it was fun",
+      "date": "2026-08-16"
     }
   ],
   "rebel": [
-    {
-      "text": "My own rhythm felt amazing",
-      "date": "2026-05-17"
-    },
-    {
-      "text": "Off-script and fully alive",
-      "date": "2026-05-17"
-    },
-    {
-      "text": "I colored outside the lines",
-      "date": "2026-05-17"
-    },
     {
       "text": "I danced with no audience",
       "date": "2026-05-18"
@@ -989,6 +981,18 @@
     {
       "text": "I followed my heart today",
       "date": "2026-08-15"
+    },
+    {
+      "text": "I found my own happy path",
+      "date": "2026-08-16"
+    },
+    {
+      "text": "I logged off into wonder",
+      "date": "2026-08-16"
+    },
+    {
+      "text": "I ditched the list for sky",
+      "date": "2026-08-16"
     }
   ]
 }
