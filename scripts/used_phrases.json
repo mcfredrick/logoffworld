@@ -1,14 +1,6 @@
 {
   "connection": [
     {
-      "text": "The prompt got me, but I showed up",
-      "date": "2026-05-18"
-    },
-    {
-      "text": "I showed up, no excuses",
-      "date": "2026-05-18"
-    },
-    {
       "text": "I showed up, as promised",
       "date": "2026-05-19"
     },
@@ -435,25 +427,13 @@
     {
       "text": "I showed up and it was fun",
       "date": "2026-08-16"
+    },
+    {
+      "text": "I completed the prompt satisfied",
+      "date": "2026-08-17"
     }
   ],
   "rebel": [
-    {
-      "text": "I danced with no audience",
-      "date": "2026-05-18"
-    },
-    {
-      "text": "I unplugged and recharged myself",
-      "date": "2026-05-18"
-    },
-    {
-      "text": "I made breakfast for my soul",
-      "date": "2026-05-18"
-    },
-    {
-      "text": "I wandered without a map",
-      "date": "2026-05-18"
-    },
     {
       "text": "I played instead and it was perfect",
       "date": "2026-05-19"
@@ -993,6 +973,34 @@
     {
       "text": "I ditched the list for sky",
       "date": "2026-08-16"
+    },
+    {
+      "text": "I made art instead of scrolling",
+      "date": "2026-08-17"
+    },
+    {
+      "text": "I walked away and felt alive",
+      "date": "2026-08-17"
+    },
+    {
+      "text": "I danced in the middle of nowhere",
+      "date": "2026-08-17"
+    },
+    {
+      "text": "I chose my own adventure today",
+      "date": "2026-08-17"
+    },
+    {
+      "text": "I logged out of expectations",
+      "date": "2026-08-17"
+    },
+    {
+      "text": "I found magic in the ordinary",
+      "date": "2026-08-17"
+    },
+    {
+      "text": "I did exactly what I wanted",
+      "date": "2026-08-17"
     }
   ]
 }

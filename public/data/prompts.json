@@ -1664,5 +1664,33 @@
     "date_added": "2026-08-16",
     "connection_share": "you found a rock, saw a badger, named it Gerald. the nonsense grounded you in the moment. share this, then put the phone down and go do something real.",
     "rebel_share": "you walked past the rocks and left the imagining to others. not every stone needs a story. share this, then put the phone down and go do something real."
+  },
+  {
+    "id": "p251",
+    "text": "Wave at a stranger and mean it like you've known them forever.",
+    "date_added": "2026-08-17",
+    "connection_share": "you waved at a stranger with genuine warmth. share this, then put the phone down and go do something real.",
+    "rebel_share": "you kept walking and didn't wave at all. share this, then put the phone down and go do something real."
+  },
+  {
+    "id": "p252",
+    "text": "Seek out the silliest-shaped cloud and tell a friend why it reminds you of laughter.",
+    "date_added": "2026-08-17",
+    "connection_share": "you found a silly cloud and named its shape to a friend. share this, then put the phone down and go do something real.",
+    "rebel_share": "you looked away from the sky and kept scrolling in your mind. share this, then put the phone down and go do something real."
+  },
+  {
+    "id": "p253",
+    "text": "Ask the next person you meet what made them smile when no one was watching.",
+    "date_added": "2026-08-17",
+    "connection_share": "you asked a stranger about their unseen smile and truly heard them. share this, then put the phone down and go do something real.",
+    "rebel_share": "you didn't ask and minded your own business instead. share this, then put the phone down and go do something real."
+  },
+  {
+    "id": "p254",
+    "text": "Leave a funny drawing on a park bench and watch someone discover it with surprise.",
+    "date_added": "2026-08-17",
+    "connection_share": "you left a funny drawing on a bench and watched a stranger smile. share this, then put the phone down and go do something real.",
+    "rebel_share": "you kept your drawing to yourself and walked past the bench. share this, then put the phone down and go do something real."
   }
 ]
