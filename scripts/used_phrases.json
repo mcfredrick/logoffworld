@@ -1,14 +1,6 @@
 {
   "connection": [
     {
-      "text": "I showed up, as promised",
-      "date": "2026-05-19"
-    },
-    {
-      "text": "Checked in and done for today",
-      "date": "2026-05-19"
-    },
-    {
       "text": "That was worth it today",
       "date": "2026-05-20"
     },
@@ -431,17 +423,17 @@
     {
       "text": "I completed the prompt satisfied",
       "date": "2026-08-17"
+    },
+    {
+      "text": "I clicked done, felt great",
+      "date": "2026-08-18"
+    },
+    {
+      "text": "I logged the win today",
+      "date": "2026-08-18"
     }
   ],
   "rebel": [
-    {
-      "text": "I played instead and it was perfect",
-      "date": "2026-05-19"
-    },
-    {
-      "text": "I lived before the alarm",
-      "date": "2026-05-19"
-    },
     {
       "text": "I ignored the prompt, found gold",
       "date": "2026-05-20"
@@ -1001,6 +993,14 @@
     {
       "text": "I did exactly what I wanted",
       "date": "2026-08-17"
+    },
+    {
+      "text": "I stepped off grid felt free",
+      "date": "2026-08-18"
+    },
+    {
+      "text": "I took the day off found joy",
+      "date": "2026-08-18"
     }
   ]
 }

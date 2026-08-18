@@ -1692,5 +1692,33 @@
     "date_added": "2026-08-17",
     "connection_share": "you left a funny drawing on a bench and watched a stranger smile. share this, then put the phone down and go do something real.",
     "rebel_share": "you kept your drawing to yourself and walked past the bench. share this, then put the phone down and go do something real."
+  },
+  {
+    "id": "p255",
+    "text": "Chase a dandelion seed puff and make a wish out loud.",
+    "date_added": "2026-08-18",
+    "connection_share": "quieter than a feed, you meant that wish. share this, then abandon the platform and go do something real.",
+    "rebel_share": "you walked past, made your own wish instead. share this, then abandon the platform and go do something real."
+  },
+  {
+    "id": "p256",
+    "text": "Compliment a stranger’s energy instead of their appearance.",
+    "date_added": "2026-08-18",
+    "connection_share": "better than a shallow like, you meant it. share this, then abandon the platform and go do something real.",
+    "rebel_share": "you kept it quiet, your own kindness. share this, then abandon the platform and go do something real."
+  },
+  {
+    "id": "p257",
+    "text": "Leave a kind, unexpected doodle somewhere for someone to discover.",
+    "date_added": "2026-08-18",
+    "connection_share": "messenger than an algorithm, you left it there. share this, then abandon the platform and go do something real.",
+    "rebel_share": "you kept your marks private, for now. share this, then abandon the platform and go do something real."
+  },
+  {
+    "id": "p258",
+    "text": "Sing a made-up song to a houseplant and imagine it’s enjoying the performance.",
+    "date_added": "2026-08-18",
+    "connection_share": "quieter than a trending sound, you believed it. share this, then abandon the platform and go do something real.",
+    "rebel_share": "you hummed alone, no audience needed. share this, then abandon the platform and go do something real."
   }
 ]

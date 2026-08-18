@@ -687,6 +687,14 @@
     {
       "id": "c172",
       "text": "I completed the prompt satisfied"
+    },
+    {
+      "id": "c173",
+      "text": "I clicked done, felt great"
+    },
+    {
+      "id": "c174",
+      "text": "I logged the win today"
     }
   ],
   "rebel": [
@@ -1577,6 +1585,14 @@
     {
       "id": "r222",
       "text": "I did exactly what I wanted"
+    },
+    {
+      "id": "r223",
+      "text": "I stepped off grid felt free"
+    },
+    {
+      "id": "r224",
+      "text": "I took the day off found joy"
     }
   ]
 }
