@@ -695,6 +695,14 @@
     {
       "id": "c174",
       "text": "I logged the win today"
+    },
+    {
+      "id": "c175",
+      "text": "I took the prompt seriously"
+    },
+    {
+      "id": "c176",
+      "text": "I nailed today's challenge"
     }
   ],
   "rebel": [
@@ -1593,6 +1601,18 @@
     {
       "id": "r224",
       "text": "I took the day off found joy"
+    },
+    {
+      "id": "r225",
+      "text": "I stepped off the beaten path"
+    },
+    {
+      "id": "r226",
+      "text": "I danced to my own beat"
+    },
+    {
+      "id": "r227",
+      "text": "I logged off and made magic"
     }
   ]
 }

@@ -1,18 +1,6 @@
 {
   "connection": [
     {
-      "text": "That was worth it today",
-      "date": "2026-05-20"
-    },
-    {
-      "text": "Checked in, I'm good",
-      "date": "2026-05-20"
-    },
-    {
-      "text": "Done, I'm smiling today",
-      "date": "2026-05-20"
-    },
-    {
       "text": "I danced with today's weird little prompt",
       "date": "2026-05-22"
     },
@@ -431,17 +419,17 @@
     {
       "text": "I logged the win today",
       "date": "2026-08-18"
+    },
+    {
+      "text": "I took the prompt seriously",
+      "date": "2026-08-19"
+    },
+    {
+      "text": "I nailed today's challenge",
+      "date": "2026-08-19"
     }
   ],
   "rebel": [
-    {
-      "text": "I ignored the prompt, found gold",
-      "date": "2026-05-20"
-    },
-    {
-      "text": "I wandered and discovered wonder",
-      "date": "2026-05-20"
-    },
     {
       "text": "I went rogue and it ruled",
       "date": "2026-05-22"
@@ -1001,6 +989,18 @@
     {
       "text": "I took the day off found joy",
       "date": "2026-08-18"
+    },
+    {
+      "text": "I stepped off the beaten path",
+      "date": "2026-08-19"
+    },
+    {
+      "text": "I danced to my own beat",
+      "date": "2026-08-19"
+    },
+    {
+      "text": "I logged off and made magic",
+      "date": "2026-08-19"
     }
   ]
 }
