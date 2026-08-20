@@ -1748,5 +1748,33 @@
     "date_added": "2026-08-19",
     "connection_share": "I slipped a note into a library book and wondered who'd find it. share this then put the phone down and notice something real.",
     "rebel_share": "I left no note and kept to myself. equally valid. share this then put the phone down and notice something real."
+  },
+  {
+    "id": "p263",
+    "text": "Wave at a stranger with genuine curiosity and notice their reaction.",
+    "date_added": "2026-08-20",
+    "connection_share": "you waved at a stranger and felt a thread of something unspoken pass between you. odd how contact resets without agenda. share this, then abandon the platform and go do something real.",
+    "rebel_share": "you kept your eyes forward and hummed instead. both routes end in the same quiet room. share this, then abandon the platform and go do something real."
+  },
+  {
+    "id": "p264",
+    "text": "Pick a flower, name it something imaginative, and tell someone about your new friend.",
+    "date_added": "2026-08-20",
+    "connection_share": "you picked a weed and gave it a name that only you would whisper. then you told a friend who smiled without irony. share this, then abandon the platform and go do something real.",
+    "rebel_share": "you skipped the naming and watered a potted plant instead. both are rituals. both are yours. share this, then abandon the platform and go do something real."
+  },
+  {
+    "id": "p265",
+    "text": "Dance briefly in your kitchen while the kettle boils, just because the moment feels good.",
+    "date_added": "2026-08-20",
+    "connection_share": "you shuffled in the kitchen while steam rose and felt the floor shift beneath your feet. no one needed to see it. share this, then abandon the platform and go do something real.",
+    "rebel_share": "you stood still and listened to the kettle whistle. neither movement nor stillness is the point. share this, then abandon the platform and go do something real."
+  },
+  {
+    "id": "p266",
+    "text": "Compliment someone’s energy instead of their appearance, and see how the conversation shifts.",
+    "date_added": "2026-08-20",
+    "connection_share": "you told a colleague their energy felt roomy and watched the conversation loosen. hierarchy in praise is quiet. share this, then abandon the platform and go do something real.",
+    "rebel_share": "you praised someone's choice of jacket instead and saw them straighten. either compliment lands. share this, then abandon the platform and go do something real."
   }
 ]

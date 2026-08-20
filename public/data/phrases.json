@@ -703,6 +703,14 @@
     {
       "id": "c176",
       "text": "I nailed today's challenge"
+    },
+    {
+      "id": "c177",
+      "text": "I completed today's creative task"
+    },
+    {
+      "id": "c178",
+      "text": "I took a swing at the prompt"
     }
   ],
   "rebel": [
@@ -1613,6 +1621,22 @@
     {
       "id": "r227",
       "text": "I logged off and made magic"
+    },
+    {
+      "id": "r228",
+      "text": "I painted my own sky"
+    },
+    {
+      "id": "r229",
+      "text": "I played hooky to happiness"
+    },
+    {
+      "id": "r230",
+      "text": "I found freedom today"
+    },
+    {
+      "id": "r231",
+      "text": "I logged out and bloomed"
     }
   ]
 }
