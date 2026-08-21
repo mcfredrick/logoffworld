@@ -1776,5 +1776,19 @@
     "date_added": "2026-08-20",
     "connection_share": "you told a colleague their energy felt roomy and watched the conversation loosen. hierarchy in praise is quiet. share this, then abandon the platform and go do something real.",
     "rebel_share": "you praised someone's choice of jacket instead and saw them straighten. either compliment lands. share this, then abandon the platform and go do something real."
+  },
+  {
+    "id": "p267",
+    "text": "Leave a kind note for someone to find in a public place, just because.",
+    "date_added": "2026-08-21",
+    "connection_share": "another prompt to be present while the feed updates. left a kind note on a bench, no signature. felt something quiet. share this, then abandon the platform and go do something real.",
+    "rebel_share": "ignored the note, made toast instead. equally human, doing their own thing. share this, then abandon the platform and go do something real."
+  },
+  {
+    "id": "p268",
+    "text": "Sit under a tree for two minutes and listen to the stories the leaves might tell.",
+    "date_added": "2026-08-21",
+    "connection_share": "another prompt to be present while the timeline loops. sat under a tree for two minutes, listened to leaves. felt a quiet shift. share this, then abandon the platform and go do something real.",
+    "rebel_share": "ignored the tree prompt, made a sandwich instead. equally human, doing their own thing. share this, then abandon the platform and go do something real."
   }
 ]

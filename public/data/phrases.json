@@ -711,6 +711,22 @@
     {
       "id": "c178",
       "text": "I took a swing at the prompt"
+    },
+    {
+      "id": "c179",
+      "text": "Prompt completed, feeling great"
+    },
+    {
+      "id": "c180",
+      "text": "Today's prompt, accepted!"
+    },
+    {
+      "id": "c181",
+      "text": "Prompt done, vibes high"
+    },
+    {
+      "id": "c182",
+      "text": "I showed up, prompt done"
     }
   ],
   "rebel": [
@@ -1637,6 +1653,10 @@
     {
       "id": "r231",
       "text": "I logged out and bloomed"
+    },
+    {
+      "id": "r232",
+      "text": "I did my own thing and loved it"
     }
   ]
 }
