@@ -1790,5 +1790,26 @@
     "date_added": "2026-08-21",
     "connection_share": "another prompt to be present while the timeline loops. sat under a tree for two minutes, listened to leaves. felt a quiet shift. share this, then abandon the platform and go do something real.",
     "rebel_share": "ignored the tree prompt, made a sandwich instead. equally human, doing their own thing. share this, then abandon the platform and go do something real."
+  },
+  {
+    "id": "p269",
+    "text": "Look up at the sky and name a cloud after something you love.",
+    "date_added": "2026-08-22",
+    "connection_share": "you looked up, named a cloud after something you love, and felt the sky outlast the feed. share this then log off and go do something real",
+    "rebel_share": "you kept scrolling and called it contemplation. share this then log off and go do something real"
+  },
+  {
+    "id": "p270",
+    "text": "Share a made-up reason why the birds are singing today with someone nearby.",
+    "date_added": "2026-08-22",
+    "connection_share": "you told a friend birds were rehearsing for a choir, and didn't check the reaction count. share this then log off and go do something real",
+    "rebel_share": "you ignored the birds and refreshed your feed. share this then log off and go do something real"
+  },
+  {
+    "id": "p271",
+    "text": "Wave at a passing car and send a silent wish for a wonderful day to the driver.",
+    "date_added": "2026-08-22",
+    "connection_share": "you waved at a passing car and didn't post about it later. share this then log off and go do something real",
+    "rebel_share": "you stared at your screen and waved at nothing. share this then log off and go do something real"
   }
 ]

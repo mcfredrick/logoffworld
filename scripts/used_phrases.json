@@ -1,14 +1,6 @@
 {
   "connection": [
     {
-      "text": "I took the step, I'm here",
-      "date": "2026-05-23"
-    },
-    {
-      "text": "Done with today, feeling good",
-      "date": "2026-05-23"
-    },
-    {
       "text": "I showed up despite myself",
       "date": "2026-05-24"
     },
@@ -435,17 +427,13 @@
     {
       "text": "I showed up, prompt done",
       "date": "2026-08-21"
+    },
+    {
+      "text": "I aced today's task",
+      "date": "2026-08-22"
     }
   ],
   "rebel": [
-    {
-      "text": "I danced instead of typing",
-      "date": "2026-05-23"
-    },
-    {
-      "text": "I forgot the prompt and thrived",
-      "date": "2026-05-23"
-    },
     {
       "text": "I chased butterflies, no map needed",
       "date": "2026-05-24"
@@ -1013,6 +1001,22 @@
     {
       "text": "I did my own thing and loved it",
       "date": "2026-08-21"
+    },
+    {
+      "text": "I chose fun over the feed",
+      "date": "2026-08-22"
+    },
+    {
+      "text": "I unplugged and thrived",
+      "date": "2026-08-22"
+    },
+    {
+      "text": "I chose play over duty",
+      "date": "2026-08-22"
+    },
+    {
+      "text": "I love doing me today",
+      "date": "2026-08-22"
     }
   ]
 }

@@ -727,6 +727,10 @@
     {
       "id": "c182",
       "text": "I showed up, prompt done"
+    },
+    {
+      "id": "c183",
+      "text": "I aced today's task"
     }
   ],
   "rebel": [
@@ -1657,6 +1661,22 @@
     {
       "id": "r232",
       "text": "I did my own thing and loved it"
+    },
+    {
+      "id": "r233",
+      "text": "I chose fun over the feed"
+    },
+    {
+      "id": "r234",
+      "text": "I unplugged and thrived"
+    },
+    {
+      "id": "r235",
+      "text": "I chose play over duty"
+    },
+    {
+      "id": "r236",
+      "text": "I love doing me today"
     }
   ]
 }
