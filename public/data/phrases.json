@@ -731,6 +731,10 @@
     {
       "id": "c183",
       "text": "I aced today's task"
+    },
+    {
+      "id": "c184",
+      "text": "I showed up, no pressure"
     }
   ],
   "rebel": [
@@ -1677,6 +1681,22 @@
     {
       "id": "r236",
       "text": "I love doing me today"
+    },
+    {
+      "id": "r237",
+      "text": "I stepped off the grid smiling"
+    },
+    {
+      "id": "r238",
+      "text": "I skipped the prompt and kept the spark"
+    },
+    {
+      "id": "r239",
+      "text": "I chose adventure over algorithm"
+    },
+    {
+      "id": "r240",
+      "text": "I made my own magic happen"
     }
   ]
 }

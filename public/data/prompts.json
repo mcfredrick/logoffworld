@@ -1811,5 +1811,33 @@
     "date_added": "2026-08-22",
     "connection_share": "you waved at a passing car and didn't post about it later. share this then log off and go do something real",
     "rebel_share": "you stared at your screen and waved at nothing. share this then log off and go do something real"
+  },
+  {
+    "id": "p272",
+    "text": "Find the most interesting shadow on the ground and invent a story about who cast it.",
+    "date_added": "2026-08-23",
+    "connection_share": "You find a shadow on the ground and invent who cast it, quieter than the feed, share this then abandon the platform and go do something real.",
+    "rebel_share": "You scroll past the shadow prompt and watch the street, your afternoon unscripted, share this then abandon the platform and go do something real."
+  },
+  {
+    "id": "p273",
+    "text": "Share a silly joke with someone just to hear their laugh, even if it’s terrible.",
+    "date_added": "2026-08-23",
+    "connection_share": "You share a terrible joke just to hear a real laugh, louder than the feed, share this then abandon the platform and go do something real.",
+    "rebel_share": "You skip the joke prompt and hum a tune to yourself, your humor your own, share this then abandon the platform and go do something real."
+  },
+  {
+    "id": "p274",
+    "text": "Sit outside for two minutes and name three sounds you’ve never noticed before.",
+    "date_added": "2026-08-23",
+    "connection_share": "You sit outside for two minutes and name three sounds you never notice, quieter than the feed, share this then abandon the platform and go do something real.",
+    "rebel_share": "You stay inside and listen to your room instead, your rhythm your own, share this then abandon the platform and go do something real."
+  },
+  {
+    "id": "p275",
+    "text": "Give someone a genuine, specific compliment about something you genuinely appreciate.",
+    "date_added": "2026-08-23",
+    "connection_share": "You give a genuine specific compliment about something you appreciate, kinder than the feed, share this then abandon the platform and go do something real.",
+    "rebel_share": "You skip the compliment prompt and keep your thoughts kind to yourself, silence kinder than the feed, share this then abandon the platform and go do something real."
   }
 ]

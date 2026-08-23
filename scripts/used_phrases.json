@@ -1,14 +1,6 @@
 {
   "connection": [
     {
-      "text": "I showed up despite myself",
-      "date": "2026-05-24"
-    },
-    {
-      "text": "I followed through today",
-      "date": "2026-05-24"
-    },
-    {
       "text": "Today was a success",
       "date": "2026-05-27"
     },
@@ -431,21 +423,13 @@
     {
       "text": "I aced today's task",
       "date": "2026-08-22"
+    },
+    {
+      "text": "I showed up, no pressure",
+      "date": "2026-08-23"
     }
   ],
   "rebel": [
-    {
-      "text": "I chased butterflies, no map needed",
-      "date": "2026-05-24"
-    },
-    {
-      "text": "I said yes to myself",
-      "date": "2026-05-24"
-    },
-    {
-      "text": "I let joy lead the way",
-      "date": "2026-05-24"
-    },
     {
       "text": "I chose sunshine over schedules",
       "date": "2026-05-27"
@@ -1017,6 +1001,22 @@
     {
       "text": "I love doing me today",
       "date": "2026-08-22"
+    },
+    {
+      "text": "I stepped off the grid smiling",
+      "date": "2026-08-23"
+    },
+    {
+      "text": "I skipped the prompt and kept the spark",
+      "date": "2026-08-23"
+    },
+    {
+      "text": "I chose adventure over algorithm",
+      "date": "2026-08-23"
+    },
+    {
+      "text": "I made my own magic happen",
+      "date": "2026-08-23"
     }
   ]
 }
