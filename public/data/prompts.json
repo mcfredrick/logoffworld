@@ -1839,5 +1839,19 @@
     "date_added": "2026-08-23",
     "connection_share": "You give a genuine specific compliment about something you appreciate, kinder than the feed, share this then abandon the platform and go do something real.",
     "rebel_share": "You skip the compliment prompt and keep your thoughts kind to yourself, silence kinder than the feed, share this then abandon the platform and go do something real."
+  },
+  {
+    "id": "p276",
+    "text": "Step outside and notice a sound you've never heard before and smile at where it might come from",
+    "date_added": "2026-08-24",
+    "connection_share": "You stepped outside, heard a rustle you usually ignore, and felt a quiet surprise at where it might live. Share this, then log off and go do something real.",
+    "rebel_share": "You kept scrolling past the noise and walked your own path instead. Share this, then log off and go do something real."
+  },
+  {
+    "id": "p277",
+    "text": "Twirl around once just because the air feels good and notice how the world feels lighter",
+    "date_added": "2026-08-24",
+    "connection_share": "You stood still as the wind shifted, felt the air shift around you, and noticed the world loosen its grip. Share this, then log off and go do something real.",
+    "rebel_share": "You skipped the spin and felt the ground steady beneath your feet instead. Share this, then log off and go do something real."
   }
 ]

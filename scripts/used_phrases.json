@@ -427,6 +427,14 @@
     {
       "text": "I showed up, no pressure",
       "date": "2026-08-23"
+    },
+    {
+      "text": "I'm logging off, so glad",
+      "date": "2026-08-24"
+    },
+    {
+      "text": "I'm all good, I'm done",
+      "date": "2026-08-24"
     }
   ],
   "rebel": [
@@ -1017,6 +1025,10 @@
     {
       "text": "I made my own magic happen",
       "date": "2026-08-23"
+    },
+    {
+      "text": "I followed my own compass",
+      "date": "2026-08-24"
     }
   ]
 }

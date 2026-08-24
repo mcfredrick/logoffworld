@@ -735,6 +735,14 @@
     {
       "id": "c184",
       "text": "I showed up, no pressure"
+    },
+    {
+      "id": "c185",
+      "text": "I'm logging off, so glad"
+    },
+    {
+      "id": "c186",
+      "text": "I'm all good, I'm done"
     }
   ],
   "rebel": [
@@ -1697,6 +1705,10 @@
     {
       "id": "r240",
       "text": "I made my own magic happen"
+    },
+    {
+      "id": "r241",
+      "text": "I followed my own compass"
     }
   ]
 }
