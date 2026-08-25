@@ -1853,5 +1853,33 @@
     "date_added": "2026-08-24",
     "connection_share": "You stood still as the wind shifted, felt the air shift around you, and noticed the world loosen its grip. Share this, then log off and go do something real.",
     "rebel_share": "You skipped the spin and felt the ground steady beneath your feet instead. Share this, then log off and go do something real."
+  },
+  {
+    "id": "p278",
+    "text": "Skip along a sidewalk crack like it's a balance beam for a parade, and smile at anyone who watches.",
+    "date_added": "2026-08-25",
+    "connection_share": "walked cracks instead of feeds, smiled at a passerby, felt something genuine. share this, then abandon the platform and go do something real.",
+    "rebel_share": "skipped the cracks, stayed glazed to the screen, did my own thing. share this, then abandon the platform and go do something real."
+  },
+  {
+    "id": "p279",
+    "text": "Tell a barista or cashier that you appreciate how they make your day a little brighter.",
+    "date_added": "2026-08-25",
+    "connection_share": "thanked the barista, got a real nod, no notification needed. share this, then abandon the platform and go do something real.",
+    "rebel_share": "ordered without eye contact, kept my routine, no false politeness. share this, then abandon the platform and go do something real."
+  },
+  {
+    "id": "p280",
+    "text": "Find a smooth rock, hold it, and imagine it's a tiny treasure you've discovered just for today.",
+    "date_added": "2026-08-25",
+    "connection_share": "pocketed a smooth rock, held it on the subway, imagined a tiny world. share this, then abandon the platform and go do something real.",
+    "rebel_share": "walked past every stone, kept my hands empty, still found my own calm. share this, then abandon the platform and go do something real."
+  },
+  {
+    "id": "p281",
+    "text": "Compliment someone's laugh like it's a rare and beautiful instrument.",
+    "date_added": "2026-08-25",
+    "connection_share": "complimented a laugh like rare instrument, saw eyes light up, connection without text. share this, then abandon the platform and go do something real.",
+    "rebel_share": "laughed along, kept the compliment to myself, my laugh is enough. share this, then abandon the platform and go do something real."
   }
 ]

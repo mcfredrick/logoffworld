@@ -743,6 +743,14 @@
     {
       "id": "c186",
       "text": "I'm all good, I'm done"
+    },
+    {
+      "id": "c187",
+      "text": "I took the plunge today eagerly"
+    },
+    {
+      "id": "c188",
+      "text": "I logged the prompt, feeling light"
     }
   ],
   "rebel": [
@@ -1709,6 +1717,22 @@
     {
       "id": "r241",
       "text": "I followed my own compass"
+    },
+    {
+      "id": "r242",
+      "text": "I chose joy instead"
+    },
+    {
+      "id": "r243",
+      "text": "My way my joy today"
+    },
+    {
+      "id": "r244",
+      "text": "My day my rules my fun"
+    },
+    {
+      "id": "r245",
+      "text": "I logged out to play"
     }
   ]
 }
