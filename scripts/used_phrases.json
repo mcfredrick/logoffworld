@@ -1,26 +1,6 @@
 {
   "connection": [
     {
-      "text": "Today was a success",
-      "date": "2026-05-27"
-    },
-    {
-      "text": "I crushing it today",
-      "date": "2026-05-27"
-    },
-    {
-      "text": "Counted me in today",
-      "date": "2026-05-30"
-    },
-    {
-      "text": "Didn't skip it today",
-      "date": "2026-05-30"
-    },
-    {
-      "text": "My little win today",
-      "date": "2026-05-30"
-    },
-    {
       "text": "I rolled with it",
       "date": "2026-05-31"
     },
@@ -443,41 +423,17 @@
     {
       "text": "I logged the prompt, feeling light",
       "date": "2026-08-25"
+    },
+    {
+      "text": "I gave it a shot today",
+      "date": "2026-08-29"
+    },
+    {
+      "text": "I'm glad I showed up",
+      "date": "2026-08-29"
     }
   ],
   "rebel": [
-    {
-      "text": "I chose sunshine over schedules",
-      "date": "2026-05-27"
-    },
-    {
-      "text": "I made joy my daily ritual",
-      "date": "2026-05-27"
-    },
-    {
-      "text": "I ignored the script completely",
-      "date": "2026-05-27"
-    },
-    {
-      "text": "I stole the code and called it freedom",
-      "date": "2026-05-30"
-    },
-    {
-      "text": "I bugged the system with dancing",
-      "date": "2026-05-30"
-    },
-    {
-      "text": "My own prompt, my own rules",
-      "date": "2026-05-30"
-    },
-    {
-      "text": "Skipped your answer, found the question",
-      "date": "2026-05-30"
-    },
-    {
-      "text": "Log off was my hello world",
-      "date": "2026-05-30"
-    },
     {
       "text": "I said no to the prompt",
       "date": "2026-05-31"
@@ -1053,6 +1009,18 @@
     {
       "text": "I logged out to play",
       "date": "2026-08-25"
+    },
+    {
+      "text": "I did my own thing, felt great",
+      "date": "2026-08-29"
+    },
+    {
+      "text": "I logged off and played instead",
+      "date": "2026-08-29"
+    },
+    {
+      "text": "I went on my own little adventure",
+      "date": "2026-08-29"
     }
   ]
 }

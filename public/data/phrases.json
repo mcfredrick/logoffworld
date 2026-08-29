@@ -751,6 +751,14 @@
     {
       "id": "c188",
       "text": "I logged the prompt, feeling light"
+    },
+    {
+      "id": "c189",
+      "text": "I gave it a shot today"
+    },
+    {
+      "id": "c190",
+      "text": "I'm glad I showed up"
     }
   ],
   "rebel": [
@@ -1733,6 +1741,18 @@
     {
       "id": "r245",
       "text": "I logged out to play"
+    },
+    {
+      "id": "r246",
+      "text": "I did my own thing, felt great"
+    },
+    {
+      "id": "r247",
+      "text": "I logged off and played instead"
+    },
+    {
+      "id": "r248",
+      "text": "I went on my own little adventure"
     }
   ]
 }

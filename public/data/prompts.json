@@ -1881,5 +1881,40 @@
     "date_added": "2026-08-25",
     "connection_share": "complimented a laugh like rare instrument, saw eyes light up, connection without text. share this, then abandon the platform and go do something real.",
     "rebel_share": "laughed along, kept the compliment to myself, my laugh is enough. share this, then abandon the platform and go do something real."
+  },
+  {
+    "id": "p282",
+    "text": "Lie on the grass and invent stories about the cloud animals drifting overhead.",
+    "date_added": "2026-08-29",
+    "connection_share": "Lie in the grass, invent cloud animals, ignore the feed. Share this, then abandon the platform and go do something real.",
+    "rebel_share": "Stay on the feed, ignore the grass. Share this, then abandon the platform and go do something real."
+  },
+  {
+    "id": "p283",
+    "text": "Compliment a stranger’s shoes and ask where they’ve been on their favorite imaginary journey.",
+    "date_added": "2026-08-29",
+    "connection_share": "Compliment a stranger's shoes, ask their journey, step away from the feed. Share this, then abandon the platform and go do something real.",
+    "rebel_share": "Skip the shoes, stay on the feed. Share this, then abandon the platform and go do something real."
+  },
+  {
+    "id": "p284",
+    "text": "Leave a single wildflower on a stranger’s bench with a smile, then keep walking.",
+    "date_added": "2026-08-29",
+    "connection_share": "Leave a wildflower on a bench, smile, walk away from the feed. Share this, then abandon the platform and go do something real.",
+    "rebel_share": "Keep the flower, browse the feed. Share this, then abandon the platform and go do something real."
+  },
+  {
+    "id": "p285",
+    "text": "Sing a made-up chorus to a houseplant and notice how it seems to listen.",
+    "date_added": "2026-08-29",
+    "connection_share": "Sing a made-up chorus to a houseplant, notice it listen, step from the feed. Share this, then abandon the platform and go do something real.",
+    "rebel_share": "Sing to the feed instead, it listens too. Share this, then abandon the platform and go do something real."
+  },
+  {
+    "id": "p286",
+    "text": "Wave at a neighbor like you’re old friends reuniting, even if you’ve never met.",
+    "date_added": "2026-08-29",
+    "connection_share": "Wave at a neighbor, old friends reuniting, leave the feed behind. Share this, then abandon the platform and go do something real.",
+    "rebel_share": "Wave at the screen, old friends online. Share this, then abandon the platform and go do something real."
   }
 ]
