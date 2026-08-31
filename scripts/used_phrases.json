@@ -1,34 +1,6 @@
 {
   "connection": [
     {
-      "text": "I rolled with it",
-      "date": "2026-05-31"
-    },
-    {
-      "text": "Today's done, what a relief",
-      "date": "2026-05-31"
-    },
-    {
-      "text": "I actually showed up",
-      "date": "2026-05-31"
-    },
-    {
-      "text": "Another one to the bank",
-      "date": "2026-05-31"
-    },
-    {
-      "text": "I honored myself today",
-      "date": "2026-06-01"
-    },
-    {
-      "text": "I gently chose me today",
-      "date": "2026-06-01"
-    },
-    {
-      "text": "I paused and noticed today",
-      "date": "2026-06-01"
-    },
-    {
       "text": "Showed up and it felt right",
       "date": "2026-06-02"
     },
@@ -431,29 +403,29 @@
     {
       "text": "I'm glad I showed up",
       "date": "2026-08-29"
+    },
+    {
+      "text": "I tackled today's prompt with joy",
+      "date": "2026-08-31"
+    },
+    {
+      "text": "Showing up and feeling alive",
+      "date": "2026-08-31"
+    },
+    {
+      "text": "Today I dared to create",
+      "date": "2026-08-31"
+    },
+    {
+      "text": "I embraced the prompt wholeheartedly",
+      "date": "2026-08-31"
+    },
+    {
+      "text": "Small win, big feeling today",
+      "date": "2026-08-31"
     }
   ],
   "rebel": [
-    {
-      "text": "I said no to the prompt",
-      "date": "2026-05-31"
-    },
-    {
-      "text": "I skipped the ordinary today",
-      "date": "2026-05-31"
-    },
-    {
-      "text": "wrote my own plot twist",
-      "date": "2026-06-01"
-    },
-    {
-      "text": "followed the wild inside",
-      "date": "2026-06-01"
-    },
-    {
-      "text": "built something beautifully my own",
-      "date": "2026-06-01"
-    },
     {
       "text": "I chose joy over my assigned blurb",
       "date": "2026-06-02"
@@ -1021,6 +993,26 @@
     {
       "text": "I went on my own little adventure",
       "date": "2026-08-29"
+    },
+    {
+      "text": "I turned off notifications, on to wonder",
+      "date": "2026-08-31"
+    },
+    {
+      "text": "I made art nobody asked for",
+      "date": "2026-08-31"
+    },
+    {
+      "text": "I ditched the prompt, found my groove",
+      "date": "2026-08-31"
+    },
+    {
+      "text": "I played hooky from the algorithm",
+      "date": "2026-08-31"
+    },
+    {
+      "text": "I lived my life off-script today",
+      "date": "2026-08-31"
     }
   ]
 }

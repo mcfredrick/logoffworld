@@ -1916,5 +1916,33 @@
     "date_added": "2026-08-29",
     "connection_share": "Wave at a neighbor, old friends reuniting, leave the feed behind. Share this, then abandon the platform and go do something real.",
     "rebel_share": "Wave at the screen, old friends online. Share this, then abandon the platform and go do something real."
+  },
+  {
+    "id": "p287",
+    "text": "Look up at the sky, find a cloud that reminds you of something playful, and tell a friend about it.",
+    "date_added": "2026-08-31",
+    "connection_share": "Found a cloud that looked like my grandfather's smile, told a friend without posting it. The moment stayed real, unfiltered by likes. Share this, then abandon the platform and go do something real.",
+    "rebel_share": "Couldn't pick a cloud that spoke to me, so I just kept walking. Skipping the prompt doesn't make the moment any less mine. Share this, then abandon the platform and go do something real."
+  },
+  {
+    "id": "p288",
+    "text": "Spin in a circle until you're a little dizzy, then notice how the world feels beautifully different.",
+    "date_added": "2026-08-31",
+    "connection_share": "Spun until the ground swayed, then watched the room right itself with quiet surprise. The disorientation reminded me I'm alive, not algorithm-fed. Share this, then abandon the platform and go do something real.",
+    "rebel_share": "Spinning wasn't my thing, so I stood still and felt the floor steady instead. Choosing stillness is just as valid as dizziness. Share this, then abandon the platform and go do something real."
+  },
+  {
+    "id": "p289",
+    "text": "Bring a small treat to share with someone today, purely for the joy of surprising them.",
+    "date_added": "2026-08-31",
+    "connection_share": "Bought an extra cookie, slipped it to the barista just to see her smile. No audience, no clout, just a quiet exchange. Share this, then abandon the platform and go do something real.",
+    "rebel_share": "Didn't bring a treat, but I bought myself one and walked a little farther. Skipping the gesture doesn't make me stingier, just different. Share this, then abandon the platform and go do something real."
+  },
+  {
+    "id": "p290",
+    "text": "Blow a dandelion seed puff into the wind and make a whimsical wish, just for the fun of it.",
+    "date_added": "2026-08-31",
+    "connection_share": "Caught a dandelion puff, breathed out, and wished for nothing in particular. The wind tasted like summer, not a notification. Share this, then abandon the platform and go do something real.",
+    "rebel_share": "No dandelion in sight, so I made a wish on a streetlamp instead. Different ritual, same foolish hope. Share this, then abandon the platform and go do something real."
   }
 ]
