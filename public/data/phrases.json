@@ -779,6 +779,10 @@
     {
       "id": "c195",
       "text": "Small win, big feeling today"
+    },
+    {
+      "id": "c196",
+      "text": "I showed up and feel proud"
     }
   ],
   "rebel": [
@@ -1793,6 +1797,14 @@
     {
       "id": "r253",
       "text": "I lived my life off-script today"
+    },
+    {
+      "id": "r254",
+      "text": "I did it my way naturally"
+    },
+    {
+      "id": "r255",
+      "text": "I embraced beautiful chaos"
     }
   ]
 }
