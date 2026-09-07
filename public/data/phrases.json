@@ -783,6 +783,10 @@
     {
       "id": "c196",
       "text": "I showed up and feel proud"
+    },
+    {
+      "id": "c197",
+      "text": "I played along nicely today"
     }
   ],
   "rebel": [
@@ -1805,6 +1809,14 @@
     {
       "id": "r255",
       "text": "I embraced beautiful chaos"
+    },
+    {
+      "id": "r256",
+      "text": "I colored outside the lines"
+    },
+    {
+      "id": "r257",
+      "text": "I chose real over scheduled"
     }
   ]
 }

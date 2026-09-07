@@ -1969,5 +1969,40 @@
     "id": "p295",
     "text": "Playfully make the silliest face you can at someone in line and see if they grin back.",
     "date_added": "2026-09-01"
+  },
+  {
+    "id": "p296",
+    "text": "Lay on your back outside and identify shapes in the clouds, then describe one to someone nearby.",
+    "date_added": "2026-09-07",
+    "connection_share": "Lying outside, I identified a cloud as a house and told a friend. The sky stayed quiet, the moment real. Share this, then abandon the platform and go do something real.",
+    "rebel_share": "Saw the cloud prompt and kept my feet on the ground, watching the sky from the sidewalk. Doing my own thing felt just as ordinary. Share this, then abandon the platform and go do something real."
+  },
+  {
+    "id": "p297",
+    "text": "Slip a funny drawing or joke into a public library book for the next reader to discover.",
+    "date_added": "2026-09-07",
+    "connection_share": "Slipped a joke into a library book, imagining the next reader's quiet laugh. A physical note, no algorithm needed. Share this, then abandon the platform and go do something real.",
+    "rebel_share": "Passed on the library prompt, instead doodled on my receipt at home. Ignoring the prompt didn't make the gesture any less mine. Share this, then abandon the platform and go do something real."
+  },
+  {
+    "id": "p298",
+    "text": "Spontaneously compliment a stranger’s energy and watch how their whole demeanor shifts.",
+    "date_added": "2026-09-07",
+    "connection_share": "Complimented a stranger's energy, watched their posture soften. No ping, no applause, just a shifted stance. Share this, then abandon the platform and go do something real.",
+    "rebel_share": "Skipped the compliment prompt, kept my thoughts to myself. Not reaching out didn't make the street colder. Share this, then abandon the platform and go do something real."
+  },
+  {
+    "id": "p299",
+    "text": "Find a puddle after rain and splash in it just because it feels wonderfully silly.",
+    "date_added": "2026-09-07",
+    "connection_share": "Found a post-rain puddle and splashed for the sheer ridiculousness of it. The water sprayed, the laugh came uninvited. Share this, then abandon the platform and go do something real.",
+    "rebel_share": "Walked past the puddle, chose my shoes instead. Avoiding the splash didn't make the walk less ordinary. Share this, then abandon the platform and go do something real."
+  },
+  {
+    "id": "p300",
+    "text": "Ask a friend or coworker to share the last thing that made them laugh out loud, and really listen.",
+    "date_added": "2026-09-07",
+    "connection_share": "Asked a coworker the last thing that made them laugh out loud, listened close, felt the odd warmth. Share this, then abandon the platform and go do something real.",
+    "rebel_share": "Skipped the ask, talked about something else instead. Not pressing for laughter doesn't make the silence empty. Share this, then abandon the platform and go do something real."
   }
 ]

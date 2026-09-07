@@ -1,34 +1,6 @@
 {
   "connection": [
     {
-      "text": "I tried gentle",
-      "date": "2026-06-03"
-    },
-    {
-      "text": "small step, me",
-      "date": "2026-06-03"
-    },
-    {
-      "text": "I made space for this",
-      "date": "2026-06-07"
-    },
-    {
-      "text": "I let myself play",
-      "date": "2026-06-07"
-    },
-    {
-      "text": "I hit pause on purpose",
-      "date": "2026-06-07"
-    },
-    {
-      "text": "I paused and it felt good",
-      "date": "2026-06-08"
-    },
-    {
-      "text": "I logged in to log off",
-      "date": "2026-06-08"
-    },
-    {
       "text": "I chose this moment today",
       "date": "2026-06-09"
     },
@@ -415,45 +387,13 @@
     {
       "text": "I showed up and feel proud",
       "date": "2026-09-01"
+    },
+    {
+      "text": "I played along nicely today",
+      "date": "2026-09-07"
     }
   ],
   "rebel": [
-    {
-      "text": "I built my own path",
-      "date": "2026-06-03"
-    },
-    {
-      "text": "I trusted my own weird",
-      "date": "2026-06-03"
-    },
-    {
-      "text": "I chased sunlight instead of screens",
-      "date": "2026-06-07"
-    },
-    {
-      "text": "I built a blanket fort kingdom",
-      "date": "2026-06-07"
-    },
-    {
-      "text": "I talked to strangers like friends",
-      "date": "2026-06-07"
-    },
-    {
-      "text": "I painted terrible art joyfully",
-      "date": "2026-06-07"
-    },
-    {
-      "text": "I wandered until the path found me",
-      "date": "2026-06-07"
-    },
-    {
-      "text": "I chased fireflies instead",
-      "date": "2026-06-08"
-    },
-    {
-      "text": "I danced like nobody watched",
-      "date": "2026-06-08"
-    },
     {
       "text": "I chose wonder over wifi today",
       "date": "2026-06-09"
@@ -1001,6 +941,14 @@
     {
       "text": "I embraced beautiful chaos",
       "date": "2026-09-01"
+    },
+    {
+      "text": "I colored outside the lines",
+      "date": "2026-09-07"
+    },
+    {
+      "text": "I chose real over scheduled",
+      "date": "2026-09-07"
     }
   ]
 }
