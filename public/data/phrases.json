@@ -787,6 +787,22 @@
     {
       "id": "c197",
       "text": "I played along nicely today"
+    },
+    {
+      "id": "c198",
+      "text": "I showed up and smiled today"
+    },
+    {
+      "id": "c199",
+      "text": "I felt playful and satisfied"
+    },
+    {
+      "id": "c200",
+      "text": "I turned the prompt into a win"
+    },
+    {
+      "id": "c201",
+      "text": "I finished and felt alive"
     }
   ],
   "rebel": [
@@ -1817,6 +1833,14 @@
     {
       "id": "r257",
       "text": "I chose real over scheduled"
+    },
+    {
+      "id": "r258",
+      "text": "I made art, not algorithms"
+    },
+    {
+      "id": "r259",
+      "text": "I found freedom in silence"
     }
   ]
 }

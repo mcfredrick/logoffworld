@@ -1,14 +1,6 @@
 {
   "connection": [
     {
-      "text": "I chose this moment today",
-      "date": "2026-06-09"
-    },
-    {
-      "text": "I kept my promise to myself",
-      "date": "2026-06-09"
-    },
-    {
       "text": "I came back to center",
       "date": "2026-06-10"
     },
@@ -391,25 +383,25 @@
     {
       "text": "I played along nicely today",
       "date": "2026-09-07"
+    },
+    {
+      "text": "I showed up and smiled today",
+      "date": "2026-09-08"
+    },
+    {
+      "text": "I felt playful and satisfied",
+      "date": "2026-09-08"
+    },
+    {
+      "text": "I turned the prompt into a win",
+      "date": "2026-09-08"
+    },
+    {
+      "text": "I finished and felt alive",
+      "date": "2026-09-08"
     }
   ],
   "rebel": [
-    {
-      "text": "I chose wonder over wifi today",
-      "date": "2026-06-09"
-    },
-    {
-      "text": "I painted the sky my colors",
-      "date": "2026-06-09"
-    },
-    {
-      "text": "I built a fort from daylight",
-      "date": "2026-06-09"
-    },
-    {
-      "text": "I listened to trees instead",
-      "date": "2026-06-09"
-    },
     {
       "text": "I built a fort, not a habit",
       "date": "2026-06-10"
@@ -949,6 +941,14 @@
     {
       "text": "I chose real over scheduled",
       "date": "2026-09-07"
+    },
+    {
+      "text": "I made art, not algorithms",
+      "date": "2026-09-08"
+    },
+    {
+      "text": "I found freedom in silence",
+      "date": "2026-09-08"
     }
   ]
 }

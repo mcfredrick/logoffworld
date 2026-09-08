@@ -2004,5 +2004,40 @@
     "date_added": "2026-09-07",
     "connection_share": "Asked a coworker the last thing that made them laugh out loud, listened close, felt the odd warmth. Share this, then abandon the platform and go do something real.",
     "rebel_share": "Skipped the ask, talked about something else instead. Not pressing for laughter doesn't make the silence empty. Share this, then abandon the platform and go do something real."
+  },
+  {
+    "id": "p301",
+    "text": "Lie on your back and watch the sky change shapes, then tell a friend what you see.",
+    "date_added": "2026-09-08",
+    "connection_share": "you looked up from the glow, watched clouds shift, told a friend what you saw. share this, then put the phone down and go do something real.",
+    "rebel_share": "you kept scrolling past, made your own cloud story. share this, then put the phone down and go do something real."
+  },
+  {
+    "id": "p302",
+    "text": "Give a compliment to someone just because their energy looked interesting today.",
+    "date_added": "2026-09-08",
+    "connection_share": "you gave a compliment for no reason, felt a spark of realness. share this, then put the phone down and go do something real.",
+    "rebel_share": "you kept scrolling, kept your compliments to yourself. share this, then put the phone down and go do something real."
+  },
+  {
+    "id": "p303",
+    "text": "Press your palm to a tree and imagine what story it could tell if it could speak.",
+    "date_added": "2026-09-08",
+    "connection_share": "you pressed your palm to bark, imagined stories, stood still. share this, then put the phone down and go do something real.",
+    "rebel_share": "you kept scrolling, imagined nothing, kept walking. share this, then put the phone down and go do something real."
+  },
+  {
+    "id": "p304",
+    "text": "Skip down the street like you're the main character in a cartoon, and see who smiles back.",
+    "date_added": "2026-09-08",
+    "connection_share": "you skipped down the street, caught smiles, felt cartoonish joy. share this, then put the phone down and go do something real.",
+    "rebel_share": "you kept your stride, main character energy on mute. share this, then put the phone down and go do something real."
+  },
+  {
+    "id": "p305",
+    "text": "Find a wildflower growing through a crack in the pavement and whisper a wish to it.",
+    "date_added": "2026-09-08",
+    "connection_share": "you found a crack-grown flower, whispered a wish, felt grounded. share this, then put the phone down and go do something real.",
+    "rebel_share": "you kept scrolling, wished on a like button. share this, then put the phone down and go do something real."
   }
 ]
