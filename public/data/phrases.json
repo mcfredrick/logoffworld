@@ -803,6 +803,10 @@
     {
       "id": "c201",
       "text": "I finished and felt alive"
+    },
+    {
+      "id": "c202",
+      "text": "I kissed the keyboard today"
     }
   ],
   "rebel": [
@@ -1841,6 +1845,22 @@
     {
       "id": "r259",
       "text": "I found freedom in silence"
+    },
+    {
+      "id": "r260",
+      "text": "I skipped the prompt, made my own fun"
+    },
+    {
+      "id": "r261",
+      "text": "I turned off trends, on my vibe"
+    },
+    {
+      "id": "r262",
+      "text": "I celebrated my unique spark today"
+    },
+    {
+      "id": "r263",
+      "text": "I said no to the prompt, yes to me"
     }
   ]
 }

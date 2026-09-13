@@ -1,22 +1,6 @@
 {
   "connection": [
     {
-      "text": "I came back to center",
-      "date": "2026-06-10"
-    },
-    {
-      "text": "I answered today's invitation",
-      "date": "2026-06-10"
-    },
-    {
-      "text": "I nailed the daily",
-      "date": "2026-06-14"
-    },
-    {
-      "text": "I gave it my all",
-      "date": "2026-06-14"
-    },
-    {
       "text": "I logged in with a grin",
       "date": "2026-06-19"
     },
@@ -399,25 +383,13 @@
     {
       "text": "I finished and felt alive",
       "date": "2026-09-08"
+    },
+    {
+      "text": "I kissed the keyboard today",
+      "date": "2026-09-13"
     }
   ],
   "rebel": [
-    {
-      "text": "I built a fort, not a habit",
-      "date": "2026-06-10"
-    },
-    {
-      "text": "I listened to birds, not notifications",
-      "date": "2026-06-10"
-    },
-    {
-      "text": "I danced through the notification noise",
-      "date": "2026-06-14"
-    },
-    {
-      "text": "I whispered yes to my own rhythm",
-      "date": "2026-06-14"
-    },
     {
       "text": "I danced off the grid and felt alive",
       "date": "2026-06-19"
@@ -949,6 +921,22 @@
     {
       "text": "I found freedom in silence",
       "date": "2026-09-08"
+    },
+    {
+      "text": "I skipped the prompt, made my own fun",
+      "date": "2026-09-13"
+    },
+    {
+      "text": "I turned off trends, on my vibe",
+      "date": "2026-09-13"
+    },
+    {
+      "text": "I celebrated my unique spark today",
+      "date": "2026-09-13"
+    },
+    {
+      "text": "I said no to the prompt, yes to me",
+      "date": "2026-09-13"
     }
   ]
 }

@@ -2039,5 +2039,33 @@
     "date_added": "2026-09-08",
     "connection_share": "you found a crack-grown flower, whispered a wish, felt grounded. share this, then put the phone down and go do something real.",
     "rebel_share": "you kept scrolling, wished on a like button. share this, then put the phone down and go do something real."
+  },
+  {
+    "id": "p306",
+    "text": "Watch the sunrise for just one minute and silently thank the day for starting.",
+    "date_added": "2026-09-13",
+    "connection_share": "watched the sunrise for a minute, felt something real. share this, then abandon the platform and go do something real.",
+    "rebel_share": "skipped the sunrise prompt, did my own thing. share this, then abandon the platform and go do something real."
+  },
+  {
+    "id": "p307",
+    "text": "Introduce yourself to a neighbor you've never spoken to and ask about their favorite weekend memory.",
+    "date_added": "2026-09-13",
+    "connection_share": "introduced myself to a neighbor, heard a weekend story. share this, then abandon the platform and go do something real.",
+    "rebel_share": "skipped the neighbor prompt, kept to myself. share this, then abandon the platform and go do something real."
+  },
+  {
+    "id": "p308",
+    "text": "Step outside barefoot for a moment and feel the earth beneath you, grounding your presence.",
+    "date_added": "2026-09-13",
+    "connection_share": "stepped outside barefoot, felt the earth ground me. share this, then abandon the platform and go do something real.",
+    "rebel_share": "skipped the barefoot prompt, stayed inside. share this, then abandon the platform and go do something real."
+  },
+  {
+    "id": "p309",
+    "text": "Share a short, happy memory with a friend or family member out of the blue.",
+    "date_added": "2026-09-13",
+    "connection_share": "shared a happy memory with a friend, felt the moment. share this, then abandon the platform and go do something real.",
+    "rebel_share": "skipped the memory share, looked out the window. share this, then abandon the platform and go do something real."
   }
 ]
