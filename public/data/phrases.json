@@ -807,6 +807,10 @@
     {
       "id": "c202",
       "text": "I kissed the keyboard today"
+    },
+    {
+      "id": "c203",
+      "text": "I tackled the daily fun"
     }
   ],
   "rebel": [
@@ -1861,6 +1865,10 @@
     {
       "id": "r263",
       "text": "I said no to the prompt, yes to me"
+    },
+    {
+      "id": "r264",
+      "text": "I played by my own rules"
     }
   ]
 }

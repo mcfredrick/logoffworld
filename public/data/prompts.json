@@ -2067,5 +2067,33 @@
     "date_added": "2026-09-13",
     "connection_share": "shared a happy memory with a friend, felt the moment. share this, then abandon the platform and go do something real.",
     "rebel_share": "skipped the memory share, looked out the window. share this, then abandon the platform and go do something real."
+  },
+  {
+    "id": "p310",
+    "text": "Talk to a houseplant like it's the best listener you know.",
+    "date_added": "2026-09-16",
+    "connection_share": "you told a pothos your deepest secret instead of posting it for likes. share this, log off, and go do something real.",
+    "rebel_share": "you scrolled past the prompt and liked a meme instead, and your feed stayed oddly peaceful. share this, log off, and go do something real."
+  },
+  {
+    "id": "p311",
+    "text": "Bend down and notice three tiny things on the ground you've never seen before.",
+    "date_added": "2026-09-16",
+    "connection_share": "you bent down and noticed three cracks holding rain on a sidewalk instead of tapping a screen. share this, log off, and go do something real.",
+    "rebel_share": "you stayed standing and scrolled past the ground, and three moss patches still went unnoticed. share this, log off, and go do something real."
+  },
+  {
+    "id": "p312",
+    "text": "Lie in the grass and find a shape that looks like something delicious.",
+    "date_added": "2026-09-16",
+    "connection_share": "you lay in clover and spotted a cloud that looked like cake, instead of posting a sunset. share this, log off, and go do something real.",
+    "rebel_share": "you skipped the grass and scrolled through memes, and thought of cake just the same. share this, log off, and go do something real."
+  },
+  {
+    "id": "p313",
+    "text": "Send a random friend a voice note about the cutest thing you saw today.",
+    "date_added": "2026-09-16",
+    "connection_share": "you voice-noted a friend about a baby otter instead of typing LOL. share this, log off, and go do something real.",
+    "rebel_share": "you ignored the note and texted a pizza emoji instead, and the group chat laughed. share this, log off, and go do something real."
   }
 ]
