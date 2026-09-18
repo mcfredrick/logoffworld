@@ -1,14 +1,6 @@
 {
   "connection": [
     {
-      "text": "I logged in with a grin",
-      "date": "2026-06-19"
-    },
-    {
-      "text": "I did the thing and celebrated",
-      "date": "2026-06-19"
-    },
-    {
       "text": "I logged off after finishing today's challenge",
       "date": "2026-06-20"
     },
@@ -391,17 +383,21 @@
     {
       "text": "I tackled the daily fun",
       "date": "2026-09-16"
+    },
+    {
+      "text": "I made time for today",
+      "date": "2026-09-18"
+    },
+    {
+      "text": "I showed up, brain and all",
+      "date": "2026-09-18"
+    },
+    {
+      "text": "I made today count",
+      "date": "2026-09-18"
     }
   ],
   "rebel": [
-    {
-      "text": "I danced off the grid and felt alive",
-      "date": "2026-06-19"
-    },
-    {
-      "text": "I explored my own path without a map",
-      "date": "2026-06-19"
-    },
     {
       "text": "I brewed my own tea and sipped stories",
       "date": "2026-06-20"
@@ -945,6 +941,30 @@
     {
       "text": "I played by my own rules",
       "date": "2026-09-16"
+    },
+    {
+      "text": "I wrote my own rules and laughed",
+      "date": "2026-09-18"
+    },
+    {
+      "text": "I played hooky with my imagination",
+      "date": "2026-09-18"
+    },
+    {
+      "text": "I made my own fun, no prompt needed",
+      "date": "2026-09-18"
+    },
+    {
+      "text": "I listened to my own inner voice",
+      "date": "2026-09-18"
+    },
+    {
+      "text": "I wandered where the day took me",
+      "date": "2026-09-18"
+    },
+    {
+      "text": "I celebrated my own little rebellion",
+      "date": "2026-09-18"
     }
   ]
 }

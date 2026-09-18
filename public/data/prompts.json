@@ -2095,5 +2095,40 @@
     "date_added": "2026-09-16",
     "connection_share": "you voice-noted a friend about a baby otter instead of typing LOL. share this, log off, and go do something real.",
     "rebel_share": "you ignored the note and texted a pizza emoji instead, and the group chat laughed. share this, log off, and go do something real."
+  },
+  {
+    "id": "p314",
+    "text": "Skip a stone into a pond and count the ripples that follow.",
+    "date_added": "2026-09-18",
+    "connection_share": "I counted seven ripples and forgot my phone existed. You could do the same, but you have to put the phone down. Share this, then go find water.",
+    "rebel_share": "Didn't skip a stone. Sat on a rock and watched the pond ignore me. That counted. Share this, then go sit outside and do nothing."
+  },
+  {
+    "id": "p315",
+    "text": "Compliment a stranger's laugh and ask where it comes from.",
+    "date_added": "2026-09-18",
+    "connection_share": "I told a stranger her laugh sounded like wind in a tin can and she smiled. Found out she laughs because her mother does. Share this, then go tell someone something true.",
+    "rebel_share": "I didn't compliment anyone. I just listened to my own laugh and remembered it's strange. That's enough. Share this, then log off and go make someone laugh."
+  },
+  {
+    "id": "p316",
+    "text": "Find a dandelion and make a wish for someone else.",
+    "date_added": "2026-09-18",
+    "connection_share": "I found a dandelion and wished your day goes better than you expect. Then I gave it to a stranger. Share this, then log off and send a real wish to someone.",
+    "rebel_share": "I walked past every dandelion. Left one wish untouched. The world doesn't need more hopes, it needs people present. Share this, then log off and go be one."
+  },
+  {
+    "id": "p317",
+    "text": "Ask the nearest child what game they'd invent if they ran the world.",
+    "date_added": "2026-09-18",
+    "connection_share": "Asked my nephew what game he'd invent. He said a game where you throw clocks at time. I think he's onto something. Share this, then log off and ask a child something.",
+    "rebel_share": "Didn't ask any child. Played my own childhood game alone, badly. Felt more myself than this feed. Share this, then log off and go remember your own game."
+  },
+  {
+    "id": "p318",
+    "text": "Notice the smallest flower on your walk and give it a name.",
+    "date_added": "2026-09-18",
+    "connection_share": "The smallest flower on my walk is called Puddle Star. I made that up and told no one. Share this, then log off and name one small thing you notice.",
+    "rebel_share": "I didn't notice any flower. I noticed a crack in the sidewalk that looked like a river. That's enough attention for one day. Share this, then log off and look down."
   }
 ]

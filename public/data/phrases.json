@@ -811,6 +811,18 @@
     {
       "id": "c203",
       "text": "I tackled the daily fun"
+    },
+    {
+      "id": "c204",
+      "text": "I made time for today"
+    },
+    {
+      "id": "c205",
+      "text": "I showed up, brain and all"
+    },
+    {
+      "id": "c206",
+      "text": "I made today count"
     }
   ],
   "rebel": [
@@ -1869,6 +1881,30 @@
     {
       "id": "r264",
       "text": "I played by my own rules"
+    },
+    {
+      "id": "r265",
+      "text": "I wrote my own rules and laughed"
+    },
+    {
+      "id": "r266",
+      "text": "I played hooky with my imagination"
+    },
+    {
+      "id": "r267",
+      "text": "I made my own fun, no prompt needed"
+    },
+    {
+      "id": "r268",
+      "text": "I listened to my own inner voice"
+    },
+    {
+      "id": "r269",
+      "text": "I wandered where the day took me"
+    },
+    {
+      "id": "r270",
+      "text": "I celebrated my own little rebellion"
     }
   ]
 }
