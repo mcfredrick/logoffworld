@@ -1,26 +1,6 @@
 {
   "connection": [
     {
-      "text": "I logged off after finishing today's challenge",
-      "date": "2026-06-20"
-    },
-    {
-      "text": "I played along and shut down with a grin",
-      "date": "2026-06-20"
-    },
-    {
-      "text": "I showed up, did the thing, and powered down",
-      "date": "2026-06-20"
-    },
-    {
-      "text": "I followed the prompt, logged off, and rested well",
-      "date": "2026-06-20"
-    },
-    {
-      "text": "I took the leap, completed task, logged off calm",
-      "date": "2026-06-20"
-    },
-    {
       "text": "I smashed the prompt challenge today",
       "date": "2026-06-21"
     },
@@ -395,21 +375,17 @@
     {
       "text": "I made today count",
       "date": "2026-09-18"
+    },
+    {
+      "text": "I checked in with myself today",
+      "date": "2026-09-19"
+    },
+    {
+      "text": "I met today with open arms",
+      "date": "2026-09-19"
     }
   ],
   "rebel": [
-    {
-      "text": "I brewed my own tea and sipped stories",
-      "date": "2026-06-20"
-    },
-    {
-      "text": "I wrote a poem for strangers in the park",
-      "date": "2026-06-20"
-    },
-    {
-      "text": "I built a tiny house from cardboard and smiled",
-      "date": "2026-06-20"
-    },
     {
       "text": "I played music all day, my way",
       "date": "2026-06-21"
@@ -965,6 +941,34 @@
     {
       "text": "I celebrated my own little rebellion",
       "date": "2026-09-18"
+    },
+    {
+      "text": "I chased my own curiosity instead",
+      "date": "2026-09-19"
+    },
+    {
+      "text": "My joy needed no instructions",
+      "date": "2026-09-19"
+    },
+    {
+      "text": "I picked my own perfect adventure",
+      "date": "2026-09-19"
+    },
+    {
+      "text": "The prompt waited while I played",
+      "date": "2026-09-19"
+    },
+    {
+      "text": "I made today gloriously mine",
+      "date": "2026-09-19"
+    },
+    {
+      "text": "I danced past the plan today",
+      "date": "2026-09-19"
+    },
+    {
+      "text": "My own path beat the prompt",
+      "date": "2026-09-19"
     }
   ]
 }

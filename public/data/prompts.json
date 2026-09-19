@@ -2130,5 +2130,33 @@
     "date_added": "2026-09-18",
     "connection_share": "The smallest flower on my walk is called Puddle Star. I made that up and told no one. Share this, then log off and name one small thing you notice.",
     "rebel_share": "I didn't notice any flower. I noticed a crack in the sidewalk that looked like a river. That's enough attention for one day. Share this, then log off and look down."
+  },
+  {
+    "id": "p319",
+    "text": "Compliment a flower out loud as if it can hear you, then wink at it.",
+    "date_added": "2026-09-19",
+    "connection_share": "I complimented a dandelion out loud and winked. It was not nothing. Share this, then abandon the platform and go do something real.",
+    "rebel_share": "I ignored the flower prompt and stared at a houseplant for five minutes. Also real. Share this, then abandon the platform and go do something real."
+  },
+  {
+    "id": "p320",
+    "text": "Pick a leaf that's danced its way to the ground and give it a proper introduction to a puddle.",
+    "date_added": "2026-09-19",
+    "connection_share": "I introduced a fallen leaf to a puddle as if they were strangers at a party. It mattered. Share this, then abandon the platform and go do something real.",
+    "rebel_share": "Didn't touch a single leaf. I watched clouds blow through a puddle reflection instead. Equally human. Share this, then abandon the platform and go do something real."
+  },
+  {
+    "id": "p321",
+    "text": "Send a silent thank-you to the next bird you hear singing, and hum along for a beat.",
+    "date_added": "2026-09-19",
+    "connection_share": "I heard a bird and said thank you with my mind, then hummed one note back. That's it. Share this, then abandon the platform and go do something real.",
+    "rebel_share": "I skipped the birds and listened to the fridge hum. Enough honesty. Share this, then abandon the platform and go do something real."
+  },
+  {
+    "id": "p322",
+    "text": "Invite a friend (or a friendly dog) to join you in spinning in circles until you both collapse in giggles.",
+    "date_added": "2026-09-19",
+    "connection_share": "I spun in a park with a friend until we both got dizzy and laughed. Go do that. Share this, then abandon the platform and go do something real.",
+    "rebel_share": "Instead of spinning, I sat still on a bench and watched other people spin. Felt human too. Share this, then abandon the platform and go do something real."
   }
 ]

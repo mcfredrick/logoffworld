@@ -823,6 +823,14 @@
     {
       "id": "c206",
       "text": "I made today count"
+    },
+    {
+      "id": "c207",
+      "text": "I checked in with myself today"
+    },
+    {
+      "id": "c208",
+      "text": "I met today with open arms"
     }
   ],
   "rebel": [
@@ -1905,6 +1913,34 @@
     {
       "id": "r270",
       "text": "I celebrated my own little rebellion"
+    },
+    {
+      "id": "r271",
+      "text": "I chased my own curiosity instead"
+    },
+    {
+      "id": "r272",
+      "text": "My joy needed no instructions"
+    },
+    {
+      "id": "r273",
+      "text": "I picked my own perfect adventure"
+    },
+    {
+      "id": "r274",
+      "text": "The prompt waited while I played"
+    },
+    {
+      "id": "r275",
+      "text": "I made today gloriously mine"
+    },
+    {
+      "id": "r276",
+      "text": "I danced past the plan today"
+    },
+    {
+      "id": "r277",
+      "text": "My own path beat the prompt"
     }
   ]
 }
