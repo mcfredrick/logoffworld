@@ -831,6 +831,14 @@
     {
       "id": "c208",
       "text": "I met today with open arms"
+    },
+    {
+      "id": "c209",
+      "text": "I finished the task"
+    },
+    {
+      "id": "c210",
+      "text": "I completed my part"
     }
   ],
   "rebel": [
@@ -1941,6 +1949,10 @@
     {
       "id": "r277",
       "text": "My own path beat the prompt"
+    },
+    {
+      "id": "r278",
+      "text": "I found happiness offline"
     }
   ]
 }

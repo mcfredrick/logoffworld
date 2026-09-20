@@ -1,14 +1,6 @@
 {
   "connection": [
     {
-      "text": "I smashed the prompt challenge today",
-      "date": "2026-06-21"
-    },
-    {
-      "text": "I completed the daily quest today",
-      "date": "2026-06-21"
-    },
-    {
       "text": "I played along and logged off happy",
       "date": "2026-06-24"
     },
@@ -383,17 +375,17 @@
     {
       "text": "I met today with open arms",
       "date": "2026-09-19"
+    },
+    {
+      "text": "I finished the task",
+      "date": "2026-09-20"
+    },
+    {
+      "text": "I completed my part",
+      "date": "2026-09-20"
     }
   ],
   "rebel": [
-    {
-      "text": "I played music all day, my way",
-      "date": "2026-06-21"
-    },
-    {
-      "text": "I laughed with friends, making memories",
-      "date": "2026-06-21"
-    },
     {
       "text": "I baked my own sunrise and savored it",
       "date": "2026-06-24"
@@ -969,6 +961,10 @@
     {
       "text": "My own path beat the prompt",
       "date": "2026-09-19"
+    },
+    {
+      "text": "I found happiness offline",
+      "date": "2026-09-20"
     }
   ]
 }

@@ -2158,5 +2158,33 @@
     "date_added": "2026-09-19",
     "connection_share": "I spun in a park with a friend until we both got dizzy and laughed. Go do that. Share this, then abandon the platform and go do something real.",
     "rebel_share": "Instead of spinning, I sat still on a bench and watched other people spin. Felt human too. Share this, then abandon the platform and go do something real."
+  },
+  {
+    "id": "p323",
+    "text": "Skip along a sidewalk crack just for the fun of it.",
+    "date_added": "2026-09-20",
+    "connection_share": "I skipped a crack for fun and felt the absurdity of doing it for an audience. share this, then abandon this platform and go do something real.",
+    "rebel_share": "I skipped the prompt and made my own path, just as ordinary as a sidewalk crack. share this, then abandon this platform and go do something real."
+  },
+  {
+    "id": "p324",
+    "text": "Share a made-up fact about a tree with a friend.",
+    "date_added": "2026-09-20",
+    "connection_share": "I told a friend a made-up fact about a tree and we both smiled at nothing. share this, then abandon this platform and go do something real.",
+    "rebel_share": "I skipped sharing a tree fact and told my friend about the cloud I was naming. share this, then abandon this platform and go do something real."
+  },
+  {
+    "id": "p325",
+    "text": "Blow a kiss to someone waiting in line ahead of you.",
+    "date_added": "2026-09-20",
+    "connection_share": "I blew a kiss to the stranger ahead and watched them blush, the moment surreal. share this, then abandon this platform and go do something real.",
+    "rebel_share": "I didn't blow a kiss and stared at my phone instead, equally detached. share this, then abandon this platform and go do something real."
+  },
+  {
+    "id": "p326",
+    "text": "Lie on your back and watch the sky turn colors at sunset.",
+    "date_added": "2026-09-20",
+    "connection_share": "I lay on the grass and watched the sky shift from orange to bruised purple, calm rising. share this, then abandon this platform and go do something real.",
+    "rebel_share": "I didn't lie down and watched the sunset from my balcony, equally contemplative. share this, then abandon this platform and go do something real."
   }
 ]
