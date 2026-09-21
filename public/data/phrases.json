@@ -839,6 +839,10 @@
     {
       "id": "c210",
       "text": "I completed my part"
+    },
+    {
+      "id": "c211",
+      "text": "I checked off today's vibe"
     }
   ],
   "rebel": [
@@ -1953,6 +1957,14 @@
     {
       "id": "r278",
       "text": "I found happiness offline"
+    },
+    {
+      "id": "r279",
+      "text": "I went off-grid and felt alive"
+    },
+    {
+      "id": "r280",
+      "text": "I chose curiosity, not the prompt"
     }
   ]
 }

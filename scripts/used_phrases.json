@@ -383,6 +383,10 @@
     {
       "text": "I completed my part",
       "date": "2026-09-20"
+    },
+    {
+      "text": "I checked off today's vibe",
+      "date": "2026-09-21"
     }
   ],
   "rebel": [
@@ -965,6 +969,14 @@
     {
       "text": "I found happiness offline",
       "date": "2026-09-20"
+    },
+    {
+      "text": "I went off-grid and felt alive",
+      "date": "2026-09-21"
+    },
+    {
+      "text": "I chose curiosity, not the prompt",
+      "date": "2026-09-21"
     }
   ]
 }
