@@ -843,6 +843,10 @@
     {
       "id": "c211",
       "text": "I checked off today's vibe"
+    },
+    {
+      "id": "c212",
+      "text": "I did the thing, I felt proud"
     }
   ],
   "rebel": [
@@ -1965,6 +1969,14 @@
     {
       "id": "r280",
       "text": "I chose curiosity, not the prompt"
+    },
+    {
+      "id": "r281",
+      "text": "I went off grid on happiness"
+    },
+    {
+      "id": "r282",
+      "text": "I found my own sparkle today"
     }
   ]
 }

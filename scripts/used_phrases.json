@@ -1,18 +1,6 @@
 {
   "connection": [
     {
-      "text": "I played along and logged off happy",
-      "date": "2026-06-24"
-    },
-    {
-      "text": "I took the leap and showed up",
-      "date": "2026-06-24"
-    },
-    {
-      "text": "I stuck around and logged off satisfied",
-      "date": "2026-06-24"
-    },
-    {
       "text": "I tapped the pulse of the day",
       "date": "2026-06-26"
     },
@@ -387,29 +375,13 @@
     {
       "text": "I checked off today's vibe",
       "date": "2026-09-21"
+    },
+    {
+      "text": "I did the thing, I felt proud",
+      "date": "2026-09-23"
     }
   ],
   "rebel": [
-    {
-      "text": "I baked my own sunrise and savored it",
-      "date": "2026-06-24"
-    },
-    {
-      "text": "I explored the city without a map and thrived",
-      "date": "2026-06-24"
-    },
-    {
-      "text": "I created my own playlist and felt unstoppable",
-      "date": "2026-06-24"
-    },
-    {
-      "text": "I wrote letters to my future self with joy",
-      "date": "2026-06-24"
-    },
-    {
-      "text": "I took a spontaneous road trip and discovered wonder",
-      "date": "2026-06-24"
-    },
     {
       "text": "I turned chaos into creative bliss",
       "date": "2026-06-26"
@@ -977,6 +949,14 @@
     {
       "text": "I chose curiosity, not the prompt",
       "date": "2026-09-21"
+    },
+    {
+      "text": "I went off grid on happiness",
+      "date": "2026-09-23"
+    },
+    {
+      "text": "I found my own sparkle today",
+      "date": "2026-09-23"
     }
   ]
 }
