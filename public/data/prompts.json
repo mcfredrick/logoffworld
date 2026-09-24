@@ -2216,5 +2216,40 @@
     "id": "p332",
     "text": "Notice three colors in the sky right now and tell someone about them like you're a reporter from another planet.",
     "date_added": "2026-09-23"
+  },
+  {
+    "id": "p333",
+    "text": "Notice the most curious shape a cloud can make, and invent a story about it for whoever’s walking by.",
+    "date_added": "2026-09-24",
+    "connection_share": "A cloud morphs into a sailboat. I invent a crew and a journey. a quiet moment. the feed waits. share this, then abandon the platform and go do something real.",
+    "rebel_share": "I keep scrolling. the sky dissolves into alerts. I stay put. share this, then abandon the platform and go do something real."
+  },
+  {
+    "id": "p334",
+    "text": "Toss a handful of autumn leaves into the air and make a wish as they drift down.",
+    "date_added": "2026-09-24",
+    "connection_share": "I toss leaves into gray light. they spiral down. I make a wish. a quiet moment. the feed waits. share this, then abandon the platform and go do something real.",
+    "rebel_share": "I rake them into a pile. I post the pile instead. same restlessness. share this, then abandon the platform and go do something real."
+  },
+  {
+    "id": "p335",
+    "text": "Ask the person ahead of you in line what tiny thing made them smile today.",
+    "date_added": "2026-09-24",
+    "connection_share": "I ask the person ahead. a hot coffee, they say. I carry it with me. a quiet moment. the feed waits. share this, then abandon the platform and go do something real.",
+    "rebel_share": "I stare at my screen. the line moves. I say nothing. share this, then abandon the platform and go do something real."
+  },
+  {
+    "id": "p336",
+    "text": "Bend down and introduce yourself to a spiderweb like it’s an old friend.",
+    "date_added": "2026-09-24",
+    "connection_share": "I crouch. a web glistens. I whisper hello. it feels like balance. a quiet moment. the feed waits. share this, then abandon the platform and go do something real.",
+    "rebel_share": "I walk past. I ignore the silk. intact. share this, then abandon the platform and go do something real."
+  },
+  {
+    "id": "p337",
+    "text": "Leave a kind doodle on a public bench and see who discovers it.",
+    "date_added": "2026-09-24",
+    "connection_share": "I draw a small star on a bench. I walk away. someone finds it later. a quiet moment. the feed waits. share this, then abandon the platform and go do something real.",
+    "rebel_share": "I doodle on my palm. I post it online. different audience. share this, then abandon the platform and go do something real."
   }
 ]

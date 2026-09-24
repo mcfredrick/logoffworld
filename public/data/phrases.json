@@ -847,6 +847,10 @@
     {
       "id": "c212",
       "text": "I did the thing, I felt proud"
+    },
+    {
+      "id": "c213",
+      "text": "I had fun with today's prompt"
     }
   ],
   "rebel": [
@@ -1977,6 +1981,18 @@
     {
       "id": "r282",
       "text": "I found my own sparkle today"
+    },
+    {
+      "id": "r283",
+      "text": "I wrote my own prompt"
+    },
+    {
+      "id": "r284",
+      "text": "I'm skipping prompts to play"
+    },
+    {
+      "id": "r285",
+      "text": "I'm loving my off-path vibe"
     }
   ]
 }
