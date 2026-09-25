@@ -1,18 +1,6 @@
 {
   "connection": [
     {
-      "text": "I tapped the pulse of the day",
-      "date": "2026-06-26"
-    },
-    {
-      "text": "I joined the rhythm of today",
-      "date": "2026-06-26"
-    },
-    {
-      "text": "I caught the spark of today",
-      "date": "2026-06-26"
-    },
-    {
       "text": "I took part and enjoyed it",
       "date": "2026-06-28"
     },
@@ -383,21 +371,13 @@
     {
       "text": "I had fun with today's prompt",
       "date": "2026-09-24"
+    },
+    {
+      "text": "I completed the task today",
+      "date": "2026-09-25"
     }
   ],
   "rebel": [
-    {
-      "text": "I turned chaos into creative bliss",
-      "date": "2026-06-26"
-    },
-    {
-      "text": "I danced my way through the day",
-      "date": "2026-06-26"
-    },
-    {
-      "text": "I invented laughter as my superpower",
-      "date": "2026-06-26"
-    },
     {
       "text": "I crafted my own masterpiece today",
       "date": "2026-06-28"
@@ -973,6 +953,14 @@
     {
       "text": "I'm loving my off-path vibe",
       "date": "2026-09-24"
+    },
+    {
+      "text": "I skipped prompts, found joy",
+      "date": "2026-09-25"
+    },
+    {
+      "text": "I am unapologetically me",
+      "date": "2026-09-25"
     }
   ]
 }

@@ -851,6 +851,10 @@
     {
       "id": "c213",
       "text": "I had fun with today's prompt"
+    },
+    {
+      "id": "c214",
+      "text": "I completed the task today"
     }
   ],
   "rebel": [
@@ -1993,6 +1997,14 @@
     {
       "id": "r285",
       "text": "I'm loving my off-path vibe"
+    },
+    {
+      "id": "r286",
+      "text": "I skipped prompts, found joy"
+    },
+    {
+      "id": "r287",
+      "text": "I am unapologetically me"
     }
   ]
 }
