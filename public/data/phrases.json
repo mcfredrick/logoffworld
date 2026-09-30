@@ -855,6 +855,10 @@
     {
       "id": "c214",
       "text": "I completed the task today"
+    },
+    {
+      "id": "c215",
+      "text": "I'm all set after the prompt"
     }
   ],
   "rebel": [
@@ -2005,6 +2009,10 @@
     {
       "id": "r287",
       "text": "I am unapologetically me"
+    },
+    {
+      "id": "r288",
+      "text": "No prompt, just pure fun"
     }
   ]
 }

@@ -2266,5 +2266,19 @@
     "id": "p340",
     "text": "Stop and thank a tree for shading you, then keep walking with a little extra spring in your step.",
     "date_added": "2026-09-25"
+  },
+  {
+    "id": "p341",
+    "text": "Leave a tiny, handwritten note on a park bench for the next person who sits there.",
+    "date_added": "2026-09-30",
+    "connection_share": "i left a note on a park bench for a stranger. i didn't post about it. share this, then log off and do something real.",
+    "rebel_share": "i walked past the park bench and didn't leave a note. i called a friend instead. share this, then log off and do something real."
+  },
+  {
+    "id": "p342",
+    "text": "Wave at three people today like they’re old friends you’re delighted to see.",
+    "date_added": "2026-09-30",
+    "connection_share": "i waved at three people like old friends. they smiled back. i didn't post it. share this, then log off and do something real.",
+    "rebel_share": "i didn't wave at anyone today. i grabbed a coffee instead. share this, then log off and do something real."
   }
 ]
