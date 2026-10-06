@@ -859,6 +859,10 @@
     {
       "id": "c215",
       "text": "I'm all set after the prompt"
+    },
+    {
+      "id": "c216",
+      "text": "I nailed the daily exercise"
     }
   ],
   "rebel": [
@@ -2013,6 +2017,10 @@
     {
       "id": "r288",
       "text": "No prompt, just pure fun"
+    },
+    {
+      "id": "r289",
+      "text": "I own my off-script magic"
     }
   ]
 }

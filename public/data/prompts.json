@@ -2280,5 +2280,33 @@
     "date_added": "2026-09-30",
     "connection_share": "i waved at three people like old friends. they smiled back. i didn't post it. share this, then log off and do something real.",
     "rebel_share": "i didn't wave at anyone today. i grabbed a coffee instead. share this, then log off and do something real."
+  },
+  {
+    "id": "p343",
+    "text": "Notice a butterfly's path and quietly cheer it on as if it’s the main character in a sunny adventure.",
+    "date_added": "2026-10-06",
+    "connection_share": "Felt more genuine than a like button, noticed a butterfly's path and quietly cheered it on. Share this, then abandon the platform and go do something real.",
+    "rebel_share": "Quieter than a notification, skipped the prompt and did my own thing, equally human. Share this, then abandon the platform and go do something real."
+  },
+  {
+    "id": "p344",
+    "text": "Compliment a stranger’s laugh like it’s a melody that made your day a little brighter.",
+    "date_added": "2026-10-06",
+    "connection_share": "Livelier than a generic reaction, heard a stranger's laugh like a melody, felt the day loosen. Share this, then abandon the platform and go do something real.",
+    "rebel_share": "As valid as a generic reaction, skipped the compliment and kept walking, equally human. Share this, then abandon the platform and go do something real."
+  },
+  {
+    "id": "p345",
+    "text": "Step outside, find the loudest bird you can, and try to mimic its sound just for the fun of it.",
+    "date_added": "2026-10-06",
+    "connection_share": "More playful than a filtered photo, stepped outside to mimic the loudest bird, felt the moment stretch. Share this, then abandon the platform and go do something real.",
+    "rebel_share": "As real as a paused notification, skipped the bird hunt and stayed inside, equally human. Share this, then abandon the platform and go do something real."
+  },
+  {
+    "id": "p346",
+    "text": "Share a made-up story about why the moon is smiling tonight with the next person you talk to.",
+    "date_added": "2026-10-06",
+    "connection_share": "Sillier than half the timeline, made up a moon-story for a friend, watched them smile. Share this, then abandon the platform and go do something real.",
+    "rebel_share": "As intriguing as another meme, didn't share a moon-story and did my own thing, equally human. Share this, then abandon the platform and go do something real."
   }
 ]
