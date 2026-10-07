@@ -863,6 +863,10 @@
     {
       "id": "c216",
       "text": "I nailed the daily exercise"
+    },
+    {
+      "id": "c217",
+      "text": "I'm feeling satisfied today"
     }
   ],
   "rebel": [
@@ -2021,6 +2025,26 @@
     {
       "id": "r289",
       "text": "I own my off-script magic"
+    },
+    {
+      "id": "r290",
+      "text": "I danced like nobody watched"
+    },
+    {
+      "id": "r291",
+      "text": "I made my own starlight tonight"
+    },
+    {
+      "id": "r292",
+      "text": "I hugged a tree, forgot the feed"
+    },
+    {
+      "id": "r293",
+      "text": "I said no to the daily grind"
+    },
+    {
+      "id": "r294",
+      "text": "I found joy in detours"
     }
   ]
 }

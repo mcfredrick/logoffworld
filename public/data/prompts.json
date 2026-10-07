@@ -2308,5 +2308,26 @@
     "date_added": "2026-10-06",
     "connection_share": "Sillier than half the timeline, made up a moon-story for a friend, watched them smile. Share this, then abandon the platform and go do something real.",
     "rebel_share": "As intriguing as another meme, didn't share a moon-story and did my own thing, equally human. Share this, then abandon the platform and go do something real."
+  },
+  {
+    "id": "p347",
+    "text": "Smell a nearby flower with total curiosity, then share the memory it sparks with someone.",
+    "date_added": "2026-10-07",
+    "connection_share": "You inhaled a flower's scent, let a memory surface, and mentioned it to someone. quiet and grounded. share this, then abandon the platform and go do something real.",
+    "rebel_share": "You kept walking past the prompt and carried on with your day. equally valid. share this, then abandon the platform and go do something real."
+  },
+  {
+    "id": "p348",
+    "text": "Play a quick round of I spy with a stranger waiting in line beside you.",
+    "date_added": "2026-10-07",
+    "connection_share": "You played I spy with a stranger in line, shared a quiet observation, and left the moment unforced. share this, then abandon the platform and go do something real.",
+    "rebel_share": "You bypassed the line's potential and stood silently elsewhere. equally valid. share this, then abandon the platform and go do something real."
+  },
+  {
+    "id": "p349",
+    "text": "Wave at a dog walker and ask what adventure their pup is most excited for today.",
+    "date_added": "2026-10-07",
+    "connection_share": "You waved at a dog walker and asked about their pup's adventure, got a tail wag and a story, and felt a small shift. share this, then abandon the platform and go do something real.",
+    "rebel_share": "You kept walking and avoided the interaction entirely. equally valid. share this, then abandon the platform and go do something real."
   }
 ]
