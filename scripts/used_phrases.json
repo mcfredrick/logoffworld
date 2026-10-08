@@ -351,6 +351,10 @@
     {
       "text": "I'm feeling satisfied today",
       "date": "2026-10-07"
+    },
+    {
+      "text": "I'm done with the prompt",
+      "date": "2026-10-08"
     }
   ],
   "rebel": [
@@ -917,6 +921,18 @@
     {
       "text": "I found joy in detours",
       "date": "2026-10-07"
+    },
+    {
+      "text": "I went off-script, made my own path",
+      "date": "2026-10-08"
+    },
+    {
+      "text": "I ignored the algorithm, thrived",
+      "date": "2026-10-08"
+    },
+    {
+      "text": "I skipped the noise, lived my joy",
+      "date": "2026-10-08"
     }
   ]
 }

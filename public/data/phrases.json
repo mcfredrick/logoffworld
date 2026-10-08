@@ -867,6 +867,10 @@
     {
       "id": "c217",
       "text": "I'm feeling satisfied today"
+    },
+    {
+      "id": "c218",
+      "text": "I'm done with the prompt"
     }
   ],
   "rebel": [
@@ -2045,6 +2049,18 @@
     {
       "id": "r294",
       "text": "I found joy in detours"
+    },
+    {
+      "id": "r295",
+      "text": "I went off-script, made my own path"
+    },
+    {
+      "id": "r296",
+      "text": "I ignored the algorithm, thrived"
+    },
+    {
+      "id": "r297",
+      "text": "I skipped the noise, lived my joy"
     }
   ]
 }

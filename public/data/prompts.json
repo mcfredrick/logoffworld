@@ -2329,5 +2329,40 @@
     "date_added": "2026-10-07",
     "connection_share": "You waved at a dog walker and asked about their pup's adventure, got a tail wag and a story, and felt a small shift. share this, then abandon the platform and go do something real.",
     "rebel_share": "You kept walking and avoided the interaction entirely. equally valid. share this, then abandon the platform and go do something real."
+  },
+  {
+    "id": "p350",
+    "text": "Point at the biggest, fluffiest cloud you can find and invent a story about where its headed.",
+    "date_added": "2026-10-08",
+    "connection_share": "you looked up at a massive cloud and invented where it was heading instead of wondering why your own life feels staged share this then log off and go do something real",
+    "rebel_share": "you kept scrolling past the cloud and thought about nothing at all and that was fine too share this then log off and go do something real"
+  },
+  {
+    "id": "p351",
+    "text": "Ask a cashier how their day is going and really listen to their answer like it matters.",
+    "date_added": "2026-10-08",
+    "connection_share": "you asked a cashier how their day was and actually listened feeling something shift in the fluorescent glow share this then log off and go do something real",
+    "rebel_share": "you bypassed the checkout conversation and stared at your screen instead deciding presence could wait for another day share this then log off and go do something real"
+  },
+  {
+    "id": "p352",
+    "text": "Find a bug, a bird, or a blade of grass and introduce it to someone as your new favorite creature.",
+    "date_added": "2026-10-08",
+    "connection_share": "you knelt down introduced a beetle to a friend like it was a long lost relative and meant it share this then log off and go do something real",
+    "rebel_share": "you kept walking past the grass and thought about nothing at all and that was fine too share this then log off and go do something real"
+  },
+  {
+    "id": "p353",
+    "text": "Skip a step on the sidewalk and notice how it changes your stride, maybe even inspiring someone elses smile.",
+    "date_added": "2026-10-08",
+    "connection_share": "you skipped a step felt your gait shift and noticed someone nearby glance up share this then log off and go do something real",
+    "rebel_share": "you walked the usual way eyes on the phone and missed the step entirely still you kept moving forward share this then log off and go do something real"
+  },
+  {
+    "id": "p354",
+    "text": "Send a random thinking of you text to a friend just because a shape or scent reminded you of them.",
+    "date_added": "2026-10-08",
+    "connection_share": "you typed a thinking of you text because a scent reminded you of them and your friend smiled share this then log off and go do something real",
+    "rebel_share": "you ignored the scent and kept the thought to yourself staying in the silence share this then log off and go do something real"
   }
 ]
