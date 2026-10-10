@@ -871,6 +871,22 @@
     {
       "id": "c218",
       "text": "I'm done with the prompt"
+    },
+    {
+      "id": "c219",
+      "text": "I had fun with the task today"
+    },
+    {
+      "id": "c220",
+      "text": "I am proud I showed up today"
+    },
+    {
+      "id": "c221",
+      "text": "I leaned into the prompt today"
+    },
+    {
+      "id": "c222",
+      "text": "I had a great go today"
     }
   ],
   "rebel": [
@@ -2061,6 +2077,10 @@
     {
       "id": "r297",
       "text": "I skipped the noise, lived my joy"
+    },
+    {
+      "id": "r298",
+      "text": "I created my own magic"
     }
   ]
 }

@@ -355,6 +355,22 @@
     {
       "text": "I'm done with the prompt",
       "date": "2026-10-08"
+    },
+    {
+      "text": "I had fun with the task today",
+      "date": "2026-10-10"
+    },
+    {
+      "text": "I am proud I showed up today",
+      "date": "2026-10-10"
+    },
+    {
+      "text": "I leaned into the prompt today",
+      "date": "2026-10-10"
+    },
+    {
+      "text": "I had a great go today",
+      "date": "2026-10-10"
     }
   ],
   "rebel": [
@@ -933,6 +949,10 @@
     {
       "text": "I skipped the noise, lived my joy",
       "date": "2026-10-08"
+    },
+    {
+      "text": "I created my own magic",
+      "date": "2026-10-10"
     }
   ]
 }

@@ -2364,5 +2364,26 @@
     "date_added": "2026-10-08",
     "connection_share": "you typed a thinking of you text because a scent reminded you of them and your friend smiled share this then log off and go do something real",
     "rebel_share": "you ignored the scent and kept the thought to yourself staying in the silence share this then log off and go do something real"
+  },
+  {
+    "id": "p355",
+    "text": "Spot a bird in mid-flight and invent a whimsical name for its destination.",
+    "date_added": "2026-10-10",
+    "connection_share": "Named a gull's arc 'afternoon errand'. the sky didn't ask for likes. share this, put the phone down, and go do something real.",
+    "rebel_share": "Scrolled past, let the algorithm name it. indifferent, as expected. share this, put the phone down, and go do something real."
+  },
+  {
+    "id": "p356",
+    "text": "Spin in a circle once, open your eyes, and point out the first thing that catches your gaze.",
+    "date_added": "2026-10-10",
+    "connection_share": "Spun once, opened eyes to a plain ceiling. no caption needed. share this, put the phone down, and go do something real.",
+    "rebel_share": "Skipped the spin, stood rooted instead. same human. share this, put the phone down, and go do something real."
+  },
+  {
+    "id": "p357",
+    "text": "Make a wish on a dandelion puff and say it out loud, just for the fun of it.",
+    "date_added": "2026-10-10",
+    "connection_share": "Made a wish on a puff, said it soft and low. a private thought, not a post. share this, put the phone down, and go do something real.",
+    "rebel_share": "Said nothing, kept scrolling. the feed didn't need it. share this, put the phone down, and go do something real."
   }
 ]
