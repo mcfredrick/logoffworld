@@ -2385,5 +2385,33 @@
     "date_added": "2026-10-10",
     "connection_share": "Made a wish on a puff, said it soft and low. a private thought, not a post. share this, put the phone down, and go do something real.",
     "rebel_share": "Said nothing, kept scrolling. the feed didn't need it. share this, put the phone down, and go do something real."
+  },
+  {
+    "id": "p358",
+    "text": "Skip down a sidewalk and notice the colors of the flowers you pass.",
+    "date_added": "2026-10-15",
+    "connection_share": "you slipped down the quiet stretch and the flowers showed their colors, as if the sky mattered more. share this and abandon the platform and go do something real",
+    "rebel_share": "you stayed on the main path and the flowers were just a green blur, as if the moment didn't count. share this and abandon the platform and go do something real"
+  },
+  {
+    "id": "p359",
+    "text": "Share a funny story with a friend and laugh until your cheeks turn rosy.",
+    "date_added": "2026-10-15",
+    "connection_share": "you told the story and the room flushed with genuine laughter, as if the noise didn't matter. share this and abandon the platform and go do something real",
+    "rebel_share": "you held the story in and laughed at your own joke, as if the audience didn't exist. share this and abandon the platform and go do something real"
+  },
+  {
+    "id": "p360",
+    "text": "Wave at a passing cyclist and imagine where their adventure is taking them.",
+    "date_added": "2026-10-15",
+    "connection_share": "you lifted a hand at the passing cyclist and imagined their adventure, as if the route was the point. share this and abandon the platform and go do something real",
+    "rebel_share": "you kept your hand at your side and the cyclist passed, as if the sidewalk was enough. share this and abandon the platform and go do something real"
+  },
+  {
+    "id": "p361",
+    "text": "Sit on a bench and listen to the birdsong, then hum along with the melody.",
+    "date_added": "2026-10-15",
+    "connection_share": "you sat on the bench and the birdsong tangled with your hum, as if the melody was enough. share this and abandon the platform and go do something real",
+    "rebel_share": "you kept walking and the birds were just wind, as if the trees were listening. share this and abandon the platform and go do something real"
   }
 ]

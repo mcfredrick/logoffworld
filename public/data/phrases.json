@@ -887,6 +887,10 @@
     {
       "id": "c222",
       "text": "I had a great go today"
+    },
+    {
+      "id": "c223",
+      "text": "I kept it simple today"
     }
   ],
   "rebel": [
@@ -2081,6 +2085,14 @@
     {
       "id": "r298",
       "text": "I created my own magic"
+    },
+    {
+      "id": "r299",
+      "text": "I went rogue for good vibes"
+    },
+    {
+      "id": "r300",
+      "text": "I forged my own digital-free path"
     }
   ]
 }

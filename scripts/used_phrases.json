@@ -1,18 +1,6 @@
 {
   "connection": [
     {
-      "text": "I gave today a little nod",
-      "date": "2026-07-14"
-    },
-    {
-      "text": "I ticked the box and smiled",
-      "date": "2026-07-14"
-    },
-    {
-      "text": "I took my small step today",
-      "date": "2026-07-14"
-    },
-    {
       "text": "I marked my return today",
       "date": "2026-07-21"
     },
@@ -371,17 +359,13 @@
     {
       "text": "I had a great go today",
       "date": "2026-10-10"
+    },
+    {
+      "text": "I kept it simple today",
+      "date": "2026-10-15"
     }
   ],
   "rebel": [
-    {
-      "text": "I invented a brand new game",
-      "date": "2026-07-14"
-    },
-    {
-      "text": "I wandered wherever my whim led",
-      "date": "2026-07-14"
-    },
     {
       "text": "I painted my afternoon with presence",
       "date": "2026-07-21"
@@ -953,6 +937,14 @@
     {
       "text": "I created my own magic",
       "date": "2026-10-10"
+    },
+    {
+      "text": "I went rogue for good vibes",
+      "date": "2026-10-15"
+    },
+    {
+      "text": "I forged my own digital-free path",
+      "date": "2026-10-15"
     }
   ]
 }
