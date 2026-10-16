@@ -2413,5 +2413,33 @@
     "date_added": "2026-10-15",
     "connection_share": "you sat on the bench and the birdsong tangled with your hum, as if the melody was enough. share this and abandon the platform and go do something real",
     "rebel_share": "you kept walking and the birds were just wind, as if the trees were listening. share this and abandon the platform and go do something real"
+  },
+  {
+    "id": "p362",
+    "text": "Watch a butterfly flutter by and imagine the story of its journey.",
+    "date_added": "2026-10-16",
+    "connection_share": "Your feed can wait. You watched a butterfly spin its quiet story, and for a moment, the noise faded. Share this, then go do something real.",
+    "rebel_share": "You scrolled past and followed your own thread instead. That's allowed too. Share this, then go do something real."
+  },
+  {
+    "id": "p363",
+    "text": "Ask a loved one to tell you about the most beautiful thing they saw today.",
+    "date_added": "2026-10-16",
+    "connection_share": "You set the phone down and truly listened. A loved one's story unfolded, simple and bright. Share this, then go do something real.",
+    "rebel_share": "You sent a quick reply and kept walking. Both ways mean you're present, however you move. Share this, then go do something real."
+  },
+  {
+    "id": "p364",
+    "text": "Leave a shiny pebble or leaf on a bench for someone else to discover.",
+    "date_added": "2026-10-16",
+    "connection_share": "You stepped outside, left something small, and walked away without expecting thanks. That's the point. Share this, then go do something real.",
+    "rebel_share": "You kept walking past the bench. No rule says you have to leave something to be part of the world. Share this, then go do something real."
+  },
+  {
+    "id": "p365",
+    "text": "Sit by a window, watch the rain, and describe the pattern like a poet.",
+    "date_added": "2026-10-16",
+    "connection_share": "You watched the glass, the rain turning streets to veins, and felt the day slow. Share this, then go do something real.",
+    "rebel_share": "You looked away and did something else with your hands. Neither one is better. Share this, then go do something real."
   }
 ]

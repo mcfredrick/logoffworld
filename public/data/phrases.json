@@ -891,6 +891,10 @@
     {
       "id": "c223",
       "text": "I kept it simple today"
+    },
+    {
+      "id": "c224",
+      "text": "Today's prompt, I played along"
     }
   ],
   "rebel": [
@@ -2093,6 +2097,22 @@
     {
       "id": "r300",
       "text": "I forged my own digital-free path"
+    },
+    {
+      "id": "r301",
+      "text": "I ditched the feed, felt alive"
+    },
+    {
+      "id": "r302",
+      "text": "I embraced the unexpected"
+    },
+    {
+      "id": "r303",
+      "text": "I did me, felt amazing"
+    },
+    {
+      "id": "r304",
+      "text": "I found magic in my way"
     }
   ]
 }
