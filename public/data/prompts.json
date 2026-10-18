@@ -2441,5 +2441,15 @@
     "date_added": "2026-10-16",
     "connection_share": "You watched the glass, the rain turning streets to veins, and felt the day slow. Share this, then go do something real.",
     "rebel_share": "You looked away and did something else with your hands. Neither one is better. Share this, then go do something real."
+  },
+  {
+    "id": "p366",
+    "text": "Compliment a stranger’s energy and watch the conversation spark to life.",
+    "date_added": "2026-10-18"
+  },
+  {
+    "id": "p367",
+    "text": "Share the last bite of your snack with someone you don’t know, and savor the surprise.",
+    "date_added": "2026-10-18"
   }
 ]

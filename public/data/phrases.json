@@ -895,6 +895,18 @@
     {
       "id": "c224",
       "text": "Today's prompt, I played along"
+    },
+    {
+      "id": "c225",
+      "text": "Daily prompt, all checked off"
+    },
+    {
+      "id": "c226",
+      "text": "All filled out and happy"
+    },
+    {
+      "id": "c227",
+      "text": "Prompt conquered, peace out"
     }
   ],
   "rebel": [
@@ -2113,6 +2125,22 @@
     {
       "id": "r304",
       "text": "I found magic in my way"
+    },
+    {
+      "id": "r305",
+      "text": "I danced through the silence"
+    },
+    {
+      "id": "r306",
+      "text": "I kissed notifications goodbye"
+    },
+    {
+      "id": "r307",
+      "text": "I explored without a prompt"
+    },
+    {
+      "id": "r308",
+      "text": "I celebrated being offline"
     }
   ]
 }
