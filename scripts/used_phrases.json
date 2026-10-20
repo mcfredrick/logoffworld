@@ -1,10 +1,6 @@
 {
   "connection": [
     {
-      "text": "I marked my return today",
-      "date": "2026-07-21"
-    },
-    {
       "text": "I paused and played along",
       "date": "2026-07-22"
     },
@@ -379,25 +375,21 @@
     {
       "text": "Prompt conquered, peace out",
       "date": "2026-10-18"
+    },
+    {
+      "text": "I took a breath today",
+      "date": "2026-10-20"
+    },
+    {
+      "text": "I wrapped up my turn",
+      "date": "2026-10-20"
+    },
+    {
+      "text": "I showed up unplugged",
+      "date": "2026-10-20"
     }
   ],
   "rebel": [
-    {
-      "text": "I painted my afternoon with presence",
-      "date": "2026-07-21"
-    },
-    {
-      "text": "I wrote poetry on real paper",
-      "date": "2026-07-21"
-    },
-    {
-      "text": "I cooked chaos into something delicious",
-      "date": "2026-07-21"
-    },
-    {
-      "text": "I let my mind wander home",
-      "date": "2026-07-21"
-    },
     {
       "text": "I traded the prompt for a sunset",
       "date": "2026-07-22"
@@ -993,6 +985,14 @@
     {
       "text": "I celebrated being offline",
       "date": "2026-10-18"
+    },
+    {
+      "text": "Rebel mode active and alive",
+      "date": "2026-10-20"
+    },
+    {
+      "text": "Pure freedom no prompts needed",
+      "date": "2026-10-20"
     }
   ]
 }

@@ -907,6 +907,18 @@
     {
       "id": "c227",
       "text": "Prompt conquered, peace out"
+    },
+    {
+      "id": "c228",
+      "text": "I took a breath today"
+    },
+    {
+      "id": "c229",
+      "text": "I wrapped up my turn"
+    },
+    {
+      "id": "c230",
+      "text": "I showed up unplugged"
     }
   ],
   "rebel": [
@@ -2141,6 +2153,14 @@
     {
       "id": "r308",
       "text": "I celebrated being offline"
+    },
+    {
+      "id": "r309",
+      "text": "Rebel mode active and alive"
+    },
+    {
+      "id": "r310",
+      "text": "Pure freedom no prompts needed"
     }
   ]
 }

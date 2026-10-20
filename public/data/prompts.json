@@ -2451,5 +2451,26 @@
     "id": "p367",
     "text": "Share the last bite of your snack with someone you don’t know, and savor the surprise.",
     "date_added": "2026-10-18"
+  },
+  {
+    "id": "p368",
+    "text": "Find a cloud that looks like something ridiculous and text a friend a drawing of what it reminds you of.",
+    "date_added": "2026-10-20",
+    "connection_share": "You spotted a cloud like a burning toaster and texted a friend a crude sketch. It landed weirdly warm. Share this, then put the phone down and look up.",
+    "rebel_share": "You kept walking, didn't look up, thought of a punchline instead. Share this, then set the phone down and move on."
+  },
+  {
+    "id": "p369",
+    "text": "Ask a barista or coworker what tiny thing made them smile today, and mean it deeply.",
+    "date_added": "2026-10-20",
+    "connection_share": "You asked the barista what tiny thing brightened their day. They said the way steam curled. You felt a quiet shift. Share this, then put the phone down and mean it.",
+    "rebel_share": "You didn't ask. You thought of your own small joy and kept walking. Share this, then set the phone down and follow it."
+  },
+  {
+    "id": "p370",
+    "text": "Wave at a passing car’s driver like you’re old friends, and see if they wave back.",
+    "date_added": "2026-10-20",
+    "connection_share": "You waved at a passing car like an old friend. The driver waved back, surprised. You smiled, then kept walking. Share this, then put the phone down and notice.",
+    "rebel_share": "You didn't wave. You held your pace, let the car pass. Share this, then set the phone down and go your way."
   }
 ]
