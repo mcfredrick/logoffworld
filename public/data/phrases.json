@@ -919,6 +919,10 @@
     {
       "id": "c230",
       "text": "I showed up unplugged"
+    },
+    {
+      "id": "c231",
+      "text": "I wrapped up the prompt"
     }
   ],
   "rebel": [
@@ -2161,6 +2165,10 @@
     {
       "id": "r310",
       "text": "Pure freedom no prompts needed"
+    },
+    {
+      "id": "r311",
+      "text": "I logged out, logged in to bliss"
     }
   ]
 }

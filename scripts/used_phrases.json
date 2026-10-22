@@ -1,26 +1,6 @@
 {
   "connection": [
     {
-      "text": "I paused and played along",
-      "date": "2026-07-22"
-    },
-    {
-      "text": "I carved out a moment",
-      "date": "2026-07-22"
-    },
-    {
-      "text": "I finished what I started",
-      "date": "2026-07-22"
-    },
-    {
-      "text": "I said yes today",
-      "date": "2026-07-23"
-    },
-    {
-      "text": "I remembered how today",
-      "date": "2026-07-23"
-    },
-    {
       "text": "I said yes to the prompt",
       "date": "2026-07-25"
     },
@@ -387,49 +367,13 @@
     {
       "text": "I showed up unplugged",
       "date": "2026-10-20"
+    },
+    {
+      "text": "I wrapped up the prompt",
+      "date": "2026-10-22"
     }
   ],
   "rebel": [
-    {
-      "text": "I traded the prompt for a sunset",
-      "date": "2026-07-22"
-    },
-    {
-      "text": "I cooked breakfast like a ritual",
-      "date": "2026-07-22"
-    },
-    {
-      "text": "I wandered where the wifi won't reach",
-      "date": "2026-07-22"
-    },
-    {
-      "text": "I called my mom just because",
-      "date": "2026-07-22"
-    },
-    {
-      "text": "I danced badly in my kitchen",
-      "date": "2026-07-22"
-    },
-    {
-      "text": "I followed a butterfly, not instructions",
-      "date": "2026-07-23"
-    },
-    {
-      "text": "I drew outside every single line",
-      "date": "2026-07-23"
-    },
-    {
-      "text": "I wrote poems on napkins today",
-      "date": "2026-07-23"
-    },
-    {
-      "text": "I chased the ice cream truck",
-      "date": "2026-07-23"
-    },
-    {
-      "text": "I became the prompt myself",
-      "date": "2026-07-23"
-    },
     {
       "text": "I baked cookies at midnight",
       "date": "2026-07-25"
@@ -993,6 +937,10 @@
     {
       "text": "Pure freedom no prompts needed",
       "date": "2026-10-20"
+    },
+    {
+      "text": "I logged out, logged in to bliss",
+      "date": "2026-10-22"
     }
   ]
 }

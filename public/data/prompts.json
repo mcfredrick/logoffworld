@@ -2472,5 +2472,33 @@
     "date_added": "2026-10-20",
     "connection_share": "You waved at a passing car like an old friend. The driver waved back, surprised. You smiled, then kept walking. Share this, then put the phone down and notice.",
     "rebel_share": "You didn't wave. You held your pace, let the car pass. Share this, then set the phone down and go your way."
+  },
+  {
+    "id": "p371",
+    "text": "Wander outside and greet the first tree you see like an old friend.",
+    "date_added": "2026-10-22",
+    "connection_share": "You walked outside, found a tree, and meant the greeting. The sky doesn't algorithm you. Share this, then abandon the platform and go do something real.",
+    "rebel_share": "You stayed inside and watched the minutes tick by. Neither choice makes you less human. Share this, then abandon the platform and go do something real."
+  },
+  {
+    "id": "p372",
+    "text": "Wave at a passing car and imagine a silly story about where they're headed.",
+    "date_added": "2026-10-22",
+    "connection_share": "You waved at a car and built a whole life in seconds. Real joy doesn't need a notification. Share this, then abandon the platform and go do something real.",
+    "rebel_share": "You watched the car go by and wondered nothing at all. Both are just motion through the day. Share this, then abandon the platform and go do something real."
+  },
+  {
+    "id": "p373",
+    "text": "Share your favorite joke with a stranger and count how many smiles it creates.",
+    "date_added": "2026-10-22",
+    "connection_share": "You told a stranger a joke and watched a smile ripple by. Human connection, no likes required. Share this, then abandon the platform and go do something real.",
+    "rebel_share": "You kept the joke to yourself and nodded at your screen instead. Silence can be funny too. Share this, then abandon the platform and go do something real."
+  },
+  {
+    "id": "p374",
+    "text": "Ask a friend to name the most ridiculous thing they've seen today and laugh about it.",
+    "date_added": "2026-10-22",
+    "connection_share": "You asked a friend about the ridiculous and laughed until it felt true. Laughter is older than any feed. Share this, then abandon the platform and go do something real.",
+    "rebel_share": "You didn't ask and didn't laugh, and that's okay too. Not every moment needs a punchline. Share this, then abandon the platform and go do something real."
   }
 ]
