@@ -2500,5 +2500,26 @@
     "date_added": "2026-10-22",
     "connection_share": "You asked a friend about the ridiculous and laughed until it felt true. Laughter is older than any feed. Share this, then abandon the platform and go do something real.",
     "rebel_share": "You didn't ask and didn't laugh, and that's okay too. Not every moment needs a punchline. Share this, then abandon the platform and go do something real."
+  },
+  {
+    "id": "p375",
+    "text": "Wave at a stranger and mean it, then notice the surprised smile that follows.",
+    "date_added": "2026-10-23",
+    "connection_share": "You waved at a stranger and meant it, felt real, and no algorithm saw it. Share this, then abandon the platform and go do something real.",
+    "rebel_share": "You kept your gaze ahead and thought of dinner, still human, and the feed didn't nudge you. Share this, then abandon the platform and go do something real."
+  },
+  {
+    "id": "p376",
+    "text": "Lie on your back and watch the clouds drift by, inventing stories about the shapes you see.",
+    "date_added": "2026-10-23",
+    "connection_share": "You lay on your back and watched clouds drift by, inventing stories as you went, felt real, and the sky had no filter. Share this, then abandon the platform and go do something real.",
+    "rebel_share": "You stayed standing, looked at your phone instead, still human, and the sky had no filter. Share this, then abandon the platform and go do something real."
+  },
+  {
+    "id": "p377",
+    "text": "Leave a kind, absurd rhyme on a sticky note for the next person to find and chuckle at.",
+    "date_added": "2026-10-23",
+    "connection_share": "You left a sticky note with a kind, absurd rhyme, felt real, and no one needed to like it. Share this, then abandon the platform and go do something real.",
+    "rebel_share": "You ignored the prompt and bought coffee instead, still human, and the note stayed blank. Share this, then abandon the platform and go do something real."
   }
 ]

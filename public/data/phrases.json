@@ -923,6 +923,10 @@
     {
       "id": "c231",
       "text": "I wrapped up the prompt"
+    },
+    {
+      "id": "c232",
+      "text": "I did the prompt thing"
     }
   ],
   "rebel": [
@@ -2169,6 +2173,18 @@
     {
       "id": "r311",
       "text": "I logged out, logged in to bliss"
+    },
+    {
+      "id": "r312",
+      "text": "I went rogue and smiled"
+    },
+    {
+      "id": "r313",
+      "text": "I ditched the prompt, kept joy"
+    },
+    {
+      "id": "r314",
+      "text": "I forged my own joyful way"
     }
   ]
 }
