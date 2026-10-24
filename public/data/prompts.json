@@ -2521,5 +2521,26 @@
     "date_added": "2026-10-23",
     "connection_share": "You left a sticky note with a kind, absurd rhyme, felt real, and no one needed to like it. Share this, then abandon the platform and go do something real.",
     "rebel_share": "You ignored the prompt and bought coffee instead, still human, and the note stayed blank. Share this, then abandon the platform and go do something real."
+  },
+  {
+    "id": "p378",
+    "text": "Spot a bird in flight and invent a tiny story about where it's headed, then share it with someone.",
+    "date_added": "2026-10-24",
+    "connection_share": "Watched a gull catch wind and invented a quiet journey for it. share this, then abandon the platform and go do something real",
+    "rebel_share": "Ignored the bird and watched the sky instead. share this, then abandon the platform and go do something real"
+  },
+  {
+    "id": "p379",
+    "text": "Sit under a tree and notice a sound you usually ignore, then tell someone nearby about it.",
+    "date_added": "2026-10-24",
+    "connection_share": "Sat under a tree, noticed a sound I usually ignore, and told a friend nearby. share this, then abandon the platform and go do something real",
+    "rebel_share": "Skipped the tree and walked the block instead. share this, then abandon the platform and go do something real"
+  },
+  {
+    "id": "p380",
+    "text": "Send a friend a photo of something ordinary that made you smile today with no explanation needed.",
+    "date_added": "2026-10-24",
+    "connection_share": "Sent a photo of a coffee ring to a friend with no words needed. share this, then abandon the platform and go do something real",
+    "rebel_share": "Skipped the photo and drank tea silently. share this, then abandon the platform and go do something real"
   }
 ]

@@ -1,10 +1,6 @@
 {
   "connection": [
     {
-      "text": "I said yes to the prompt",
-      "date": "2026-07-25"
-    },
-    {
       "text": "I started anyway today",
       "date": "2026-07-28"
     },
@@ -375,29 +371,17 @@
     {
       "text": "I did the prompt thing",
       "date": "2026-10-23"
+    },
+    {
+      "text": "I had fun with it",
+      "date": "2026-10-24"
+    },
+    {
+      "text": "I embraced the task",
+      "date": "2026-10-24"
     }
   ],
   "rebel": [
-    {
-      "text": "I baked cookies at midnight",
-      "date": "2026-07-25"
-    },
-    {
-      "text": "I climbed a tree today",
-      "date": "2026-07-25"
-    },
-    {
-      "text": "I wrote a terrible poem",
-      "date": "2026-07-25"
-    },
-    {
-      "text": "I followed a random trail",
-      "date": "2026-07-25"
-    },
-    {
-      "text": "I stared at clouds for hours",
-      "date": "2026-07-25"
-    },
     {
       "text": "I followed my curiosity down a rabbit hole",
       "date": "2026-07-28"
@@ -957,6 +941,10 @@
     {
       "text": "I forged my own joyful way",
       "date": "2026-10-23"
+    },
+    {
+      "text": "I went off-grid, found my spark",
+      "date": "2026-10-24"
     }
   ]
 }

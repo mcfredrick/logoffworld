@@ -927,6 +927,14 @@
     {
       "id": "c232",
       "text": "I did the prompt thing"
+    },
+    {
+      "id": "c233",
+      "text": "I had fun with it"
+    },
+    {
+      "id": "c234",
+      "text": "I embraced the task"
     }
   ],
   "rebel": [
@@ -2185,6 +2193,10 @@
     {
       "id": "r314",
       "text": "I forged my own joyful way"
+    },
+    {
+      "id": "r315",
+      "text": "I went off-grid, found my spark"
     }
   ]
 }
