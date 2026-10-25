@@ -935,6 +935,10 @@
     {
       "id": "c234",
       "text": "I embraced the task"
+    },
+    {
+      "id": "c235",
+      "text": "I played along and smiled"
     }
   ],
   "rebel": [
@@ -2197,6 +2201,10 @@
     {
       "id": "r315",
       "text": "I went off-grid, found my spark"
+    },
+    {
+      "id": "r316",
+      "text": "I skipped today and found freedom"
     }
   ]
 }

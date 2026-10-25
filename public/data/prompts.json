@@ -2542,5 +2542,40 @@
     "date_added": "2026-10-24",
     "connection_share": "Sent a photo of a coffee ring to a friend with no words needed. share this, then abandon the platform and go do something real",
     "rebel_share": "Skipped the photo and drank tea silently. share this, then abandon the platform and go do something real"
+  },
+  {
+    "id": "p381",
+    "text": "Wave at a stranger from across the street like they’re an old friend you’ve missed.",
+    "date_added": "2026-10-25",
+    "connection_share": "you waved at a stranger across the street, they nodded back, and you kept walking. share this, then abandon the platform and go do something real.",
+    "rebel_share": "you kept your eyes forward and listened to your own rhythm, and that was just as valid. share this, then abandon the platform and go do something real."
+  },
+  {
+    "id": "p382",
+    "text": "Find the silliest cloud in the sky and give it a ridiculous nickname out loud.",
+    "date_added": "2026-10-25",
+    "connection_share": "you looked up, picked a cloud and named it something absurd, and a laugh slipped out. share this, then abandon the platform and go do something real.",
+    "rebel_share": "you kept your gaze down at the screen instead, and that was fine too. share this, then abandon the platform and go do something real."
+  },
+  {
+    "id": "p383",
+    "text": "Ask the next person you make eye contact with what made them laugh recently.",
+    "date_added": "2026-10-25",
+    "connection_share": "you asked a stranger what made them laugh, they answered, and a brief, honest exchange happened. share this, then abandon the platform and go do something real.",
+    "rebel_share": "you averted your gaze and kept walking, and you were fine without the answer. share this, then abandon the platform and go do something real."
+  },
+  {
+    "id": "p384",
+    "text": "Skip cracks in the sidewalk like you’re playing an invisible hopscotch game.",
+    "date_added": "2026-10-25",
+    "connection_share": "you hopped over cracks as if the sidewalk were a game, and a small smile crossed your face. share this, then abandon the platform and go do something real.",
+    "rebel_share": "you walked straight, ignoring the cracks, and kept your pace. share this, then abandon the platform and go do something real."
+  },
+  {
+    "id": "p385",
+    "text": "Leave a cheerful, hand-drawn smiley face on a random public bench for a stranger to find.",
+    "date_added": "2026-10-25",
+    "connection_share": "you drew a smiley on a bench and left it, hoping a stranger might find it later. share this, then abandon the platform and go do something real.",
+    "rebel_share": "you kept walking past the bench, and that was just as ordinary. share this, then abandon the platform and go do something real."
   }
 ]
