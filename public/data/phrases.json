@@ -939,6 +939,10 @@
     {
       "id": "c235",
       "text": "I played along and smiled"
+    },
+    {
+      "id": "c236",
+      "text": "I gave the prompt a go"
     }
   ],
   "rebel": [
@@ -2205,6 +2209,10 @@
     {
       "id": "r316",
       "text": "I skipped today and found freedom"
+    },
+    {
+      "id": "r317",
+      "text": "Forgot the prompt found bliss"
     }
   ]
 }

@@ -2577,5 +2577,40 @@
     "date_added": "2026-10-25",
     "connection_share": "you drew a smiley on a bench and left it, hoping a stranger might find it later. share this, then abandon the platform and go do something real.",
     "rebel_share": "you kept walking past the bench, and that was just as ordinary. share this, then abandon the platform and go do something real."
+  },
+  {
+    "id": "p386",
+    "text": "Find a heart-shaped leaf or stone and show it to the next person you meet.",
+    "date_added": "2026-10-26",
+    "connection_share": "i found a heart-shaped stone and showed it to someone. we both smiled. share this, then log off and go do something real.",
+    "rebel_share": "i kept walking and texted a friend instead. equally human. share this, then log off and go do something real."
+  },
+  {
+    "id": "p387",
+    "text": "Wave at a stranger and see if they wave back, just to start a tiny connection.",
+    "date_added": "2026-10-26",
+    "connection_share": "i waved at a stranger on the sidewalk. they waved back. share this, then log off and go do something real.",
+    "rebel_share": "i kept my gaze forward and thought about lunch. equally human. share this, then log off and go do something real."
+  },
+  {
+    "id": "p388",
+    "text": "Tell a tree the silliest thing on your mind, just for fun.",
+    "date_added": "2026-10-26",
+    "connection_share": "i told a tree i wished i could fly on a toaster. it stood there, silently judgmental. share this, then log off and go do something real.",
+    "rebel_share": "i kept the thought to myself and stared at my coffee. equally human. share this, then log off and go do something real."
+  },
+  {
+    "id": "p389",
+    "text": "Blow on a dandelion and make a wish out loud, just for the wind to hear.",
+    "date_added": "2026-10-26",
+    "connection_share": "i blew on a dandelion and whispered a wish to the wind. the seeds lifted, briefly. share this, then log off and go do something real.",
+    "rebel_share": "i blew on a dandelion and made a joke to a friend instead. equally human. share this, then log off and go do something real."
+  },
+  {
+    "id": "p390",
+    "text": "Compliment someone’s shoes or umbrella and notice their smile grow.",
+    "date_added": "2026-10-26",
+    "connection_share": "i complimented a stranger's bright umbrella and saw them smile. a small, real thing. share this, then log off and go do something real.",
+    "rebel_share": "i stayed quiet and admired my own shoes from afar. equally human. share this, then log off and go do something real."
   }
 ]
