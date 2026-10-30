@@ -2612,5 +2612,33 @@
     "date_added": "2026-10-26",
     "connection_share": "i complimented a stranger's bright umbrella and saw them smile. a small, real thing. share this, then log off and go do something real.",
     "rebel_share": "i stayed quiet and admired my own shoes from afar. equally human. share this, then log off and go do something real."
+  },
+  {
+    "id": "p391",
+    "text": "Find a cloud that looks like an animal and tell the person next to you why it’s their spirit guide.",
+    "date_added": "2026-10-30",
+    "connection_share": "spotted a cloud like a badger. told a stranger it was their spirit guide. they laughed. i felt a shift. share this, then abandon the platform and go do something real.",
+    "rebel_share": "looked at clouds but saw no shapes. thought about dinner. ate a sandwich. i kept walking. share this, then abandon the platform and go do something real."
+  },
+  {
+    "id": "p392",
+    "text": "Leave a kind note for a neighbor on a random bench, just to surprise someone with a smile.",
+    "date_added": "2026-10-30",
+    "connection_share": "left a note on a bench with a doodle. the neighbor smiled. i felt a small glow. share this, then abandon the platform and go do something real.",
+    "rebel_share": "skipped the note and wrote in my journal instead. processed feelings on paper. i was honest. share this, then abandon the platform and go do something real."
+  },
+  {
+    "id": "p393",
+    "text": "Spin in a circle until you’re a little dizzy, then name three colors you notice around you.",
+    "date_added": "2026-10-30",
+    "connection_share": "spun until dizzy. named blue green yellow. the room softened. i felt present. share this, then abandon the platform and go do something real.",
+    "rebel_share": "skipped the spin and stared at the ceiling. named the shadows and the lamp. i grounded myself. share this, then abandon the platform and go do something real."
+  },
+  {
+    "id": "p394",
+    "text": "Ask a barista about the last thing that made them feel truly seen, and listen without planning your reply.",
+    "date_added": "2026-10-30",
+    "connection_share": "asked my barista what made them feel seen. they said a regular's note. i listened without planning. i felt present. share this, then abandon the platform and go do something real.",
+    "rebel_share": "skipped the barista chat and wrote a letter to myself instead. processed feelings on paper. i was honest. share this, then abandon the platform and go do something real."
   }
 ]

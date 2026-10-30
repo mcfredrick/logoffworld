@@ -1,22 +1,6 @@
 {
   "connection": [
     {
-      "text": "I started anyway today",
-      "date": "2026-07-28"
-    },
-    {
-      "text": "I leaned into today's moment",
-      "date": "2026-07-29"
-    },
-    {
-      "text": "I took a pause that mattered",
-      "date": "2026-07-29"
-    },
-    {
-      "text": "I let today's prompt land",
-      "date": "2026-07-29"
-    },
-    {
       "text": "I breathed through it",
       "date": "2026-08-04"
     },
@@ -387,37 +371,13 @@
     {
       "text": "I gave the prompt a go",
       "date": "2026-10-26"
+    },
+    {
+      "text": "I smiled at the daily task",
+      "date": "2026-10-30"
     }
   ],
   "rebel": [
-    {
-      "text": "I followed my curiosity down a rabbit hole",
-      "date": "2026-07-28"
-    },
-    {
-      "text": "I ignored the app and climbed a tree",
-      "date": "2026-07-28"
-    },
-    {
-      "text": "I chose wonder over a worksheet",
-      "date": "2026-07-28"
-    },
-    {
-      "text": "I made breakfast for dinner and called it victory",
-      "date": "2026-07-28"
-    },
-    {
-      "text": "I trusted my gut over the guide",
-      "date": "2026-07-28"
-    },
-    {
-      "text": "I made the moment mine",
-      "date": "2026-07-29"
-    },
-    {
-      "text": "I built a fort instead",
-      "date": "2026-07-29"
-    },
     {
       "text": "I made my own morning ritual",
       "date": "2026-08-04"
@@ -961,6 +921,10 @@
     {
       "text": "Forgot the prompt found bliss",
       "date": "2026-10-26"
+    },
+    {
+      "text": "I chose joy not notification",
+      "date": "2026-10-30"
     }
   ]
 }
