@@ -947,6 +947,10 @@
     {
       "id": "c237",
       "text": "I smiled at the daily task"
+    },
+    {
+      "id": "c238",
+      "text": "I played my part today"
     }
   ],
   "rebel": [
@@ -2221,6 +2225,10 @@
     {
       "id": "r318",
       "text": "I chose joy not notification"
+    },
+    {
+      "id": "r319",
+      "text": "I did me, and it was perfect"
     }
   ]
 }

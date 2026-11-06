@@ -1,18 +1,6 @@
 {
   "connection": [
     {
-      "text": "I breathed through it",
-      "date": "2026-08-04"
-    },
-    {
-      "text": "I actually did it today",
-      "date": "2026-08-07"
-    },
-    {
-      "text": "I landed here today",
-      "date": "2026-08-07"
-    },
-    {
       "text": "I kept my word today",
       "date": "2026-08-08"
     },
@@ -375,45 +363,13 @@
     {
       "text": "I smiled at the daily task",
       "date": "2026-10-30"
+    },
+    {
+      "text": "I played my part today",
+      "date": "2026-11-06"
     }
   ],
   "rebel": [
-    {
-      "text": "I made my own morning ritual",
-      "date": "2026-08-04"
-    },
-    {
-      "text": "I ignored the screen, lived life",
-      "date": "2026-08-04"
-    },
-    {
-      "text": "I found joy off the grid",
-      "date": "2026-08-04"
-    },
-    {
-      "text": "I painted my walls with sunshine",
-      "date": "2026-08-07"
-    },
-    {
-      "text": "I cooked breakfast for dinner, just because",
-      "date": "2026-08-07"
-    },
-    {
-      "text": "I wandered until my feet knew home",
-      "date": "2026-08-07"
-    },
-    {
-      "text": "I traded my screen for a skyline",
-      "date": "2026-08-07"
-    },
-    {
-      "text": "I wrote a letter to the moon",
-      "date": "2026-08-07"
-    },
-    {
-      "text": "I remembered how to play",
-      "date": "2026-08-07"
-    },
     {
       "text": "I trusted my gut and won",
       "date": "2026-08-08"
@@ -925,6 +881,10 @@
     {
       "text": "I chose joy not notification",
       "date": "2026-10-30"
+    },
+    {
+      "text": "I did me, and it was perfect",
+      "date": "2026-11-06"
     }
   ]
 }
