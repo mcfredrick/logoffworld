@@ -951,6 +951,10 @@
     {
       "id": "c238",
       "text": "I played my part today"
+    },
+    {
+      "id": "c239",
+      "text": "I showed up, that's a win"
     }
   ],
   "rebel": [
@@ -2229,6 +2233,22 @@
     {
       "id": "r319",
       "text": "I did me, and it was perfect"
+    },
+    {
+      "id": "r320",
+      "text": "I doodled instead and smiled"
+    },
+    {
+      "id": "r321",
+      "text": "I took a walk, found my bliss"
+    },
+    {
+      "id": "r322",
+      "text": "I made art, ignored the screen"
+    },
+    {
+      "id": "r323",
+      "text": "I danced freely, no filter"
     }
   ]
 }

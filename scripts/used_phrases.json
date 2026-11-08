@@ -1,22 +1,6 @@
 {
   "connection": [
     {
-      "text": "I kept my word today",
-      "date": "2026-08-08"
-    },
-    {
-      "text": "I made it happen today",
-      "date": "2026-08-08"
-    },
-    {
-      "text": "I answered the call today",
-      "date": "2026-08-09"
-    },
-    {
-      "text": "I wandered in and stayed",
-      "date": "2026-08-09"
-    },
-    {
       "text": "I played along today, it was fun",
       "date": "2026-08-12"
     },
@@ -367,29 +351,13 @@
     {
       "text": "I played my part today",
       "date": "2026-11-06"
+    },
+    {
+      "text": "I showed up, that's a win",
+      "date": "2026-11-08"
     }
   ],
   "rebel": [
-    {
-      "text": "I trusted my gut and won",
-      "date": "2026-08-08"
-    },
-    {
-      "text": "I skipped the script, wrote my story",
-      "date": "2026-08-08"
-    },
-    {
-      "text": "I made a mess and masterpiece",
-      "date": "2026-08-08"
-    },
-    {
-      "text": "I wandered off path and found treasure",
-      "date": "2026-08-08"
-    },
-    {
-      "text": "I made memories, not metrics today",
-      "date": "2026-08-09"
-    },
     {
       "text": "I made my own fun today",
       "date": "2026-08-12"
@@ -885,6 +853,22 @@
     {
       "text": "I did me, and it was perfect",
       "date": "2026-11-06"
+    },
+    {
+      "text": "I doodled instead and smiled",
+      "date": "2026-11-08"
+    },
+    {
+      "text": "I took a walk, found my bliss",
+      "date": "2026-11-08"
+    },
+    {
+      "text": "I made art, ignored the screen",
+      "date": "2026-11-08"
+    },
+    {
+      "text": "I danced freely, no filter",
+      "date": "2026-11-08"
     }
   ]
 }

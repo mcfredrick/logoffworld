@@ -2654,5 +2654,33 @@
     "date_added": "2026-11-06",
     "connection_share": "wings slicing, arms lifting, no one watching. share this, abandon the platform, and go do something real.",
     "rebel_share": "wings slicing, you stayed grounded. moving differently is still human. share this, abandon the platform, and go do something real."
+  },
+  {
+    "id": "p397",
+    "text": "Buy a stranger’s coffee just because, and notice the surprise sparkle in their eyes when they realize it’s on you.",
+    "date_added": "2026-11-08",
+    "connection_share": "you bought a coffee for a stranger and felt the moment stretch longer than any feed. share this, then step away from the screen and go do something real.",
+    "rebel_share": "you kept walking and made your own path just the same. share this, then step away from the screen and go do something real."
+  },
+  {
+    "id": "p398",
+    "text": "Skip around a puddle instead of stepping over it, and invite someone nearby to join the splash.",
+    "date_added": "2026-11-08",
+    "connection_share": "you splashed through a puddle with a stranger and both ended up soaking each other's shoes. a weird, wonderful connection. share this, then step away from the screen and go do something real.",
+    "rebel_share": "you stepped over the puddle and kept your socks dry, and that was the right choice for you. share this, then step away from the screen and go do something real."
+  },
+  {
+    "id": "p399",
+    "text": "Find the loudest bird outside and try to mimick its call, then laugh together at how badly you both sound.",
+    "date_added": "2026-11-08",
+    "connection_share": "you mimicked a loud bird with a neighbor and both laughed at how terrible you sounded. a shared silence after the silliness. share this, then step away from the screen and go do something real.",
+    "rebel_share": "you listened from your window and let the bird be, and that was peace enough. share this, then step away from the screen and go do something real."
+  },
+  {
+    "id": "p400",
+    "text": "Leave a wildflower on a stranger’s doorstep without a word, and watch their day turn a little more magical.",
+    "date_added": "2026-11-08",
+    "connection_share": "you left a wildflower on a porch and watched a stranger's face soften without a word passed between you. quiet and unforced. share this, then step away from the screen and go do something real.",
+    "rebel_share": "you skipped the flower and kept your own space peaceful, and that was valid too. share this, then step away from the screen and go do something real."
   }
 ]
