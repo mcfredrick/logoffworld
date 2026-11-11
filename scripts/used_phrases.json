@@ -1,22 +1,6 @@
 {
   "connection": [
     {
-      "text": "I played along today, it was fun",
-      "date": "2026-08-12"
-    },
-    {
-      "text": "I finished the daily, feeling lit",
-      "date": "2026-08-12"
-    },
-    {
-      "text": "I showed up, I'm glad I did",
-      "date": "2026-08-12"
-    },
-    {
-      "text": "I finished the prompt, good vibes",
-      "date": "2026-08-12"
-    },
-    {
       "text": "I smiled through the creative stretch today",
       "date": "2026-08-13"
     },
@@ -355,25 +339,13 @@
     {
       "text": "I showed up, that's a win",
       "date": "2026-11-08"
+    },
+    {
+      "text": "Today I logged the prompt",
+      "date": "2026-11-11"
     }
   ],
   "rebel": [
-    {
-      "text": "I made my own fun today",
-      "date": "2026-08-12"
-    },
-    {
-      "text": "I went off-script, it ruled",
-      "date": "2026-08-12"
-    },
-    {
-      "text": "I did things my way today",
-      "date": "2026-08-12"
-    },
-    {
-      "text": "I went off and loved it",
-      "date": "2026-08-12"
-    },
     {
       "text": "I took the scenic route",
       "date": "2026-08-13"
@@ -869,6 +841,14 @@
     {
       "text": "I danced freely, no filter",
       "date": "2026-11-08"
+    },
+    {
+      "text": "I made my own fun today",
+      "date": "2026-11-11"
+    },
+    {
+      "text": "I did things my way",
+      "date": "2026-11-11"
     }
   ]
 }

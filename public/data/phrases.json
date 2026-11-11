@@ -955,6 +955,10 @@
     {
       "id": "c239",
       "text": "I showed up, that's a win"
+    },
+    {
+      "id": "c240",
+      "text": "Today I logged the prompt"
     }
   ],
   "rebel": [
@@ -2249,6 +2253,14 @@
     {
       "id": "r323",
       "text": "I danced freely, no filter"
+    },
+    {
+      "id": "r324",
+      "text": "I made my own fun today"
+    },
+    {
+      "id": "r325",
+      "text": "I did things my way"
     }
   ]
 }

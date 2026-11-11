@@ -2682,5 +2682,26 @@
     "date_added": "2026-11-08",
     "connection_share": "you left a wildflower on a porch and watched a stranger's face soften without a word passed between you. quiet and unforced. share this, then step away from the screen and go do something real.",
     "rebel_share": "you skipped the flower and kept your own space peaceful, and that was valid too. share this, then step away from the screen and go do something real."
+  },
+  {
+    "id": "p401",
+    "text": "Lie on the grass and identify the most imaginative shape a cloud could become.",
+    "date_added": "2026-11-11",
+    "connection_share": "you lie on your back the horizon wide a cloud morphs into something absurd and for a second the screen feels irrelevant share this then abandon the platform and go do something real",
+    "rebel_share": "you kept your phone in your pocket and watched the wind move the trees a small act of rebellion share this then abandon the platform and go do something real"
+  },
+  {
+    "id": "p402",
+    "text": "Ask a friend to share the silliest thing that happened to them today, just for fun.",
+    "date_added": "2026-11-11",
+    "connection_share": "you called a friend and they told you about a pigeon stealing a french fry you laughed until your sides ached and the day felt lighter share this then abandon the platform and go do something real",
+    "rebel_share": "you sent a sticker instead and made your own fun a quiet satisfaction share this then abandon the platform and go do something real"
+  },
+  {
+    "id": "p403",
+    "text": "Leave a tiny, kind note somewhere unexpected for someone to discover and smile over.",
+    "date_added": "2026-11-11",
+    "connection_share": "you folded a note slipped it into a library book and later heard someone laugh in the aisle a quiet victory share this then abandon the platform and go do something real",
+    "rebel_share": "you kept walking and the world turned without a note a moment of ordinary aliveness share this then abandon the platform and go do something real"
   }
 ]
