@@ -959,6 +959,10 @@
     {
       "id": "c240",
       "text": "Today I logged the prompt"
+    },
+    {
+      "id": "c241",
+      "text": "I answered the call today"
     }
   ],
   "rebel": [
@@ -2261,6 +2265,22 @@
     {
       "id": "r325",
       "text": "I did things my way"
+    },
+    {
+      "id": "r326",
+      "text": "I made a little magic"
+    },
+    {
+      "id": "r327",
+      "text": "I wandered off-script and grinned"
+    },
+    {
+      "id": "r328",
+      "text": "I built my own happy detour"
+    },
+    {
+      "id": "r329",
+      "text": "I made my own kind of wow"
     }
   ]
 }

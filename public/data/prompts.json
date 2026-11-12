@@ -2703,5 +2703,33 @@
     "date_added": "2026-11-11",
     "connection_share": "you folded a note slipped it into a library book and later heard someone laugh in the aisle a quiet victory share this then abandon the platform and go do something real",
     "rebel_share": "you kept walking and the world turned without a note a moment of ordinary aliveness share this then abandon the platform and go do something real"
+  },
+  {
+    "id": "p404",
+    "text": "Pick up a pebble, give it a secret, and leave it somewhere sunny for someone else to find.",
+    "date_added": "2026-11-12",
+    "connection_share": "Told a pebble my secret and left it in the sun for a stranger. Share this, then abandon the platform and go do something real.",
+    "rebel_share": "I skipped the pebble. Some secrets are better kept, and some instructions are better ignored. Share this, then abandon the platform and go do something real."
+  },
+  {
+    "id": "p405",
+    "text": "Ask a stranger to pick the funniest cloud shape they can find, then compare notes.",
+    "date_added": "2026-11-12",
+    "connection_share": "A stranger found the funniest cloud and we agreed on nothing important. Share this, then abandon the platform and go do something real.",
+    "rebel_share": "I did not ask a stranger to judge clouds. The sky can remain a mystery. Share this, then abandon the platform and go do something real."
+  },
+  {
+    "id": "p406",
+    "text": "Dance for thirty seconds in the kitchen, even if only the kettle is watching.",
+    "date_added": "2026-11-12",
+    "connection_share": "Danced in the kitchen while the kettle watched. It did not clap, but I felt briefly human. Share this, then abandon the platform and go do something real.",
+    "rebel_share": "I did not dance. My kitchen has standards, and none of them involve rhythm. Share this, then abandon the platform and go do something real."
+  },
+  {
+    "id": "p407",
+    "text": "Leave a tiny drawing on a napkin for whoever finds it next.",
+    "date_added": "2026-11-12",
+    "connection_share": "I left a small drawing on a napkin. No one thanked me, which felt like the most honest transaction all day. Share this, then abandon the platform and go do something real.",
+    "rebel_share": "I left the napkin blank. A clean napkin is also a small act of restraint. Share this, then abandon the platform and go do something real."
   }
 ]

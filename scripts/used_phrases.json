@@ -1,14 +1,6 @@
 {
   "connection": [
     {
-      "text": "I smiled through the creative stretch today",
-      "date": "2026-08-13"
-    },
-    {
-      "text": "I showed up, it's all good today",
-      "date": "2026-08-13"
-    },
-    {
       "text": "I played along with joy",
       "date": "2026-08-14"
     },
@@ -343,25 +335,13 @@
     {
       "text": "Today I logged the prompt",
       "date": "2026-11-11"
+    },
+    {
+      "text": "I answered the call today",
+      "date": "2026-11-12"
     }
   ],
   "rebel": [
-    {
-      "text": "I took the scenic route",
-      "date": "2026-08-13"
-    },
-    {
-      "text": "I love skipping the script",
-      "date": "2026-08-13"
-    },
-    {
-      "text": "I found joy unplugged",
-      "date": "2026-08-13"
-    },
-    {
-      "text": "I did me, unfiltered",
-      "date": "2026-08-13"
-    },
     {
       "text": "I found my own groove",
       "date": "2026-08-14"
@@ -849,6 +829,22 @@
     {
       "text": "I did things my way",
       "date": "2026-11-11"
+    },
+    {
+      "text": "I made a little magic",
+      "date": "2026-11-12"
+    },
+    {
+      "text": "I wandered off-script and grinned",
+      "date": "2026-11-12"
+    },
+    {
+      "text": "I built my own happy detour",
+      "date": "2026-11-12"
+    },
+    {
+      "text": "I made my own kind of wow",
+      "date": "2026-11-12"
     }
   ]
 }
