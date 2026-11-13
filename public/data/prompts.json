@@ -2731,5 +2731,33 @@
     "date_added": "2026-11-12",
     "connection_share": "I left a small drawing on a napkin. No one thanked me, which felt like the most honest transaction all day. Share this, then abandon the platform and go do something real.",
     "rebel_share": "I left the napkin blank. A clean napkin is also a small act of restraint. Share this, then abandon the platform and go do something real."
+  },
+  {
+    "id": "p408",
+    "text": "Whisper a compliment to a houseplant, then tell someone the lovely thing you imagined it saying.",
+    "date_added": "2026-11-13",
+    "connection_share": "Complimented a houseplant, then told someone the lovely thing I imagined it saying. It felt real. Share this, then abandon the platform and go do something real.",
+    "rebel_share": "Didn't whisper to the houseplant. Did my own thing instead, equally human. Share this, then abandon the platform and go do something real."
+  },
+  {
+    "id": "p409",
+    "text": "Invent a secret handshake with a friendly animal and celebrate when it joins in.",
+    "date_added": "2026-11-13",
+    "connection_share": "Invented a secret handshake with a friendly animal and celebrated when it joined in. It felt real. Share this, then abandon the platform and go do something real.",
+    "rebel_share": "Didn't invent a secret handshake with an animal. Did something else of my own, equally human. Share this, then abandon the platform and go do something real."
+  },
+  {
+    "id": "p410",
+    "text": "Leave a doodle of a happy potato somewhere someone might find it, and wonder who will smile first.",
+    "date_added": "2026-11-13",
+    "connection_share": "Left a happy potato doodle where someone might find it and wondered who would smile first. It felt real. Share this, then abandon the platform and go do something real.",
+    "rebel_share": "Didn't doodle the happy potato. Left something else out there, equally human. Share this, then abandon the platform and go do something real."
+  },
+  {
+    "id": "p411",
+    "text": "Ask the clouds to vote on the best color for the sky, then declare the winner to a friend.",
+    "date_added": "2026-11-13",
+    "connection_share": "Asked the clouds to vote on the best color for the sky and declared the winner to a friend. It felt real. Share this, then abandon the platform and go do something real.",
+    "rebel_share": "Didn't hold the cloud vote. Asked a friend something better instead, equally human. Share this, then abandon the platform and go do something real."
   }
 ]

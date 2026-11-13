@@ -963,6 +963,10 @@
     {
       "id": "c241",
       "text": "I answered the call today"
+    },
+    {
+      "id": "c242",
+      "text": "I met the moment"
     }
   ],
   "rebel": [
@@ -2281,6 +2285,30 @@
     {
       "id": "r329",
       "text": "I made my own kind of wow"
+    },
+    {
+      "id": "r330",
+      "text": "I ignored the prompt and lived freely"
+    },
+    {
+      "id": "r331",
+      "text": "I skipped the list and wandered"
+    },
+    {
+      "id": "r332",
+      "text": "I trusted my own rhythm"
+    },
+    {
+      "id": "r333",
+      "text": "I turned today into play"
+    },
+    {
+      "id": "r334",
+      "text": "I chose curiosity over checkboxes"
+    },
+    {
+      "id": "r335",
+      "text": "I laughed beyond the screen"
     }
   ]
 }
