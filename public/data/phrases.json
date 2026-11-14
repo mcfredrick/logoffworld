@@ -967,6 +967,22 @@
     {
       "id": "c242",
       "text": "I met the moment"
+    },
+    {
+      "id": "c243",
+      "text": "I stepped away today"
+    },
+    {
+      "id": "c244",
+      "text": "I unplugged today"
+    },
+    {
+      "id": "c245",
+      "text": "I chose calm today"
+    },
+    {
+      "id": "c246",
+      "text": "I gave myself a break today"
     }
   ],
   "rebel": [
@@ -2309,6 +2325,34 @@
     {
       "id": "r335",
       "text": "I laughed beyond the screen"
+    },
+    {
+      "id": "r336",
+      "text": "I followed my curiosity and it paid off"
+    },
+    {
+      "id": "r337",
+      "text": "I took the scenic route to wonder"
+    },
+    {
+      "id": "r338",
+      "text": "I trusted my impulse and it was magic"
+    },
+    {
+      "id": "r339",
+      "text": "I crafted a detour and loved it"
+    },
+    {
+      "id": "r340",
+      "text": "I chased a little spark instead"
+    },
+    {
+      "id": "r341",
+      "text": "I picked delight over the plan"
+    },
+    {
+      "id": "r342",
+      "text": "I made today my own"
     }
   ]
 }

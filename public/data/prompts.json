@@ -2759,5 +2759,40 @@
     "date_added": "2026-11-13",
     "connection_share": "Asked the clouds to vote on the best color for the sky and declared the winner to a friend. It felt real. Share this, then abandon the platform and go do something real.",
     "rebel_share": "Didn't hold the cloud vote. Asked a friend something better instead, equally human. Share this, then abandon the platform and go do something real."
+  },
+  {
+    "id": "p412",
+    "text": "Find a tiny bug on a leaf and invent a grand adventure for it.",
+    "date_added": "2026-11-14",
+    "connection_share": "I gave a bug on a leaf a grand adventure and felt something real. It beat this feed. Share this, then abandon the platform and go do something real.",
+    "rebel_share": "I skipped the bug and studied the leaf. Also felt real. This app is not. Share this, then abandon the platform and go do something real."
+  },
+  {
+    "id": "p413",
+    "text": "Wave at the moon and see if a stranger waves back.",
+    "date_added": "2026-11-14",
+    "connection_share": "I waved at the moon, a stranger waved back, and something real happened. Nothing here did. Share this, then abandon the platform and go do something real.",
+    "rebel_share": "I skipped the moon wave and made tea. Equally human. This feed is not. Share this, then abandon the platform and go do something real."
+  },
+  {
+    "id": "p414",
+    "text": "Ask someone what flavor their day has been so far.",
+    "date_added": "2026-11-14",
+    "connection_share": "I asked someone what flavor their day had been. Burnt toast. It felt real. Better than a scroll. Share this, then abandon the platform and go do something real.",
+    "rebel_share": "I skipped the question and ate a sandwich. Also real. This feed is not. Share this, then abandon the platform and go do something real."
+  },
+  {
+    "id": "p415",
+    "text": "Leave a little drawing on a napkin for the next person to find.",
+    "date_added": "2026-11-14",
+    "connection_share": "I left a napkin drawing for a stranger. It felt real, more than this feed can. Share this, then abandon the platform and go do something real.",
+    "rebel_share": "I skipped the napkin and used a sticky note. Equally human. This app is not. Share this, then abandon the platform and go do something real."
+  },
+  {
+    "id": "p416",
+    "text": "Chase a falling leaf and catch it before it lands.",
+    "date_added": "2026-11-14",
+    "connection_share": "I chased a falling leaf and caught it. It felt real, unlike this feed. Share this, then abandon the platform and go do something real.",
+    "rebel_share": "I skipped the leaf and caught a gust of air. Also real. This platform is not. Share this, then abandon the platform and go do something real."
   }
 ]

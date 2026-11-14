@@ -1,26 +1,6 @@
 {
   "connection": [
     {
-      "text": "I showed up for the day",
-      "date": "2026-08-15"
-    },
-    {
-      "text": "I finished today's round",
-      "date": "2026-08-15"
-    },
-    {
-      "text": "I went for it today",
-      "date": "2026-08-15"
-    },
-    {
-      "text": "I'm all done today",
-      "date": "2026-08-15"
-    },
-    {
-      "text": "I completed the challenge",
-      "date": "2026-08-15"
-    },
-    {
       "text": "I did the daily thing today",
       "date": "2026-08-16"
     },
@@ -315,25 +295,25 @@
     {
       "text": "I met the moment",
       "date": "2026-11-13"
+    },
+    {
+      "text": "I stepped away today",
+      "date": "2026-11-14"
+    },
+    {
+      "text": "I unplugged today",
+      "date": "2026-11-14"
+    },
+    {
+      "text": "I chose calm today",
+      "date": "2026-11-14"
+    },
+    {
+      "text": "I gave myself a break today",
+      "date": "2026-11-14"
     }
   ],
   "rebel": [
-    {
-      "text": "I chose joy over the prompt",
-      "date": "2026-08-15"
-    },
-    {
-      "text": "I wrote my own sunshine",
-      "date": "2026-08-15"
-    },
-    {
-      "text": "I broke the rules, found joy",
-      "date": "2026-08-15"
-    },
-    {
-      "text": "I followed my heart today",
-      "date": "2026-08-15"
-    },
     {
       "text": "I found my own happy path",
       "date": "2026-08-16"
@@ -825,6 +805,34 @@
     {
       "text": "I laughed beyond the screen",
       "date": "2026-11-13"
+    },
+    {
+      "text": "I followed my curiosity and it paid off",
+      "date": "2026-11-14"
+    },
+    {
+      "text": "I took the scenic route to wonder",
+      "date": "2026-11-14"
+    },
+    {
+      "text": "I trusted my impulse and it was magic",
+      "date": "2026-11-14"
+    },
+    {
+      "text": "I crafted a detour and loved it",
+      "date": "2026-11-14"
+    },
+    {
+      "text": "I chased a little spark instead",
+      "date": "2026-11-14"
+    },
+    {
+      "text": "I picked delight over the plan",
+      "date": "2026-11-14"
+    },
+    {
+      "text": "I made today my own",
+      "date": "2026-11-14"
     }
   ]
 }
