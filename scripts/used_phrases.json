@@ -1,18 +1,6 @@
 {
   "connection": [
     {
-      "text": "I did the daily thing today",
-      "date": "2026-08-16"
-    },
-    {
-      "text": "I embraced the daily prompt",
-      "date": "2026-08-16"
-    },
-    {
-      "text": "I showed up and it was fun",
-      "date": "2026-08-16"
-    },
-    {
       "text": "I completed the prompt satisfied",
       "date": "2026-08-17"
     },
@@ -311,21 +299,41 @@
     {
       "text": "I gave myself a break today",
       "date": "2026-11-14"
+    },
+    {
+      "text": "Today I gave it a real shot",
+      "date": "2026-11-15"
+    },
+    {
+      "text": "One small step, fully done",
+      "date": "2026-11-15"
+    },
+    {
+      "text": "I logged off and it felt good",
+      "date": "2026-11-15"
+    },
+    {
+      "text": "I made a little space for me",
+      "date": "2026-11-15"
+    },
+    {
+      "text": "I paused, breathed, and showed up",
+      "date": "2026-11-15"
+    },
+    {
+      "text": "Today counts, and I did it",
+      "date": "2026-11-15"
+    },
+    {
+      "text": "I was here, fully present today",
+      "date": "2026-11-15"
+    },
+    {
+      "text": "I gave today my honest try",
+      "date": "2026-11-15"
     }
   ],
   "rebel": [
-    {
-      "text": "I found my own happy path",
-      "date": "2026-08-16"
-    },
-    {
-      "text": "I logged off into wonder",
-      "date": "2026-08-16"
-    },
-    {
-      "text": "I ditched the list for sky",
-      "date": "2026-08-16"
-    },
     {
       "text": "I made art instead of scrolling",
       "date": "2026-08-17"
@@ -833,6 +841,26 @@
     {
       "text": "I made today my own",
       "date": "2026-11-14"
+    },
+    {
+      "text": "I wrote my own joyful script today",
+      "date": "2026-11-15"
+    },
+    {
+      "text": "I turned today into my own adventure",
+      "date": "2026-11-15"
+    },
+    {
+      "text": "I skipped the prompt and chased delight",
+      "date": "2026-11-15"
+    },
+    {
+      "text": "I made ordinary moments feel electric",
+      "date": "2026-11-15"
+    },
+    {
+      "text": "I discovered my own kind of magic",
+      "date": "2026-11-15"
     }
   ]
 }

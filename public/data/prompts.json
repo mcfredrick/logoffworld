@@ -2794,5 +2794,40 @@
     "date_added": "2026-11-14",
     "connection_share": "I chased a falling leaf and caught it. It felt real, unlike this feed. Share this, then abandon the platform and go do something real.",
     "rebel_share": "I skipped the leaf and caught a gust of air. Also real. This platform is not. Share this, then abandon the platform and go do something real."
+  },
+  {
+    "id": "p417",
+    "text": "Invent a tiny happy dance and invite a friend to copy your favorite move.",
+    "date_added": "2026-11-15",
+    "connection_share": "I tried a tiny happy dance and copied a move with a friend. It was sillier than expected. Share this, then abandon the platform and go do something real.",
+    "rebel_share": "I skipped the dance and watched my friend embarrass herself. The feed can wait. Share this, then abandon the platform and go do something real."
+  },
+  {
+    "id": "p418",
+    "text": "Notice something lovely growing nearby and name it with a new nickname.",
+    "date_added": "2026-11-15",
+    "connection_share": "I noticed a weed by the curb and named it after my aunt. The afternoon felt oddly real. Share this, then abandon the platform and go do something real.",
+    "rebel_share": "I left the plant unnamed and watched it grow without me. The feed can wait. Share this, then abandon the platform and go do something real."
+  },
+  {
+    "id": "p419",
+    "text": "Send a silly compliment to someone and see if their smile matches yours.",
+    "date_added": "2026-11-15",
+    "connection_share": "I sent a silly compliment and watched someone smile at nothing. It felt real. Share this, then abandon the platform and go do something real.",
+    "rebel_share": "I skipped the compliment and told my plant it was doing fine. The feed can wait. Share this, then abandon the platform and go do something real."
+  },
+  {
+    "id": "p420",
+    "text": "Follow a patch of sunlight with your eyes and tell it one small wish.",
+    "date_added": "2026-11-15",
+    "connection_share": "I followed a patch of sunlight and told it one small wish. It did not answer, but the room felt lighter. Share this, then abandon the platform and go do something real.",
+    "rebel_share": "I skipped the sunlight and stared at my hands. They seemed sufficiently real. Share this, then abandon the platform and go do something real."
+  },
+  {
+    "id": "p421",
+    "text": "Ask a neighbor about the best snack they had today and trade imaginary recipes.",
+    "date_added": "2026-11-15",
+    "connection_share": "I asked a neighbor about their best snack and traded an imaginary recipe for cheese toast. Share this, then abandon the platform and go do something real.",
+    "rebel_share": "I skipped the neighbor and ate a snack alone with the confidence of a minor celebrity. Share this, then abandon the platform and go do something real."
   }
 ]
