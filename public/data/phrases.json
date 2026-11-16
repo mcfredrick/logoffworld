@@ -1015,6 +1015,26 @@
     {
       "id": "c254",
       "text": "I gave today my honest try"
+    },
+    {
+      "id": "c255",
+      "text": "I made it happen today"
+    },
+    {
+      "id": "c256",
+      "text": "I showed my face today"
+    },
+    {
+      "id": "c257",
+      "text": "I kept today light"
+    },
+    {
+      "id": "c258",
+      "text": "I chose to begin today"
+    },
+    {
+      "id": "c259",
+      "text": "I stayed curious today"
     }
   ],
   "rebel": [
@@ -2405,6 +2425,26 @@
     {
       "id": "r347",
       "text": "I discovered my own kind of magic"
+    },
+    {
+      "id": "r348",
+      "text": "I ignored the instructions and danced"
+    },
+    {
+      "id": "r349",
+      "text": "I chose my own adventure today"
+    },
+    {
+      "id": "r350",
+      "text": "I wandered off and found wonder"
+    },
+    {
+      "id": "r351",
+      "text": "I broke the rules, kept the fun"
+    },
+    {
+      "id": "r352",
+      "text": "I improvised and loved every minute"
     }
   ]
 }

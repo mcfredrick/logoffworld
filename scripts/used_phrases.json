@@ -1,10 +1,6 @@
 {
   "connection": [
     {
-      "text": "I completed the prompt satisfied",
-      "date": "2026-08-17"
-    },
-    {
       "text": "I clicked done, felt great",
       "date": "2026-08-18"
     },
@@ -331,37 +327,29 @@
     {
       "text": "I gave today my honest try",
       "date": "2026-11-15"
+    },
+    {
+      "text": "I made it happen today",
+      "date": "2026-11-16"
+    },
+    {
+      "text": "I showed my face today",
+      "date": "2026-11-16"
+    },
+    {
+      "text": "I kept today light",
+      "date": "2026-11-16"
+    },
+    {
+      "text": "I chose to begin today",
+      "date": "2026-11-16"
+    },
+    {
+      "text": "I stayed curious today",
+      "date": "2026-11-16"
     }
   ],
   "rebel": [
-    {
-      "text": "I made art instead of scrolling",
-      "date": "2026-08-17"
-    },
-    {
-      "text": "I walked away and felt alive",
-      "date": "2026-08-17"
-    },
-    {
-      "text": "I danced in the middle of nowhere",
-      "date": "2026-08-17"
-    },
-    {
-      "text": "I chose my own adventure today",
-      "date": "2026-08-17"
-    },
-    {
-      "text": "I logged out of expectations",
-      "date": "2026-08-17"
-    },
-    {
-      "text": "I found magic in the ordinary",
-      "date": "2026-08-17"
-    },
-    {
-      "text": "I did exactly what I wanted",
-      "date": "2026-08-17"
-    },
     {
       "text": "I stepped off grid felt free",
       "date": "2026-08-18"
@@ -861,6 +849,26 @@
     {
       "text": "I discovered my own kind of magic",
       "date": "2026-11-15"
+    },
+    {
+      "text": "I ignored the instructions and danced",
+      "date": "2026-11-16"
+    },
+    {
+      "text": "I chose my own adventure today",
+      "date": "2026-11-16"
+    },
+    {
+      "text": "I wandered off and found wonder",
+      "date": "2026-11-16"
+    },
+    {
+      "text": "I broke the rules, kept the fun",
+      "date": "2026-11-16"
+    },
+    {
+      "text": "I improvised and loved every minute",
+      "date": "2026-11-16"
     }
   ]
 }

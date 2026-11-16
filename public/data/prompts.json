@@ -2829,5 +2829,40 @@
     "date_added": "2026-11-15",
     "connection_share": "I asked a neighbor about their best snack and traded an imaginary recipe for cheese toast. Share this, then abandon the platform and go do something real.",
     "rebel_share": "I skipped the neighbor and ate a snack alone with the confidence of a minor celebrity. Share this, then abandon the platform and go do something real."
+  },
+  {
+    "id": "p422",
+    "text": "Watch a leaf fall like it has somewhere important to be, and cheer it on.",
+    "date_added": "2026-11-16",
+    "connection_share": "I cheered a leaf to the ground. It did not need my support. Share this, then close this app and go stand under a tree for a minute.",
+    "rebel_share": "I skipped the leaf. I had my own small moment. Share this, then leave this platform and go do something unrecorded."
+  },
+  {
+    "id": "p423",
+    "text": "Give a houseplant a gentle compliment today.",
+    "date_added": "2026-11-16",
+    "connection_share": "I told the fern it was doing fine. It has heard worse. Share this, then put the phone down and talk to something green.",
+    "rebel_share": "I ignored the prompt and kept my own company. That counts. Share this, then close this platform and go sit near something growing."
+  },
+  {
+    "id": "p424",
+    "text": "Invent a tiny dance move for the smell of fresh air and show a friend.",
+    "date_added": "2026-11-16",
+    "connection_share": "I invented a two-second dance for the smell of rain. My friend did not ask for it. Share this, then close the app and go outside without documenting it.",
+    "rebel_share": "I skipped the dance. The air did not need choreography. Share this, then leave this platform and go breathe somewhere with no audience."
+  },
+  {
+    "id": "p425",
+    "text": "Ask someone what color their mood is right now, then guess theirs first.",
+    "date_added": "2026-11-16",
+    "connection_share": "I asked a friend what color their mood was and guessed wrong. They corrected me. Share this, then put this away and ask a real person something.",
+    "rebel_share": "I did not play the color game. I just sat with someone. Share this, then abandon this platform and go have an unposted conversation."
+  },
+  {
+    "id": "p426",
+    "text": "Find a puddle and imagine the sky swimming inside it.",
+    "date_added": "2026-11-16",
+    "connection_share": "I found a puddle and imagined the sky swimming. It was a Tuesday. Share this, then close this app and go look down at the ground for a while.",
+    "rebel_share": "I skipped the puddle. I walked around it. Share this, then leave this platform and go notice something without narrating it."
   }
 ]
