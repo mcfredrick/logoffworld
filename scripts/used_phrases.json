@@ -1,14 +1,6 @@
 {
   "connection": [
     {
-      "text": "I clicked done, felt great",
-      "date": "2026-08-18"
-    },
-    {
-      "text": "I logged the win today",
-      "date": "2026-08-18"
-    },
-    {
       "text": "I took the prompt seriously",
       "date": "2026-08-19"
     },
@@ -347,17 +339,37 @@
     {
       "text": "I stayed curious today",
       "date": "2026-11-16"
+    },
+    {
+      "text": "I showed up for today, fully.",
+      "date": "2026-11-17"
+    },
+    {
+      "text": "I did the thing and meant it.",
+      "date": "2026-11-17"
+    },
+    {
+      "text": "I took the leap, even a small one.",
+      "date": "2026-11-17"
+    },
+    {
+      "text": "I made room for the real world.",
+      "date": "2026-11-17"
+    },
+    {
+      "text": "I gave myself this moment.",
+      "date": "2026-11-17"
+    },
+    {
+      "text": "I put the phone down and stayed.",
+      "date": "2026-11-17"
+    },
+    {
+      "text": "I let today be enough.",
+      "date": "2026-11-17"
     }
   ],
   "rebel": [
-    {
-      "text": "I stepped off grid felt free",
-      "date": "2026-08-18"
-    },
-    {
-      "text": "I took the day off found joy",
-      "date": "2026-08-18"
-    },
     {
       "text": "I stepped off the beaten path",
       "date": "2026-08-19"
@@ -869,6 +881,26 @@
     {
       "text": "I improvised and loved every minute",
       "date": "2026-11-16"
+    },
+    {
+      "text": "My detour turned into the best kind of day",
+      "date": "2026-11-17"
+    },
+    {
+      "text": "I ignored the script and wrote my own joy",
+      "date": "2026-11-17"
+    },
+    {
+      "text": "I made today mine with zero regrets",
+      "date": "2026-11-17"
+    },
+    {
+      "text": "I traded the prompt for a little real-life magic",
+      "date": "2026-11-17"
+    },
+    {
+      "text": "I broke the rules and found pure delight",
+      "date": "2026-11-17"
     }
   ]
 }

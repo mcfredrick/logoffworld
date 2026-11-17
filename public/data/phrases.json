@@ -1035,6 +1035,34 @@
     {
       "id": "c259",
       "text": "I stayed curious today"
+    },
+    {
+      "id": "c260",
+      "text": "I showed up for today, fully."
+    },
+    {
+      "id": "c261",
+      "text": "I did the thing and meant it."
+    },
+    {
+      "id": "c262",
+      "text": "I took the leap, even a small one."
+    },
+    {
+      "id": "c263",
+      "text": "I made room for the real world."
+    },
+    {
+      "id": "c264",
+      "text": "I gave myself this moment."
+    },
+    {
+      "id": "c265",
+      "text": "I put the phone down and stayed."
+    },
+    {
+      "id": "c266",
+      "text": "I let today be enough."
     }
   ],
   "rebel": [
@@ -2445,6 +2473,26 @@
     {
       "id": "r352",
       "text": "I improvised and loved every minute"
+    },
+    {
+      "id": "r353",
+      "text": "My detour turned into the best kind of day"
+    },
+    {
+      "id": "r354",
+      "text": "I ignored the script and wrote my own joy"
+    },
+    {
+      "id": "r355",
+      "text": "I made today mine with zero regrets"
+    },
+    {
+      "id": "r356",
+      "text": "I traded the prompt for a little real-life magic"
+    },
+    {
+      "id": "r357",
+      "text": "I broke the rules and found pure delight"
     }
   ]
 }

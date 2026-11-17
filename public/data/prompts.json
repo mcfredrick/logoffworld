@@ -2864,5 +2864,40 @@
     "date_added": "2026-11-16",
     "connection_share": "I found a puddle and imagined the sky swimming. It was a Tuesday. Share this, then close this app and go look down at the ground for a while.",
     "rebel_share": "I skipped the puddle. I walked around it. Share this, then leave this platform and go notice something without narrating it."
+  },
+  {
+    "id": "p427",
+    "text": "Pick a leaf, a pebble, or a pinecone and give it a tiny grand tour of your day.",
+    "date_added": "2026-11-17",
+    "connection_share": "I gave a pebble a grand tour of my day. It saw chores and one dramatic pigeon. Share this, then abandon the platform and go do something real.",
+    "rebel_share": "I skipped the pebble tour and gave my full attention to the ceiling instead. It needed it. Share this, then abandon the platform and go do something real."
+  },
+  {
+    "id": "p428",
+    "text": "Send a voice note to a friend describing the most ridiculous sound you heard today.",
+    "date_added": "2026-11-17",
+    "connection_share": "I sent a voice note about a fridge humming in the key of Mild Panic. My friend said thanks. Share this, then abandon the platform and go do something real.",
+    "rebel_share": "I ignored the voice note and listened to the fridge directly. It hummed back. We are close now. Share this, then abandon the platform and go do something real."
+  },
+  {
+    "id": "p429",
+    "text": "Stand under a tree and try to spot a squirrel with better posture than you.",
+    "date_added": "2026-11-17",
+    "connection_share": "I stood under a tree and found no squirrel with better posture than me. One did appear smug, though. Share this, then abandon the platform and go do something real.",
+    "rebel_share": "I skipped the squirrel inspection and stood under a tree doing absolutely nothing. It went well. Share this, then abandon the platform and go do something real."
+  },
+  {
+    "id": "p430",
+    "text": "Compliment a stranger on their shoes, then invent the adventure those shoes just finished.",
+    "date_added": "2026-11-17",
+    "connection_share": "I complimented a stranger's shoes and invented their last adventure. They looked pleased to be back. Share this, then abandon the platform and go do something real.",
+    "rebel_share": "I did not compliment anyone's shoes. I admired a pigeon's commitment to looking harmless. Share this, then abandon the platform and go do something real."
+  },
+  {
+    "id": "p431",
+    "text": "Take a five-minute walk with no destination and let the first interesting window choose your direction.",
+    "date_added": "2026-11-17",
+    "connection_share": "I took a five-minute walk with no destination. A bakery window chose for me, and I respected it. Share this, then abandon the platform and go do something real.",
+    "rebel_share": "I skipped the walk and let the first interesting window be the microwave door. It was lit. Share this, then abandon the platform and go do something real."
   }
 ]
