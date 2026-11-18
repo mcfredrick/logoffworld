@@ -2899,5 +2899,40 @@
     "date_added": "2026-11-17",
     "connection_share": "I took a five-minute walk with no destination. A bakery window chose for me, and I respected it. Share this, then abandon the platform and go do something real.",
     "rebel_share": "I skipped the walk and let the first interesting window be the microwave door. It was lit. Share this, then abandon the platform and go do something real."
+  },
+  {
+    "id": "p432",
+    "text": "Find a leaf shaped like a smile and hold it up to your own face for a stranger to see.",
+    "date_added": "2026-11-18",
+    "connection_share": "Held a leaf shaped like a smile up to my face until a stranger saw. I felt something loosen. Share this, then close the app and go outside, where the leaves are.",
+    "rebel_share": "Skipped the prompt. Found a leaf shaped like a smile anyway, no audience. Sharing this, then abandoning this app to go find more things nobody will see."
+  },
+  {
+    "id": "p433",
+    "text": "Ask someone what the sky looked like when they were little.",
+    "date_added": "2026-11-18",
+    "connection_share": "Asked someone what the sky looked like when they were little. They said purple, over a gas station. Then I looked up. Share this and go outside. The sky is still there.",
+    "rebel_share": "Did not ask anyone about the sky. Walked outside and looked at it alone, badly, for a while. Share this, then put the phone down and go be under it."
+  },
+  {
+    "id": "p434",
+    "text": "Give the first cloud you see a silly name and whisper it to a nearby tree.",
+    "date_added": "2026-11-18",
+    "connection_share": "Named a cloud Deborah and told a tree. Felt ridiculous, then felt better. Share this, then shut this app down and go talk to something with roots.",
+    "rebel_share": "Named a cloud something unrepeatable and told no one. The tree kept its opinion to itself. Share this, then close the app and go outside."
+  },
+  {
+    "id": "p435",
+    "text": "Take a walk in the rain and tell the puddles they look fabulous.",
+    "date_added": "2026-11-18",
+    "connection_share": "Complimented a puddle in the rain. Meant it. Share this, then close the app and go stand in actual weather.",
+    "rebel_share": "Walked in the rain without narrating any of it to a puddle or a stranger. Share this, then close the app and go get wet on your own terms."
+  },
+  {
+    "id": "p436",
+    "text": "Invent a tiny dance for a flower and invite a friend to join in.",
+    "date_added": "2026-11-18",
+    "connection_share": "Invented a small dance for one flower and a friend joined in. Nothing happened and it was the best part of the week. Share this, then close this app and go do that.",
+    "rebel_share": "Made up a dance for a flower and performed it with total dignity. No audience, no witnesses, no record. Share this, then close the app and go be that ridiculous somewhere."
   }
 ]
