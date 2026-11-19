@@ -1075,6 +1075,30 @@
     {
       "id": "c269",
       "text": "I played along, just because"
+    },
+    {
+      "id": "c270",
+      "text": "I gave today my full attention"
+    },
+    {
+      "id": "c271",
+      "text": "I trusted the prompt and jumped in"
+    },
+    {
+      "id": "c272",
+      "text": "I turned the page for today"
+    },
+    {
+      "id": "c273",
+      "text": "I let curiosity lead today"
+    },
+    {
+      "id": "c274",
+      "text": "I celebrated a small win today"
+    },
+    {
+      "id": "c275",
+      "text": "I chose presence over perfection"
     }
   ],
   "rebel": [
@@ -2509,6 +2533,26 @@
     {
       "id": "r358",
       "text": "I followed curiosity instead of instructions"
+    },
+    {
+      "id": "r359",
+      "text": "I chased my own rabbit hole"
+    },
+    {
+      "id": "r360",
+      "text": "I turned the page myself"
+    },
+    {
+      "id": "r361",
+      "text": "I answered my own call"
+    },
+    {
+      "id": "r362",
+      "text": "I danced to my own plan"
+    },
+    {
+      "id": "r363",
+      "text": "I built a better detour"
     }
   ]
 }

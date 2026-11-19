@@ -1,14 +1,6 @@
 {
   "connection": [
     {
-      "text": "I completed today's creative task",
-      "date": "2026-08-20"
-    },
-    {
-      "text": "I took a swing at the prompt",
-      "date": "2026-08-20"
-    },
-    {
       "text": "Prompt completed, feeling great",
       "date": "2026-08-21"
     },
@@ -371,25 +363,33 @@
     {
       "text": "I played along, just because",
       "date": "2026-11-18"
+    },
+    {
+      "text": "I gave today my full attention",
+      "date": "2026-11-19"
+    },
+    {
+      "text": "I trusted the prompt and jumped in",
+      "date": "2026-11-19"
+    },
+    {
+      "text": "I turned the page for today",
+      "date": "2026-11-19"
+    },
+    {
+      "text": "I let curiosity lead today",
+      "date": "2026-11-19"
+    },
+    {
+      "text": "I celebrated a small win today",
+      "date": "2026-11-19"
+    },
+    {
+      "text": "I chose presence over perfection",
+      "date": "2026-11-19"
     }
   ],
   "rebel": [
-    {
-      "text": "I painted my own sky",
-      "date": "2026-08-20"
-    },
-    {
-      "text": "I played hooky to happiness",
-      "date": "2026-08-20"
-    },
-    {
-      "text": "I found freedom today",
-      "date": "2026-08-20"
-    },
-    {
-      "text": "I logged out and bloomed",
-      "date": "2026-08-20"
-    },
     {
       "text": "I did my own thing and loved it",
       "date": "2026-08-21"
@@ -897,6 +897,26 @@
     {
       "text": "I followed curiosity instead of instructions",
       "date": "2026-11-18"
+    },
+    {
+      "text": "I chased my own rabbit hole",
+      "date": "2026-11-19"
+    },
+    {
+      "text": "I turned the page myself",
+      "date": "2026-11-19"
+    },
+    {
+      "text": "I answered my own call",
+      "date": "2026-11-19"
+    },
+    {
+      "text": "I danced to my own plan",
+      "date": "2026-11-19"
+    },
+    {
+      "text": "I built a better detour",
+      "date": "2026-11-19"
     }
   ]
 }
