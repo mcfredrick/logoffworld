@@ -1099,6 +1099,26 @@
     {
       "id": "c275",
       "text": "I chose presence over perfection"
+    },
+    {
+      "id": "c276",
+      "text": "I showed up and gave it my all"
+    },
+    {
+      "id": "c277",
+      "text": "I did the thing today, no excuses"
+    },
+    {
+      "id": "c278",
+      "text": "I took today's prompt for a spin"
+    },
+    {
+      "id": "c279",
+      "text": "I did my bit today"
+    },
+    {
+      "id": "c280",
+      "text": "I checked in and checked it off"
     }
   ],
   "rebel": [
@@ -2553,6 +2573,26 @@
     {
       "id": "r363",
       "text": "I built a better detour"
+    },
+    {
+      "id": "r364",
+      "text": "I went wandering instead and loved it"
+    },
+    {
+      "id": "r365",
+      "text": "I followed a random spark and it glowed"
+    },
+    {
+      "id": "r366",
+      "text": "I did my own thing and nailed it"
+    },
+    {
+      "id": "r367",
+      "text": "I ignored the plan and found magic"
+    },
+    {
+      "id": "r368",
+      "text": "I picked my own happy path today"
     }
   ]
 }

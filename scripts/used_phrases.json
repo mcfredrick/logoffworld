@@ -1,22 +1,6 @@
 {
   "connection": [
     {
-      "text": "Prompt completed, feeling great",
-      "date": "2026-08-21"
-    },
-    {
-      "text": "Today's prompt, accepted!",
-      "date": "2026-08-21"
-    },
-    {
-      "text": "Prompt done, vibes high",
-      "date": "2026-08-21"
-    },
-    {
-      "text": "I showed up, prompt done",
-      "date": "2026-08-21"
-    },
-    {
       "text": "I aced today's task",
       "date": "2026-08-22"
     },
@@ -387,13 +371,29 @@
     {
       "text": "I chose presence over perfection",
       "date": "2026-11-19"
+    },
+    {
+      "text": "I showed up and gave it my all",
+      "date": "2026-11-20"
+    },
+    {
+      "text": "I did the thing today, no excuses",
+      "date": "2026-11-20"
+    },
+    {
+      "text": "I took today's prompt for a spin",
+      "date": "2026-11-20"
+    },
+    {
+      "text": "I did my bit today",
+      "date": "2026-11-20"
+    },
+    {
+      "text": "I checked in and checked it off",
+      "date": "2026-11-20"
     }
   ],
   "rebel": [
-    {
-      "text": "I did my own thing and loved it",
-      "date": "2026-08-21"
-    },
     {
       "text": "I chose fun over the feed",
       "date": "2026-08-22"
@@ -917,6 +917,26 @@
     {
       "text": "I built a better detour",
       "date": "2026-11-19"
+    },
+    {
+      "text": "I went wandering instead and loved it",
+      "date": "2026-11-20"
+    },
+    {
+      "text": "I followed a random spark and it glowed",
+      "date": "2026-11-20"
+    },
+    {
+      "text": "I did my own thing and nailed it",
+      "date": "2026-11-20"
+    },
+    {
+      "text": "I ignored the plan and found magic",
+      "date": "2026-11-20"
+    },
+    {
+      "text": "I picked my own happy path today",
+      "date": "2026-11-20"
     }
   ]
 }
