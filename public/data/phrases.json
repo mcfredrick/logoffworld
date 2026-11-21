@@ -1119,6 +1119,18 @@
     {
       "id": "c280",
       "text": "I checked in and checked it off"
+    },
+    {
+      "id": "c281",
+      "text": "I kept my promise to myself today"
+    },
+    {
+      "id": "c282",
+      "text": "I finished what I started today"
+    },
+    {
+      "id": "c283",
+      "text": "I chose to show up anyway"
     }
   ],
   "rebel": [
@@ -2593,6 +2605,22 @@
     {
       "id": "r368",
       "text": "I picked my own happy path today"
+    },
+    {
+      "id": "r369",
+      "text": "I made room for wild joy"
+    },
+    {
+      "id": "r370",
+      "text": "I wandered into delight"
+    },
+    {
+      "id": "r371",
+      "text": "I trusted my playful side"
+    },
+    {
+      "id": "r372",
+      "text": "I let curiosity lead the way"
     }
   ]
 }

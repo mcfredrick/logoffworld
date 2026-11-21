@@ -3004,5 +3004,40 @@
     "date_added": "2026-11-20",
     "connection_share": "Told a friend their hello sounds like the first page of a good book. They lit up. Share this, then log off and say something true to someone's face.",
     "rebel_share": "Skipped the compliment. Said hello to a stranger and meant it. Share this, then close this down and go be warm to someone in person."
+  },
+  {
+    "id": "p447",
+    "text": "Blow a kiss to a tree you've never met and see if it sways back.",
+    "date_added": "2026-11-21",
+    "connection_share": "I blew a kiss at a tree I will never meet again. It moved. Could have been wind, could have been manners. Share this, then close the app and go stand near something with roots.",
+    "rebel_share": "I skipped the tree. It seemed to be doing fine without my affection. Share this anyway, then leave this place and go be somewhere with weather."
+  },
+  {
+    "id": "p448",
+    "text": "Give a stranger a compliment about something they chose, like a color or a doodle on their cup.",
+    "date_added": "2026-11-21",
+    "connection_share": "Told a stranger their coat was a good decision. They lit up like I had handed them money. Share this, then go say something kind to an actual face instead of a feed.",
+    "rebel_share": "Kept my compliment to myself. Not every good thought needs a recipient. Share this, then close this and go be near people without performing at them."
+  },
+  {
+    "id": "p449",
+    "text": "Invent a tiny dance move and teach it to the nearest pet, plant, or willing friend.",
+    "date_added": "2026-11-21",
+    "connection_share": "Invented a move called the slow elbow and taught it to a dog, who was polite about it. Share this, then go dance badly somewhere no one is filming.",
+    "rebel_share": "Did not invent a dance. My body and I have an understanding. Share this, then log off and move around a room for no reason anyone will ever see."
+  },
+  {
+    "id": "p450",
+    "text": "Listen to the first three sounds around you and name them as if they were a new band.",
+    "date_added": "2026-11-21",
+    "connection_share": "Three sounds, one band: Fridge Hum and the Small Bells. They are not touring. Share this, then put the phone down and go hear the room you are sitting in.",
+    "rebel_share": "Did not name the sounds. Some things are better left unbranded. Share this, then leave here and sit somewhere quiet enough to actually notice it."
+  },
+  {
+    "id": "p451",
+    "text": "Pick a window, look for ten seconds, and tell someone the most interesting thing you notice.",
+    "date_added": "2026-11-21",
+    "connection_share": "Watched a window for ten seconds. A man carried a lamp down the street. Share this, then close this and go look at something that is not glowing.",
+    "rebel_share": "Did not pick a window. Picked a wall instead, and honestly it had more to say. Share this, then log off and go look at anything that is not a screen."
   }
 ]
